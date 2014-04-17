@@ -1,0 +1,311 @@
+Starting CloudStorageImprove ...
+Initialising...
+File CloudFile0-blk1-rep0 who's id is 0 is inited!
+File CloudFile0-blk1-rep1 who's id is 1 is inited!
+File CloudFile0-blk1-rep2 who's id is 2 is inited!
+File CloudFile1-blk1-rep0 who's id is 3 is inited!
+File CloudFile1-blk1-rep1 who's id is 4 is inited!
+File CloudFile1-blk1-rep2 who's id is 5 is inited!
+File CloudFile2-blk1-rep0 who's id is 6 is inited!
+File CloudFile2-blk1-rep1 who's id is 7 is inited!
+File CloudFile2-blk1-rep2 who's id is 8 is inited!
+File CloudFile3-blk1-rep0 who's id is 9 is inited!
+File CloudFile3-blk1-rep1 who's id is 10 is inited!
+File CloudFile3-blk1-rep2 who's id is 11 is inited!
+File CloudFile4-blk1-rep0 who's id is 12 is inited!
+File CloudFile4-blk1-rep1 who's id is 13 is inited!
+File CloudFile4-blk1-rep2 who's id is 14 is inited!
+File CloudFile5-blk1-rep0 who's id is 15 is inited!
+File CloudFile5-blk1-rep1 who's id is 16 is inited!
+File CloudFile5-blk1-rep2 who's id is 17 is inited!
+File CloudFile6-blk1-rep0 who's id is 18 is inited!
+File CloudFile6-blk1-rep1 who's id is 19 is inited!
+File CloudFile6-blk1-rep2 who's id is 20 is inited!
+File CloudFile7-blk1-rep0 who's id is 21 is inited!
+File CloudFile7-blk1-rep1 who's id is 22 is inited!
+File CloudFile7-blk1-rep2 who's id is 23 is inited!
+File CloudFile8-blk1-rep0 who's id is 24 is inited!
+File CloudFile8-blk1-rep1 who's id is 25 is inited!
+File CloudFile8-blk1-rep2 who's id is 26 is inited!
+File CloudFile9-blk1-rep0 who's id is 27 is inited!
+File CloudFile9-blk1-rep1 who's id is 28 is inited!
+File CloudFile9-blk1-rep2 who's id is 29 is inited!
+File CloudFile10-blk1-rep0 who's id is 30 is inited!
+File CloudFile10-blk1-rep1 who's id is 31 is inited!
+File CloudFile10-blk1-rep2 who's id is 32 is inited!
+File CloudFile11-blk1-rep0 who's id is 33 is inited!
+File CloudFile11-blk1-rep1 who's id is 34 is inited!
+File CloudFile11-blk1-rep2 who's id is 35 is inited!
+File CloudFile12-blk1-rep0 who's id is 36 is inited!
+File CloudFile12-blk1-rep1 who's id is 37 is inited!
+File CloudFile12-blk1-rep2 who's id is 38 is inited!
+File CloudFile13-blk1-rep0 who's id is 39 is inited!
+File CloudFile13-blk1-rep1 who's id is 40 is inited!
+File CloudFile13-blk1-rep2 who's id is 41 is inited!
+File CloudFile14-blk1-rep0 who's id is 42 is inited!
+File CloudFile14-blk1-rep1 who's id is 43 is inited!
+File CloudFile14-blk1-rep2 who's id is 44 is inited!
+it take 10.6575 seconds to write the replica #0to be stored in datacenter Datacenter_0 node #18
+it take 13.0125 seconds to write the replica #1to be stored in datacenter Datacenter_0 node #10
+it take 16.0225 seconds to write the replica #2to be stored in datacenter Datacenter_0 node #5
+it take 10.6575 seconds to write the replica #3to be stored in datacenter Datacenter_0 node #13
+it take 16.0225 seconds to write the replica #4to be stored in datacenter Datacenter_0 node #1
+it take 10.6575 seconds to write the replica #5to be stored in datacenter Datacenter_0 node #14
+it take 16.0225 seconds to write the replica #6to be stored in datacenter Datacenter_0 node #4
+it take 16.0225 seconds to write the replica #7to be stored in datacenter Datacenter_0 node #4
+it take 13.0125 seconds to write the replica #8to be stored in datacenter Datacenter_0 node #6
+it take 14.096250000000001 seconds to write the replica #9to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #10to be stored in datacenter Datacenter_0 node #2
+it take 13.0125 seconds to write the replica #11to be stored in datacenter Datacenter_0 node #10
+it take 13.0125 seconds to write the replica #12to be stored in datacenter Datacenter_0 node #7
+it take 16.0225 seconds to write the replica #13to be stored in datacenter Datacenter_0 node #3
+it take 10.6575 seconds to write the replica #14to be stored in datacenter Datacenter_0 node #18
+it take 10.6575 seconds to write the replica #15to be stored in datacenter Datacenter_0 node #11
+it take 10.6575 seconds to write the replica #16to be stored in datacenter Datacenter_0 node #11
+it take 10.6575 seconds to write the replica #17to be stored in datacenter Datacenter_0 node #18
+it take 14.096250000000001 seconds to write the replica #18to be stored in datacenter Datacenter_0 node #0
+it take 10.6575 seconds to write the replica #19to be stored in datacenter Datacenter_0 node #16
+it take 13.0125 seconds to write the replica #20to be stored in datacenter Datacenter_0 node #6
+it take 10.6575 seconds to write the replica #21to be stored in datacenter Datacenter_0 node #18
+it take 10.6575 seconds to write the replica #22to be stored in datacenter Datacenter_0 node #14
+it take 10.6575 seconds to write the replica #23to be stored in datacenter Datacenter_0 node #11
+it take 10.6575 seconds to write the replica #24to be stored in datacenter Datacenter_0 node #16
+it take 13.0125 seconds to write the replica #25to be stored in datacenter Datacenter_0 node #8
+it take 10.6575 seconds to write the replica #26to be stored in datacenter Datacenter_0 node #11
+it take 10.6575 seconds to write the replica #27to be stored in datacenter Datacenter_0 node #18
+it take 16.0225 seconds to write the replica #28to be stored in datacenter Datacenter_0 node #3
+it take 10.6575 seconds to write the replica #29to be stored in datacenter Datacenter_0 node #12
+it take 10.6575 seconds to write the replica #30to be stored in datacenter Datacenter_0 node #17
+it take 10.6575 seconds to write the replica #31to be stored in datacenter Datacenter_0 node #17
+it take 10.6575 seconds to write the replica #32to be stored in datacenter Datacenter_0 node #12
+it take 13.0125 seconds to write the replica #33to be stored in datacenter Datacenter_0 node #9
+it take 13.0125 seconds to write the replica #34to be stored in datacenter Datacenter_0 node #10
+it take 13.0125 seconds to write the replica #35to be stored in datacenter Datacenter_0 node #10
+it take 10.6575 seconds to write the replica #36to be stored in datacenter Datacenter_0 node #16
+it take 13.0125 seconds to write the replica #37to be stored in datacenter Datacenter_0 node #10
+it take 13.0125 seconds to write the replica #38to be stored in datacenter Datacenter_0 node #7
+it take 10.754999999999999 seconds to write the replica #39to be stored in datacenter Datacenter_0 node #19
+it take 14.096250000000001 seconds to write the replica #40to be stored in datacenter Datacenter_0 node #0
+it take 13.0125 seconds to write the replica #41to be stored in datacenter Datacenter_0 node #7
+it take 10.6575 seconds to write the replica #42to be stored in datacenter Datacenter_0 node #12
+it take 10.754999999999999 seconds to write the replica #43to be stored in datacenter Datacenter_0 node #19
+it take 10.6575 seconds to write the replica #44to be stored in datacenter Datacenter_0 node #15
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		30000.0		320000.0		0.09375
+HarddriveStorage		1		10000.0		500000.0		0.02
+HarddriveStorage		2		10000.0		500000.0		0.02
+HarddriveStorage		3		20000.0		500000.0		0.04
+HarddriveStorage		4		20000.0		500000.0		0.04
+HarddriveStorage		5		10000.0		500000.0		0.02
+HarddriveStorage		6		20000.0		1000000.0		0.02
+HarddriveStorage		7		30000.0		1000000.0		0.03
+HarddriveStorage		8		10000.0		1000000.0		0.01
+HarddriveStorage		9		10000.0		1000000.0		0.01
+HarddriveStorage		10		50000.0		1000000.0		0.05
+HarddriveStorage		11		40000.0		2000000.0		0.02
+HarddriveStorage		12		30000.0		2000000.0		0.015
+HarddriveStorage		13		10000.0		2000000.0		0.005
+HarddriveStorage		14		20000.0		2000000.0		0.01
+HarddriveStorage		15		10000.0		2000000.0		0.005
+HarddriveStorage		16		30000.0		2000000.0		0.015
+HarddriveStorage		17		20000.0		2000000.0		0.01
+HarddriveStorage		18		50000.0		2000000.0		0.025
+HarddriveStorage		19		20000.0		4000000.0		0.005
+totalStored:450000.0		totalCapcity:2.782E7		AverageStorageUseage:0.016175413371675055
+*****PowerDatacenter: Datacenter_0*****
+User id		Debt
+**********************************
+Starting CloudSim version 2.0
+SdBroker is starting...
+Datacenter_0 is starting...
+AddedBroker is starting ...
+Entities started.
+
+
+
+20.0: The simulation is paused for 5 sec 
+
+
+File CloudFile0-blk1-rep0 who's id is 55 is inited!
+File CloudFile0-blk1-rep1 who's id is 56 is inited!
+File CloudFile0-blk1-rep2 who's id is 57 is inited!
+File CloudFile0-blk1-rep3 who's id is 58 is inited!
+File CloudFile0-blk1-rep4 who's id is 59 is inited!
+File CloudFile1-blk1-rep0 who's id is 60 is inited!
+File CloudFile1-blk1-rep1 who's id is 61 is inited!
+File CloudFile1-blk1-rep2 who's id is 62 is inited!
+File CloudFile1-blk1-rep3 who's id is 63 is inited!
+File CloudFile1-blk1-rep4 who's id is 64 is inited!
+File CloudFile2-blk1-rep0 who's id is 65 is inited!
+File CloudFile2-blk1-rep1 who's id is 66 is inited!
+File CloudFile2-blk1-rep2 who's id is 67 is inited!
+File CloudFile2-blk1-rep3 who's id is 68 is inited!
+File CloudFile2-blk1-rep4 who's id is 69 is inited!
+File CloudFile3-blk1-rep0 who's id is 70 is inited!
+File CloudFile3-blk1-rep1 who's id is 71 is inited!
+File CloudFile3-blk1-rep2 who's id is 72 is inited!
+File CloudFile3-blk1-rep3 who's id is 73 is inited!
+File CloudFile3-blk1-rep4 who's id is 74 is inited!
+File CloudFile4-blk1-rep0 who's id is 75 is inited!
+File CloudFile4-blk1-rep1 who's id is 76 is inited!
+File CloudFile4-blk1-rep2 who's id is 77 is inited!
+File CloudFile4-blk1-rep3 who's id is 78 is inited!
+File CloudFile4-blk1-rep4 who's id is 79 is inited!
+File CloudFile5-blk1-rep0 who's id is 80 is inited!
+File CloudFile5-blk1-rep1 who's id is 81 is inited!
+File CloudFile5-blk1-rep2 who's id is 82 is inited!
+File CloudFile5-blk1-rep3 who's id is 83 is inited!
+File CloudFile5-blk1-rep4 who's id is 84 is inited!
+File CloudFile6-blk1-rep0 who's id is 85 is inited!
+File CloudFile6-blk1-rep1 who's id is 86 is inited!
+File CloudFile6-blk1-rep2 who's id is 87 is inited!
+File CloudFile6-blk1-rep3 who's id is 88 is inited!
+File CloudFile6-blk1-rep4 who's id is 89 is inited!
+File CloudFile7-blk1-rep0 who's id is 90 is inited!
+File CloudFile7-blk1-rep1 who's id is 91 is inited!
+File CloudFile7-blk1-rep2 who's id is 92 is inited!
+File CloudFile7-blk1-rep3 who's id is 93 is inited!
+File CloudFile7-blk1-rep4 who's id is 94 is inited!
+File CloudFile8-blk1-rep0 who's id is 95 is inited!
+File CloudFile8-blk1-rep1 who's id is 96 is inited!
+File CloudFile8-blk1-rep2 who's id is 97 is inited!
+File CloudFile8-blk1-rep3 who's id is 98 is inited!
+File CloudFile8-blk1-rep4 who's id is 99 is inited!
+File CloudFile9-blk1-rep0 who's id is 100 is inited!
+File CloudFile9-blk1-rep1 who's id is 101 is inited!
+File CloudFile9-blk1-rep2 who's id is 102 is inited!
+File CloudFile9-blk1-rep3 who's id is 103 is inited!
+File CloudFile9-blk1-rep4 who's id is 104 is inited!
+it take 10.754999999999999 seconds to write the replica #55to be stored in datacenter Datacenter_0 node #19
+it take 10.6575 seconds to write the replica #56to be stored in datacenter Datacenter_0 node #18
+it take 10.6575 seconds to write the replica #57to be stored in datacenter Datacenter_0 node #11
+it take 10.6575 seconds to write the replica #58to be stored in datacenter Datacenter_0 node #12
+it take 10.6575 seconds to write the replica #59to be stored in datacenter Datacenter_0 node #16
+it take 10.6575 seconds to write the replica #60to be stored in datacenter Datacenter_0 node #14
+it take 10.6575 seconds to write the replica #61to be stored in datacenter Datacenter_0 node #17
+it take 10.6575 seconds to write the replica #62to be stored in datacenter Datacenter_0 node #13
+it take 10.6575 seconds to write the replica #63to be stored in datacenter Datacenter_0 node #15
+it take 13.0125 seconds to write the replica #64to be stored in datacenter Datacenter_0 node #10
+it take 13.0125 seconds to write the replica #65to be stored in datacenter Datacenter_0 node #7
+it take 13.0125 seconds to write the replica #66to be stored in datacenter Datacenter_0 node #6
+it take 13.0125 seconds to write the replica #67to be stored in datacenter Datacenter_0 node #8
+it take 13.0125 seconds to write the replica #68to be stored in datacenter Datacenter_0 node #9
+it take 14.096250000000001 seconds to write the replica #69to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #70to be stored in datacenter Datacenter_0 node #3
+it take 16.0225 seconds to write the replica #71to be stored in datacenter Datacenter_0 node #4
+it take 16.0225 seconds to write the replica #72to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #73to be stored in datacenter Datacenter_0 node #2
+it take 16.0225 seconds to write the replica #74to be stored in datacenter Datacenter_0 node #5
+it take 10.754999999999999 seconds to write the replica #75to be stored in datacenter Datacenter_0 node #19
+it take 10.6575 seconds to write the replica #76to be stored in datacenter Datacenter_0 node #18
+it take 10.6575 seconds to write the replica #77to be stored in datacenter Datacenter_0 node #11
+it take 10.6575 seconds to write the replica #78to be stored in datacenter Datacenter_0 node #12
+it take 10.6575 seconds to write the replica #79to be stored in datacenter Datacenter_0 node #16
+it take 10.6575 seconds to write the replica #80to be stored in datacenter Datacenter_0 node #14
+it take 10.6575 seconds to write the replica #81to be stored in datacenter Datacenter_0 node #17
+it take 10.6575 seconds to write the replica #82to be stored in datacenter Datacenter_0 node #13
+it take 10.6575 seconds to write the replica #83to be stored in datacenter Datacenter_0 node #15
+it take 13.0125 seconds to write the replica #84to be stored in datacenter Datacenter_0 node #10
+it take 13.0125 seconds to write the replica #85to be stored in datacenter Datacenter_0 node #7
+it take 13.0125 seconds to write the replica #86to be stored in datacenter Datacenter_0 node #6
+it take 13.0125 seconds to write the replica #87to be stored in datacenter Datacenter_0 node #8
+it take 13.0125 seconds to write the replica #88to be stored in datacenter Datacenter_0 node #9
+it take 14.096250000000001 seconds to write the replica #89to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #90to be stored in datacenter Datacenter_0 node #3
+it take 16.0225 seconds to write the replica #91to be stored in datacenter Datacenter_0 node #4
+it take 16.0225 seconds to write the replica #92to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #93to be stored in datacenter Datacenter_0 node #2
+it take 16.0225 seconds to write the replica #94to be stored in datacenter Datacenter_0 node #5
+it take 10.754999999999999 seconds to write the replica #95to be stored in datacenter Datacenter_0 node #19
+it take 10.6575 seconds to write the replica #96to be stored in datacenter Datacenter_0 node #18
+it take 10.6575 seconds to write the replica #97to be stored in datacenter Datacenter_0 node #12
+it take 10.6575 seconds to write the replica #98to be stored in datacenter Datacenter_0 node #16
+it take 10.6575 seconds to write the replica #99to be stored in datacenter Datacenter_0 node #14
+it take 10.6575 seconds to write the replica #100to be stored in datacenter Datacenter_0 node #17
+it take 10.6575 seconds to write the replica #101to be stored in datacenter Datacenter_0 node #13
+it take 10.6575 seconds to write the replica #102to be stored in datacenter Datacenter_0 node #15
+it take 13.0125 seconds to write the replica #103to be stored in datacenter Datacenter_0 node #10
+it take 13.0125 seconds to write the replica #104to be stored in datacenter Datacenter_0 node #7
+20.0: SdBroker: Cloud Resource List received with 1 resource(s)
+Adding: SDBroker2
+SDBroker2 is starting...
+20.0: SDBroker2: Cloud Resource List received with 1 resource(s)
+Operate ...
+read replica #1 cost: 33.333333333333336 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #2 cost: 33.333333333333336 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 33.333333333333336 secnods
+read replica #2 cost: 33.333333333333336 secnods
+read replica #2 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #2 cost: 33.333333333333336 secnods
+read replica #2 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #1 cost: 33.333333333333336 secnods
+read replica #3 cost: 76.92307692307692 secnods
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+SdBroker is shutting down...
+Datacenter_0 is shutting down...
+AddedBroker is shutting down...
+SDBroker2 is shutting down...
+Simulation completed.
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		50000.0		320000.0		0.15625
+HarddriveStorage		1		30000.0		500000.0		0.06
+HarddriveStorage		2		30000.0		500000.0		0.06
+HarddriveStorage		3		40000.0		500000.0		0.08
+HarddriveStorage		4		40000.0		500000.0		0.08
+HarddriveStorage		5		30000.0		500000.0		0.06
+HarddriveStorage		6		40000.0		1000000.0		0.04
+HarddriveStorage		7		60000.0		1000000.0		0.06
+HarddriveStorage		8		30000.0		1000000.0		0.03
+HarddriveStorage		9		30000.0		1000000.0		0.03
+HarddriveStorage		10		80000.0		1000000.0		0.08
+HarddriveStorage		11		60000.0		2000000.0		0.03
+HarddriveStorage		12		60000.0		2000000.0		0.03
+HarddriveStorage		13		40000.0		2000000.0		0.02
+HarddriveStorage		14		50000.0		2000000.0		0.025
+HarddriveStorage		15		40000.0		2000000.0		0.02
+HarddriveStorage		16		60000.0		2000000.0		0.03
+HarddriveStorage		17		50000.0		2000000.0		0.025
+HarddriveStorage		18		80000.0		2000000.0		0.04
+HarddriveStorage		19		50000.0		4000000.0		0.0125
+totalStored:950000.0		totalCapcity:2.782E7		AverageStorageUseage:0.03414809489575845
+*****PowerDatacenter: Datacenter_0*****
+User id		Debt
+**********************************
+StroageTest finished!

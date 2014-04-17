@@ -1,0 +1,86 @@
+Starting StorageTest...
+Initialising...
+File CloudFile0-blk1-rep0 who's id is 0 is inited!
+File CloudFile0-blk1-rep1 who's id is 1 is inited!
+File CloudFile0-blk1-rep2 who's id is 2 is inited!
+File CloudFile1-blk1-rep0 who's id is 3 is inited!
+File CloudFile1-blk1-rep1 who's id is 4 is inited!
+File CloudFile1-blk1-rep2 who's id is 5 is inited!
+File CloudFile2-blk1-rep0 who's id is 6 is inited!
+File CloudFile2-blk1-rep1 who's id is 7 is inited!
+File CloudFile2-blk1-rep2 who's id is 8 is inited!
+File CloudFile3-blk1-rep0 who's id is 9 is inited!
+File CloudFile3-blk1-rep1 who's id is 10 is inited!
+File CloudFile3-blk1-rep2 who's id is 11 is inited!
+File CloudFile4-blk1-rep0 who's id is 12 is inited!
+File CloudFile4-blk1-rep1 who's id is 13 is inited!
+File CloudFile4-blk1-rep2 who's id is 14 is inited!
+replica #0    			Datacenter_0 node #11 			154.6575
+replica #1    			Datacenter_0 node #11 			154.6575
+replica #2    			Datacenter_0 node #11 			154.6575
+replica #3    			Datacenter_0 node #13 			154.6575
+replica #4    			Datacenter_0 node #9 			157.0125
+replica #5    			Datacenter_0 node #3 			160.0225
+replica #6    			Datacenter_0 node #10 			157.0125
+replica #7    			Datacenter_0 node #14 			154.6575
+replica #8    			Datacenter_0 node #8 			157.0125
+replica #9    			Datacenter_0 node #0 			158.09625
+replica #10    			Datacenter_0 node #18 			154.6575
+replica #11    			Datacenter_0 node #14 			154.6575
+replica #12    			Datacenter_0 node #0 			158.09625
+replica #13    			Datacenter_0 node #15 			154.6575
+replica #14    			Datacenter_0 node #6 			157.0125
+Starting CloudSim version 2.0
+SdBroker is starting...
+Datacenter_0 is starting...
+AddedBroker is starting ...
+Entities started.
+0.0: SdBroker: Cloud Resource List received with 1 resource(s)
+Operate ...
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #3 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+SdBroker is shutting down...
+Datacenter_0 is shutting down...
+AddedBroker is shutting down...
+Simulation completed.
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		20000.0		320000.0		0.0625
+HarddriveStorage		1		0.0		500000.0		0.0
+HarddriveStorage		2		0.0		500000.0		0.0
+HarddriveStorage		3		10000.0		500000.0		0.02
+HarddriveStorage		4		0.0		500000.0		0.0
+HarddriveStorage		5		0.0		500000.0		0.0
+HarddriveStorage		6		10000.0		1000000.0		0.01
+HarddriveStorage		7		0.0		1000000.0		0.0
+HarddriveStorage		8		10000.0		1000000.0		0.01
+HarddriveStorage		9		10000.0		1000000.0		0.01
+HarddriveStorage		10		10000.0		1000000.0		0.01
+HarddriveStorage		11		30000.0		2000000.0		0.015
+HarddriveStorage		12		0.0		2000000.0		0.0
+HarddriveStorage		13		10000.0		2000000.0		0.005
+HarddriveStorage		14		20000.0		2000000.0		0.01
+HarddriveStorage		15		10000.0		2000000.0		0.005
+HarddriveStorage		16		0.0		2000000.0		0.0
+HarddriveStorage		17		0.0		2000000.0		0.0
+HarddriveStorage		18		10000.0		2000000.0		0.005
+HarddriveStorage		19		0.0		4000000.0		0.0
+totalStored:150000.0		totalCapcity:2.782E7		AverageStorageUseage:0.005391804457225018
+*****PowerDatacenter: Datacenter_0*****
+User id		Debt
+**********************************
+StroageTest finished!

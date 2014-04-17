@@ -1,0 +1,2954 @@
+Starting CloudStorageImprove ...
+Initialising...
+File CloudFile0-blk1-rep0 who's id is 0 is inited!
+File CloudFile0-blk1-rep1 who's id is 1 is inited!
+File CloudFile0-blk1-rep2 who's id is 2 is inited!
+File CloudFile1-blk1-rep0 who's id is 3 is inited!
+File CloudFile1-blk1-rep1 who's id is 4 is inited!
+File CloudFile1-blk1-rep2 who's id is 5 is inited!
+File CloudFile2-blk1-rep0 who's id is 6 is inited!
+File CloudFile2-blk1-rep1 who's id is 7 is inited!
+File CloudFile2-blk1-rep2 who's id is 8 is inited!
+File CloudFile3-blk1-rep0 who's id is 9 is inited!
+File CloudFile3-blk1-rep1 who's id is 10 is inited!
+File CloudFile3-blk1-rep2 who's id is 11 is inited!
+File CloudFile4-blk1-rep0 who's id is 12 is inited!
+File CloudFile4-blk1-rep1 who's id is 13 is inited!
+File CloudFile4-blk1-rep2 who's id is 14 is inited!
+File CloudFile5-blk1-rep0 who's id is 15 is inited!
+File CloudFile5-blk1-rep1 who's id is 16 is inited!
+File CloudFile5-blk1-rep2 who's id is 17 is inited!
+File CloudFile6-blk1-rep0 who's id is 18 is inited!
+File CloudFile6-blk1-rep1 who's id is 19 is inited!
+File CloudFile6-blk1-rep2 who's id is 20 is inited!
+File CloudFile7-blk1-rep0 who's id is 21 is inited!
+File CloudFile7-blk1-rep1 who's id is 22 is inited!
+File CloudFile7-blk1-rep2 who's id is 23 is inited!
+File CloudFile8-blk1-rep0 who's id is 24 is inited!
+File CloudFile8-blk1-rep1 who's id is 25 is inited!
+File CloudFile8-blk1-rep2 who's id is 26 is inited!
+File CloudFile9-blk1-rep0 who's id is 27 is inited!
+File CloudFile9-blk1-rep1 who's id is 28 is inited!
+File CloudFile9-blk1-rep2 who's id is 29 is inited!
+File CloudFile10-blk1-rep0 who's id is 30 is inited!
+File CloudFile10-blk1-rep1 who's id is 31 is inited!
+File CloudFile10-blk1-rep2 who's id is 32 is inited!
+File CloudFile11-blk1-rep0 who's id is 33 is inited!
+File CloudFile11-blk1-rep1 who's id is 34 is inited!
+File CloudFile11-blk1-rep2 who's id is 35 is inited!
+File CloudFile12-blk1-rep0 who's id is 36 is inited!
+File CloudFile12-blk1-rep1 who's id is 37 is inited!
+File CloudFile12-blk1-rep2 who's id is 38 is inited!
+File CloudFile13-blk1-rep0 who's id is 39 is inited!
+File CloudFile13-blk1-rep1 who's id is 40 is inited!
+File CloudFile13-blk1-rep2 who's id is 41 is inited!
+File CloudFile14-blk1-rep0 who's id is 42 is inited!
+File CloudFile14-blk1-rep1 who's id is 43 is inited!
+File CloudFile14-blk1-rep2 who's id is 44 is inited!
+File CloudFile15-blk1-rep0 who's id is 45 is inited!
+File CloudFile15-blk1-rep1 who's id is 46 is inited!
+File CloudFile15-blk1-rep2 who's id is 47 is inited!
+File CloudFile16-blk1-rep0 who's id is 48 is inited!
+File CloudFile16-blk1-rep1 who's id is 49 is inited!
+File CloudFile16-blk1-rep2 who's id is 50 is inited!
+File CloudFile17-blk1-rep0 who's id is 51 is inited!
+File CloudFile17-blk1-rep1 who's id is 52 is inited!
+File CloudFile17-blk1-rep2 who's id is 53 is inited!
+File CloudFile18-blk1-rep0 who's id is 54 is inited!
+File CloudFile18-blk1-rep1 who's id is 55 is inited!
+File CloudFile18-blk1-rep2 who's id is 56 is inited!
+File CloudFile19-blk1-rep0 who's id is 57 is inited!
+File CloudFile19-blk1-rep1 who's id is 58 is inited!
+File CloudFile19-blk1-rep2 who's id is 59 is inited!
+File CloudFile20-blk1-rep0 who's id is 60 is inited!
+File CloudFile20-blk1-rep1 who's id is 61 is inited!
+File CloudFile20-blk1-rep2 who's id is 62 is inited!
+File CloudFile21-blk1-rep0 who's id is 63 is inited!
+File CloudFile21-blk1-rep1 who's id is 64 is inited!
+File CloudFile21-blk1-rep2 who's id is 65 is inited!
+File CloudFile22-blk1-rep0 who's id is 66 is inited!
+File CloudFile22-blk1-rep1 who's id is 67 is inited!
+File CloudFile22-blk1-rep2 who's id is 68 is inited!
+File CloudFile23-blk1-rep0 who's id is 69 is inited!
+File CloudFile23-blk1-rep1 who's id is 70 is inited!
+File CloudFile23-blk1-rep2 who's id is 71 is inited!
+File CloudFile24-blk1-rep0 who's id is 72 is inited!
+File CloudFile24-blk1-rep1 who's id is 73 is inited!
+File CloudFile24-blk1-rep2 who's id is 74 is inited!
+File CloudFile25-blk1-rep0 who's id is 75 is inited!
+File CloudFile25-blk1-rep1 who's id is 76 is inited!
+File CloudFile25-blk1-rep2 who's id is 77 is inited!
+File CloudFile26-blk1-rep0 who's id is 78 is inited!
+File CloudFile26-blk1-rep1 who's id is 79 is inited!
+File CloudFile26-blk1-rep2 who's id is 80 is inited!
+File CloudFile27-blk1-rep0 who's id is 81 is inited!
+File CloudFile27-blk1-rep1 who's id is 82 is inited!
+File CloudFile27-blk1-rep2 who's id is 83 is inited!
+File CloudFile28-blk1-rep0 who's id is 84 is inited!
+File CloudFile28-blk1-rep1 who's id is 85 is inited!
+File CloudFile28-blk1-rep2 who's id is 86 is inited!
+File CloudFile29-blk1-rep0 who's id is 87 is inited!
+File CloudFile29-blk1-rep1 who's id is 88 is inited!
+File CloudFile29-blk1-rep2 who's id is 89 is inited!
+File CloudFile30-blk1-rep0 who's id is 90 is inited!
+File CloudFile30-blk1-rep1 who's id is 91 is inited!
+File CloudFile30-blk1-rep2 who's id is 92 is inited!
+File CloudFile31-blk1-rep0 who's id is 93 is inited!
+File CloudFile31-blk1-rep1 who's id is 94 is inited!
+File CloudFile31-blk1-rep2 who's id is 95 is inited!
+File CloudFile32-blk1-rep0 who's id is 96 is inited!
+File CloudFile32-blk1-rep1 who's id is 97 is inited!
+File CloudFile32-blk1-rep2 who's id is 98 is inited!
+File CloudFile33-blk1-rep0 who's id is 99 is inited!
+File CloudFile33-blk1-rep1 who's id is 100 is inited!
+File CloudFile33-blk1-rep2 who's id is 101 is inited!
+File CloudFile34-blk1-rep0 who's id is 102 is inited!
+File CloudFile34-blk1-rep1 who's id is 103 is inited!
+File CloudFile34-blk1-rep2 who's id is 104 is inited!
+File CloudFile35-blk1-rep0 who's id is 105 is inited!
+File CloudFile35-blk1-rep1 who's id is 106 is inited!
+File CloudFile35-blk1-rep2 who's id is 107 is inited!
+File CloudFile36-blk1-rep0 who's id is 108 is inited!
+File CloudFile36-blk1-rep1 who's id is 109 is inited!
+File CloudFile36-blk1-rep2 who's id is 110 is inited!
+File CloudFile37-blk1-rep0 who's id is 111 is inited!
+File CloudFile37-blk1-rep1 who's id is 112 is inited!
+File CloudFile37-blk1-rep2 who's id is 113 is inited!
+File CloudFile38-blk1-rep0 who's id is 114 is inited!
+File CloudFile38-blk1-rep1 who's id is 115 is inited!
+File CloudFile38-blk1-rep2 who's id is 116 is inited!
+File CloudFile39-blk1-rep0 who's id is 117 is inited!
+File CloudFile39-blk1-rep1 who's id is 118 is inited!
+File CloudFile39-blk1-rep2 who's id is 119 is inited!
+File CloudFile40-blk1-rep0 who's id is 120 is inited!
+File CloudFile40-blk1-rep1 who's id is 121 is inited!
+File CloudFile40-blk1-rep2 who's id is 122 is inited!
+File CloudFile41-blk1-rep0 who's id is 123 is inited!
+File CloudFile41-blk1-rep1 who's id is 124 is inited!
+File CloudFile41-blk1-rep2 who's id is 125 is inited!
+File CloudFile42-blk1-rep0 who's id is 126 is inited!
+File CloudFile42-blk1-rep1 who's id is 127 is inited!
+File CloudFile42-blk1-rep2 who's id is 128 is inited!
+File CloudFile43-blk1-rep0 who's id is 129 is inited!
+File CloudFile43-blk1-rep1 who's id is 130 is inited!
+File CloudFile43-blk1-rep2 who's id is 131 is inited!
+File CloudFile44-blk1-rep0 who's id is 132 is inited!
+File CloudFile44-blk1-rep1 who's id is 133 is inited!
+File CloudFile44-blk1-rep2 who's id is 134 is inited!
+File CloudFile45-blk1-rep0 who's id is 135 is inited!
+File CloudFile45-blk1-rep1 who's id is 136 is inited!
+File CloudFile45-blk1-rep2 who's id is 137 is inited!
+File CloudFile46-blk1-rep0 who's id is 138 is inited!
+File CloudFile46-blk1-rep1 who's id is 139 is inited!
+File CloudFile46-blk1-rep2 who's id is 140 is inited!
+File CloudFile47-blk1-rep0 who's id is 141 is inited!
+File CloudFile47-blk1-rep1 who's id is 142 is inited!
+File CloudFile47-blk1-rep2 who's id is 143 is inited!
+File CloudFile48-blk1-rep0 who's id is 144 is inited!
+File CloudFile48-blk1-rep1 who's id is 145 is inited!
+File CloudFile48-blk1-rep2 who's id is 146 is inited!
+File CloudFile49-blk1-rep0 who's id is 147 is inited!
+File CloudFile49-blk1-rep1 who's id is 148 is inited!
+File CloudFile49-blk1-rep2 who's id is 149 is inited!
+File CloudFile50-blk1-rep0 who's id is 150 is inited!
+File CloudFile50-blk1-rep1 who's id is 151 is inited!
+File CloudFile50-blk1-rep2 who's id is 152 is inited!
+File CloudFile51-blk1-rep0 who's id is 153 is inited!
+File CloudFile51-blk1-rep1 who's id is 154 is inited!
+File CloudFile51-blk1-rep2 who's id is 155 is inited!
+File CloudFile52-blk1-rep0 who's id is 156 is inited!
+File CloudFile52-blk1-rep1 who's id is 157 is inited!
+File CloudFile52-blk1-rep2 who's id is 158 is inited!
+File CloudFile53-blk1-rep0 who's id is 159 is inited!
+File CloudFile53-blk1-rep1 who's id is 160 is inited!
+File CloudFile53-blk1-rep2 who's id is 161 is inited!
+File CloudFile54-blk1-rep0 who's id is 162 is inited!
+File CloudFile54-blk1-rep1 who's id is 163 is inited!
+File CloudFile54-blk1-rep2 who's id is 164 is inited!
+File CloudFile55-blk1-rep0 who's id is 165 is inited!
+File CloudFile55-blk1-rep1 who's id is 166 is inited!
+File CloudFile55-blk1-rep2 who's id is 167 is inited!
+File CloudFile56-blk1-rep0 who's id is 168 is inited!
+File CloudFile56-blk1-rep1 who's id is 169 is inited!
+File CloudFile56-blk1-rep2 who's id is 170 is inited!
+File CloudFile57-blk1-rep0 who's id is 171 is inited!
+File CloudFile57-blk1-rep1 who's id is 172 is inited!
+File CloudFile57-blk1-rep2 who's id is 173 is inited!
+File CloudFile58-blk1-rep0 who's id is 174 is inited!
+File CloudFile58-blk1-rep1 who's id is 175 is inited!
+File CloudFile58-blk1-rep2 who's id is 176 is inited!
+File CloudFile59-blk1-rep0 who's id is 177 is inited!
+File CloudFile59-blk1-rep1 who's id is 178 is inited!
+File CloudFile59-blk1-rep2 who's id is 179 is inited!
+File CloudFile60-blk1-rep0 who's id is 180 is inited!
+File CloudFile60-blk1-rep1 who's id is 181 is inited!
+File CloudFile60-blk1-rep2 who's id is 182 is inited!
+File CloudFile61-blk1-rep0 who's id is 183 is inited!
+File CloudFile61-blk1-rep1 who's id is 184 is inited!
+File CloudFile61-blk1-rep2 who's id is 185 is inited!
+File CloudFile62-blk1-rep0 who's id is 186 is inited!
+File CloudFile62-blk1-rep1 who's id is 187 is inited!
+File CloudFile62-blk1-rep2 who's id is 188 is inited!
+File CloudFile63-blk1-rep0 who's id is 189 is inited!
+File CloudFile63-blk1-rep1 who's id is 190 is inited!
+File CloudFile63-blk1-rep2 who's id is 191 is inited!
+File CloudFile64-blk1-rep0 who's id is 192 is inited!
+File CloudFile64-blk1-rep1 who's id is 193 is inited!
+File CloudFile64-blk1-rep2 who's id is 194 is inited!
+File CloudFile65-blk1-rep0 who's id is 195 is inited!
+File CloudFile65-blk1-rep1 who's id is 196 is inited!
+File CloudFile65-blk1-rep2 who's id is 197 is inited!
+File CloudFile66-blk1-rep0 who's id is 198 is inited!
+File CloudFile66-blk1-rep1 who's id is 199 is inited!
+File CloudFile66-blk1-rep2 who's id is 200 is inited!
+File CloudFile67-blk1-rep0 who's id is 201 is inited!
+File CloudFile67-blk1-rep1 who's id is 202 is inited!
+File CloudFile67-blk1-rep2 who's id is 203 is inited!
+File CloudFile68-blk1-rep0 who's id is 204 is inited!
+File CloudFile68-blk1-rep1 who's id is 205 is inited!
+File CloudFile68-blk1-rep2 who's id is 206 is inited!
+File CloudFile69-blk1-rep0 who's id is 207 is inited!
+File CloudFile69-blk1-rep1 who's id is 208 is inited!
+File CloudFile69-blk1-rep2 who's id is 209 is inited!
+File CloudFile70-blk1-rep0 who's id is 210 is inited!
+File CloudFile70-blk1-rep1 who's id is 211 is inited!
+File CloudFile70-blk1-rep2 who's id is 212 is inited!
+File CloudFile71-blk1-rep0 who's id is 213 is inited!
+File CloudFile71-blk1-rep1 who's id is 214 is inited!
+File CloudFile71-blk1-rep2 who's id is 215 is inited!
+File CloudFile72-blk1-rep0 who's id is 216 is inited!
+File CloudFile72-blk1-rep1 who's id is 217 is inited!
+File CloudFile72-blk1-rep2 who's id is 218 is inited!
+File CloudFile73-blk1-rep0 who's id is 219 is inited!
+File CloudFile73-blk1-rep1 who's id is 220 is inited!
+File CloudFile73-blk1-rep2 who's id is 221 is inited!
+File CloudFile74-blk1-rep0 who's id is 222 is inited!
+File CloudFile74-blk1-rep1 who's id is 223 is inited!
+File CloudFile74-blk1-rep2 who's id is 224 is inited!
+File CloudFile75-blk1-rep0 who's id is 225 is inited!
+File CloudFile75-blk1-rep1 who's id is 226 is inited!
+File CloudFile75-blk1-rep2 who's id is 227 is inited!
+File CloudFile76-blk1-rep0 who's id is 228 is inited!
+File CloudFile76-blk1-rep1 who's id is 229 is inited!
+File CloudFile76-blk1-rep2 who's id is 230 is inited!
+File CloudFile77-blk1-rep0 who's id is 231 is inited!
+File CloudFile77-blk1-rep1 who's id is 232 is inited!
+File CloudFile77-blk1-rep2 who's id is 233 is inited!
+File CloudFile78-blk1-rep0 who's id is 234 is inited!
+File CloudFile78-blk1-rep1 who's id is 235 is inited!
+File CloudFile78-blk1-rep2 who's id is 236 is inited!
+File CloudFile79-blk1-rep0 who's id is 237 is inited!
+File CloudFile79-blk1-rep1 who's id is 238 is inited!
+File CloudFile79-blk1-rep2 who's id is 239 is inited!
+File CloudFile80-blk1-rep0 who's id is 240 is inited!
+File CloudFile80-blk1-rep1 who's id is 241 is inited!
+File CloudFile80-blk1-rep2 who's id is 242 is inited!
+File CloudFile81-blk1-rep0 who's id is 243 is inited!
+File CloudFile81-blk1-rep1 who's id is 244 is inited!
+File CloudFile81-blk1-rep2 who's id is 245 is inited!
+File CloudFile82-blk1-rep0 who's id is 246 is inited!
+File CloudFile82-blk1-rep1 who's id is 247 is inited!
+File CloudFile82-blk1-rep2 who's id is 248 is inited!
+File CloudFile83-blk1-rep0 who's id is 249 is inited!
+File CloudFile83-blk1-rep1 who's id is 250 is inited!
+File CloudFile83-blk1-rep2 who's id is 251 is inited!
+File CloudFile84-blk1-rep0 who's id is 252 is inited!
+File CloudFile84-blk1-rep1 who's id is 253 is inited!
+File CloudFile84-blk1-rep2 who's id is 254 is inited!
+File CloudFile85-blk1-rep0 who's id is 255 is inited!
+File CloudFile85-blk1-rep1 who's id is 256 is inited!
+File CloudFile85-blk1-rep2 who's id is 257 is inited!
+File CloudFile86-blk1-rep0 who's id is 258 is inited!
+File CloudFile86-blk1-rep1 who's id is 259 is inited!
+File CloudFile86-blk1-rep2 who's id is 260 is inited!
+File CloudFile87-blk1-rep0 who's id is 261 is inited!
+File CloudFile87-blk1-rep1 who's id is 262 is inited!
+File CloudFile87-blk1-rep2 who's id is 263 is inited!
+File CloudFile88-blk1-rep0 who's id is 264 is inited!
+File CloudFile88-blk1-rep1 who's id is 265 is inited!
+File CloudFile88-blk1-rep2 who's id is 266 is inited!
+File CloudFile89-blk1-rep0 who's id is 267 is inited!
+File CloudFile89-blk1-rep1 who's id is 268 is inited!
+File CloudFile89-blk1-rep2 who's id is 269 is inited!
+File CloudFile90-blk1-rep0 who's id is 270 is inited!
+File CloudFile90-blk1-rep1 who's id is 271 is inited!
+File CloudFile90-blk1-rep2 who's id is 272 is inited!
+File CloudFile91-blk1-rep0 who's id is 273 is inited!
+File CloudFile91-blk1-rep1 who's id is 274 is inited!
+File CloudFile91-blk1-rep2 who's id is 275 is inited!
+File CloudFile92-blk1-rep0 who's id is 276 is inited!
+File CloudFile92-blk1-rep1 who's id is 277 is inited!
+File CloudFile92-blk1-rep2 who's id is 278 is inited!
+File CloudFile93-blk1-rep0 who's id is 279 is inited!
+File CloudFile93-blk1-rep1 who's id is 280 is inited!
+File CloudFile93-blk1-rep2 who's id is 281 is inited!
+File CloudFile94-blk1-rep0 who's id is 282 is inited!
+File CloudFile94-blk1-rep1 who's id is 283 is inited!
+File CloudFile94-blk1-rep2 who's id is 284 is inited!
+File CloudFile95-blk1-rep0 who's id is 285 is inited!
+File CloudFile95-blk1-rep1 who's id is 286 is inited!
+File CloudFile95-blk1-rep2 who's id is 287 is inited!
+File CloudFile96-blk1-rep0 who's id is 288 is inited!
+File CloudFile96-blk1-rep1 who's id is 289 is inited!
+File CloudFile96-blk1-rep2 who's id is 290 is inited!
+File CloudFile97-blk1-rep0 who's id is 291 is inited!
+File CloudFile97-blk1-rep1 who's id is 292 is inited!
+File CloudFile97-blk1-rep2 who's id is 293 is inited!
+File CloudFile98-blk1-rep0 who's id is 294 is inited!
+File CloudFile98-blk1-rep1 who's id is 295 is inited!
+File CloudFile98-blk1-rep2 who's id is 296 is inited!
+File CloudFile99-blk1-rep0 who's id is 297 is inited!
+File CloudFile99-blk1-rep1 who's id is 298 is inited!
+File CloudFile99-blk1-rep2 who's id is 299 is inited!
+File CloudFile100-blk1-rep0 who's id is 300 is inited!
+File CloudFile100-blk1-rep1 who's id is 301 is inited!
+File CloudFile100-blk1-rep2 who's id is 302 is inited!
+File CloudFile101-blk1-rep0 who's id is 303 is inited!
+File CloudFile101-blk1-rep1 who's id is 304 is inited!
+File CloudFile101-blk1-rep2 who's id is 305 is inited!
+File CloudFile102-blk1-rep0 who's id is 306 is inited!
+File CloudFile102-blk1-rep1 who's id is 307 is inited!
+File CloudFile102-blk1-rep2 who's id is 308 is inited!
+File CloudFile103-blk1-rep0 who's id is 309 is inited!
+File CloudFile103-blk1-rep1 who's id is 310 is inited!
+File CloudFile103-blk1-rep2 who's id is 311 is inited!
+File CloudFile104-blk1-rep0 who's id is 312 is inited!
+File CloudFile104-blk1-rep1 who's id is 313 is inited!
+File CloudFile104-blk1-rep2 who's id is 314 is inited!
+File CloudFile105-blk1-rep0 who's id is 315 is inited!
+File CloudFile105-blk1-rep1 who's id is 316 is inited!
+File CloudFile105-blk1-rep2 who's id is 317 is inited!
+File CloudFile106-blk1-rep0 who's id is 318 is inited!
+File CloudFile106-blk1-rep1 who's id is 319 is inited!
+File CloudFile106-blk1-rep2 who's id is 320 is inited!
+File CloudFile107-blk1-rep0 who's id is 321 is inited!
+File CloudFile107-blk1-rep1 who's id is 322 is inited!
+File CloudFile107-blk1-rep2 who's id is 323 is inited!
+File CloudFile108-blk1-rep0 who's id is 324 is inited!
+File CloudFile108-blk1-rep1 who's id is 325 is inited!
+File CloudFile108-blk1-rep2 who's id is 326 is inited!
+File CloudFile109-blk1-rep0 who's id is 327 is inited!
+File CloudFile109-blk1-rep1 who's id is 328 is inited!
+File CloudFile109-blk1-rep2 who's id is 329 is inited!
+File CloudFile110-blk1-rep0 who's id is 330 is inited!
+File CloudFile110-blk1-rep1 who's id is 331 is inited!
+File CloudFile110-blk1-rep2 who's id is 332 is inited!
+File CloudFile111-blk1-rep0 who's id is 333 is inited!
+File CloudFile111-blk1-rep1 who's id is 334 is inited!
+File CloudFile111-blk1-rep2 who's id is 335 is inited!
+File CloudFile112-blk1-rep0 who's id is 336 is inited!
+File CloudFile112-blk1-rep1 who's id is 337 is inited!
+File CloudFile112-blk1-rep2 who's id is 338 is inited!
+File CloudFile113-blk1-rep0 who's id is 339 is inited!
+File CloudFile113-blk1-rep1 who's id is 340 is inited!
+File CloudFile113-blk1-rep2 who's id is 341 is inited!
+File CloudFile114-blk1-rep0 who's id is 342 is inited!
+File CloudFile114-blk1-rep1 who's id is 343 is inited!
+File CloudFile114-blk1-rep2 who's id is 344 is inited!
+File CloudFile115-blk1-rep0 who's id is 345 is inited!
+File CloudFile115-blk1-rep1 who's id is 346 is inited!
+File CloudFile115-blk1-rep2 who's id is 347 is inited!
+File CloudFile116-blk1-rep0 who's id is 348 is inited!
+File CloudFile116-blk1-rep1 who's id is 349 is inited!
+File CloudFile116-blk1-rep2 who's id is 350 is inited!
+File CloudFile117-blk1-rep0 who's id is 351 is inited!
+File CloudFile117-blk1-rep1 who's id is 352 is inited!
+File CloudFile117-blk1-rep2 who's id is 353 is inited!
+File CloudFile118-blk1-rep0 who's id is 354 is inited!
+File CloudFile118-blk1-rep1 who's id is 355 is inited!
+File CloudFile118-blk1-rep2 who's id is 356 is inited!
+File CloudFile119-blk1-rep0 who's id is 357 is inited!
+File CloudFile119-blk1-rep1 who's id is 358 is inited!
+File CloudFile119-blk1-rep2 who's id is 359 is inited!
+File CloudFile120-blk1-rep0 who's id is 360 is inited!
+File CloudFile120-blk1-rep1 who's id is 361 is inited!
+File CloudFile120-blk1-rep2 who's id is 362 is inited!
+File CloudFile121-blk1-rep0 who's id is 363 is inited!
+File CloudFile121-blk1-rep1 who's id is 364 is inited!
+File CloudFile121-blk1-rep2 who's id is 365 is inited!
+File CloudFile122-blk1-rep0 who's id is 366 is inited!
+File CloudFile122-blk1-rep1 who's id is 367 is inited!
+File CloudFile122-blk1-rep2 who's id is 368 is inited!
+File CloudFile123-blk1-rep0 who's id is 369 is inited!
+File CloudFile123-blk1-rep1 who's id is 370 is inited!
+File CloudFile123-blk1-rep2 who's id is 371 is inited!
+File CloudFile124-blk1-rep0 who's id is 372 is inited!
+File CloudFile124-blk1-rep1 who's id is 373 is inited!
+File CloudFile124-blk1-rep2 who's id is 374 is inited!
+File CloudFile125-blk1-rep0 who's id is 375 is inited!
+File CloudFile125-blk1-rep1 who's id is 376 is inited!
+File CloudFile125-blk1-rep2 who's id is 377 is inited!
+File CloudFile126-blk1-rep0 who's id is 378 is inited!
+File CloudFile126-blk1-rep1 who's id is 379 is inited!
+File CloudFile126-blk1-rep2 who's id is 380 is inited!
+File CloudFile127-blk1-rep0 who's id is 381 is inited!
+File CloudFile127-blk1-rep1 who's id is 382 is inited!
+File CloudFile127-blk1-rep2 who's id is 383 is inited!
+File CloudFile128-blk1-rep0 who's id is 384 is inited!
+File CloudFile128-blk1-rep1 who's id is 385 is inited!
+File CloudFile128-blk1-rep2 who's id is 386 is inited!
+File CloudFile129-blk1-rep0 who's id is 387 is inited!
+File CloudFile129-blk1-rep1 who's id is 388 is inited!
+File CloudFile129-blk1-rep2 who's id is 389 is inited!
+File CloudFile130-blk1-rep0 who's id is 390 is inited!
+File CloudFile130-blk1-rep1 who's id is 391 is inited!
+File CloudFile130-blk1-rep2 who's id is 392 is inited!
+File CloudFile131-blk1-rep0 who's id is 393 is inited!
+File CloudFile131-blk1-rep1 who's id is 394 is inited!
+File CloudFile131-blk1-rep2 who's id is 395 is inited!
+File CloudFile132-blk1-rep0 who's id is 396 is inited!
+File CloudFile132-blk1-rep1 who's id is 397 is inited!
+File CloudFile132-blk1-rep2 who's id is 398 is inited!
+File CloudFile133-blk1-rep0 who's id is 399 is inited!
+File CloudFile133-blk1-rep1 who's id is 400 is inited!
+File CloudFile133-blk1-rep2 who's id is 401 is inited!
+File CloudFile134-blk1-rep0 who's id is 402 is inited!
+File CloudFile134-blk1-rep1 who's id is 403 is inited!
+File CloudFile134-blk1-rep2 who's id is 404 is inited!
+File CloudFile135-blk1-rep0 who's id is 405 is inited!
+File CloudFile135-blk1-rep1 who's id is 406 is inited!
+File CloudFile135-blk1-rep2 who's id is 407 is inited!
+File CloudFile136-blk1-rep0 who's id is 408 is inited!
+File CloudFile136-blk1-rep1 who's id is 409 is inited!
+File CloudFile136-blk1-rep2 who's id is 410 is inited!
+File CloudFile137-blk1-rep0 who's id is 411 is inited!
+File CloudFile137-blk1-rep1 who's id is 412 is inited!
+File CloudFile137-blk1-rep2 who's id is 413 is inited!
+File CloudFile138-blk1-rep0 who's id is 414 is inited!
+File CloudFile138-blk1-rep1 who's id is 415 is inited!
+File CloudFile138-blk1-rep2 who's id is 416 is inited!
+File CloudFile139-blk1-rep0 who's id is 417 is inited!
+File CloudFile139-blk1-rep1 who's id is 418 is inited!
+File CloudFile139-blk1-rep2 who's id is 419 is inited!
+File CloudFile140-blk1-rep0 who's id is 420 is inited!
+File CloudFile140-blk1-rep1 who's id is 421 is inited!
+File CloudFile140-blk1-rep2 who's id is 422 is inited!
+File CloudFile141-blk1-rep0 who's id is 423 is inited!
+File CloudFile141-blk1-rep1 who's id is 424 is inited!
+File CloudFile141-blk1-rep2 who's id is 425 is inited!
+File CloudFile142-blk1-rep0 who's id is 426 is inited!
+File CloudFile142-blk1-rep1 who's id is 427 is inited!
+File CloudFile142-blk1-rep2 who's id is 428 is inited!
+File CloudFile143-blk1-rep0 who's id is 429 is inited!
+File CloudFile143-blk1-rep1 who's id is 430 is inited!
+File CloudFile143-blk1-rep2 who's id is 431 is inited!
+File CloudFile144-blk1-rep0 who's id is 432 is inited!
+File CloudFile144-blk1-rep1 who's id is 433 is inited!
+File CloudFile144-blk1-rep2 who's id is 434 is inited!
+File CloudFile145-blk1-rep0 who's id is 435 is inited!
+File CloudFile145-blk1-rep1 who's id is 436 is inited!
+File CloudFile145-blk1-rep2 who's id is 437 is inited!
+File CloudFile146-blk1-rep0 who's id is 438 is inited!
+File CloudFile146-blk1-rep1 who's id is 439 is inited!
+File CloudFile146-blk1-rep2 who's id is 440 is inited!
+File CloudFile147-blk1-rep0 who's id is 441 is inited!
+File CloudFile147-blk1-rep1 who's id is 442 is inited!
+File CloudFile147-blk1-rep2 who's id is 443 is inited!
+File CloudFile148-blk1-rep0 who's id is 444 is inited!
+File CloudFile148-blk1-rep1 who's id is 445 is inited!
+File CloudFile148-blk1-rep2 who's id is 446 is inited!
+File CloudFile149-blk1-rep0 who's id is 447 is inited!
+File CloudFile149-blk1-rep1 who's id is 448 is inited!
+File CloudFile149-blk1-rep2 who's id is 449 is inited!
+replica #0    			Datacenter_4 node #17 			139.0225
+replica #1    			Datacenter_4 node #4 			137.09625
+replica #2    			Datacenter_2 node #26 			22.6575
+replica #3    			Datacenter_2 node #16 			25.0125
+replica #4    			Datacenter_4 node #11 			139.0225
+replica #5    			Datacenter_4 node #28 			136.0125
+replica #6    			Datacenter_2 node #15 			25.0125
+replica #7    			Datacenter_0 node #15 			154.6575
+replica #8    			Datacenter_4 node #53 			133.755
+replica #9    			Datacenter_4 node #9 			137.09625
+replica #10    			Datacenter_0 node #2 			160.0225
+replica #11    			Datacenter_3 node #8 			104.09625
+replica #12    			Datacenter_4 node #53 			133.755
+replica #13    			Datacenter_4 node #2 			137.09625
+replica #14    			Datacenter_3 node #36 			100.755
+replica #15    			Datacenter_3 node #14 			106.02250000000001
+replica #16    			Datacenter_0 node #6 			157.0125
+replica #17    			Datacenter_4 node #14 			139.0225
+replica #18    			Datacenter_3 node #12 			106.02250000000001
+replica #19    			Datacenter_4 node #50 			133.755
+replica #20    			Datacenter_1 node #2 			105.02250000000001
+replica #21    			Datacenter_3 node #15 			106.02250000000001
+replica #22    			Datacenter_3 node #26 			100.6575
+replica #23    			Datacenter_4 node #1 			137.09625
+replica #24    			Datacenter_0 node #7 			157.0125
+replica #25    			Datacenter_4 node #0 			137.09625
+replica #26    			Datacenter_2 node #28 			22.755
+replica #27    			Datacenter_3 node #11 			104.09625
+replica #28    			Datacenter_4 node #50 			133.755
+replica #29    			Datacenter_3 node #11 			104.09625
+replica #30    			Datacenter_4 node #1 			137.09625
+replica #31    			Datacenter_2 node #17 			25.0125
+replica #32    			Datacenter_1 node #11 			99.6575
+replica #33    			Datacenter_2 node #25 			22.6575
+replica #34    			Datacenter_4 node #40 			133.6575
+replica #35    			Datacenter_0 node #14 			154.6575
+replica #36    			Datacenter_4 node #16 			139.0225
+replica #37    			Datacenter_3 node #24 			103.0125
+replica #38    			Datacenter_1 node #13 			99.6575
+replica #39    			Datacenter_0 node #16 			154.6575
+replica #40    			Datacenter_2 node #17 			25.0125
+replica #41    			Datacenter_4 node #25 			136.0125
+replica #42    			Datacenter_4 node #48 			133.755
+replica #43    			Datacenter_0 node #9 			157.0125
+replica #44    			Datacenter_4 node #28 			136.0125
+replica #45    			Datacenter_1 node #1 			105.02250000000001
+replica #46    			Datacenter_0 node #8 			157.0125
+replica #47    			Datacenter_3 node #22 			103.0125
+replica #48    			Datacenter_3 node #25 			100.6575
+replica #49    			Datacenter_2 node #15 			25.0125
+replica #50    			Datacenter_2 node #1 			26.09625
+replica #51    			Datacenter_4 node #12 			139.0225
+replica #52    			Datacenter_2 node #27 			22.6575
+replica #53    			Datacenter_3 node #29 			100.6575
+replica #54    			Datacenter_2 node #1 			26.09625
+replica #55    			Datacenter_3 node #15 			106.02250000000001
+replica #56    			Datacenter_2 node #8 			25.0125
+replica #57    			Datacenter_3 node #1 			104.09625
+replica #58    			Datacenter_1 node #7 			102.0125
+replica #59    			Datacenter_1 node #7 			102.0125
+replica #60    			Datacenter_4 node #3 			137.09625
+replica #61    			Datacenter_2 node #16 			25.0125
+replica #62    			Datacenter_4 node #8 			137.09625
+replica #63    			Datacenter_3 node #24 			103.0125
+replica #64    			Datacenter_0 node #14 			154.6575
+replica #65    			Datacenter_2 node #10 			25.0125
+replica #66    			Datacenter_0 node #0 			158.09625
+replica #67    			Datacenter_4 node #46 			133.755
+replica #68    			Datacenter_3 node #2 			104.09625
+replica #69    			Datacenter_1 node #5 			102.0125
+replica #70    			Datacenter_4 node #31 			136.0125
+replica #71    			Datacenter_4 node #51 			133.755
+replica #72    			Datacenter_3 node #17 			106.02250000000001
+replica #73    			Datacenter_4 node #5 			137.09625
+replica #74    			Datacenter_4 node #6 			137.09625
+replica #75    			Datacenter_2 node #21 			25.0125
+replica #76    			Datacenter_3 node #29 			100.6575
+replica #77    			Datacenter_0 node #19 			154.755
+replica #78    			Datacenter_2 node #22 			22.6575
+replica #79    			Datacenter_2 node #23 			22.6575
+replica #80    			Datacenter_0 node #17 			154.6575
+replica #81    			Datacenter_0 node #3 			160.0225
+replica #82    			Datacenter_1 node #11 			99.6575
+replica #83    			Datacenter_1 node #10 			99.6575
+replica #84    			Datacenter_3 node #4 			104.09625
+replica #85    			Datacenter_4 node #0 			137.09625
+replica #86    			Datacenter_3 node #14 			106.02250000000001
+replica #87    			Datacenter_3 node #2 			104.09625
+replica #88    			Datacenter_4 node #7 			137.09625
+replica #89    			Datacenter_4 node #1 			137.09625
+replica #90    			Datacenter_0 node #0 			158.09625
+replica #91    			Datacenter_4 node #18 			139.0225
+replica #92    			Datacenter_0 node #9 			157.0125
+replica #93    			Datacenter_3 node #1 			104.09625
+replica #94    			Datacenter_2 node #14 			25.0125
+replica #95    			Datacenter_4 node #50 			133.755
+replica #96    			Datacenter_2 node #24 			22.6575
+replica #97    			Datacenter_4 node #29 			136.0125
+replica #98    			Datacenter_2 node #26 			22.6575
+replica #99    			Datacenter_2 node #15 			25.0125
+replica #100    			Datacenter_0 node #5 			160.0225
+replica #101    			Datacenter_0 node #9 			157.0125
+replica #102    			Datacenter_2 node #25 			22.6575
+replica #103    			Datacenter_4 node #46 			133.755
+replica #104    			Datacenter_3 node #10 			104.09625
+replica #105    			Datacenter_1 node #6 			102.0125
+replica #106    			Datacenter_1 node #5 			102.0125
+replica #107    			Datacenter_1 node #7 			102.0125
+replica #108    			Datacenter_2 node #26 			22.6575
+replica #109    			Datacenter_2 node #7 			25.0125
+replica #110    			Datacenter_0 node #11 			154.6575
+replica #111    			Datacenter_4 node #52 			133.755
+replica #112    			Datacenter_4 node #24 			136.0125
+replica #113    			Datacenter_4 node #3 			137.09625
+replica #114    			Datacenter_3 node #18 			106.02250000000001
+replica #115    			Datacenter_3 node #27 			100.6575
+replica #116    			Datacenter_3 node #30 			100.6575
+replica #117    			Datacenter_2 node #18 			25.0125
+replica #118    			Datacenter_3 node #16 			106.02250000000001
+replica #119    			Datacenter_2 node #4 			28.0225
+replica #120    			Datacenter_4 node #33 			136.0125
+replica #121    			Datacenter_2 node #0 			26.09625
+replica #122    			Datacenter_3 node #2 			104.09625
+replica #123    			Datacenter_0 node #16 			154.6575
+replica #124    			Datacenter_4 node #29 			136.0125
+replica #125    			Datacenter_2 node #23 			22.6575
+replica #126    			Datacenter_4 node #51 			133.755
+replica #127    			Datacenter_2 node #29 			22.755
+replica #128    			Datacenter_2 node #23 			22.6575
+replica #129    			Datacenter_2 node #6 			25.0125
+replica #130    			Datacenter_4 node #51 			133.755
+replica #131    			Datacenter_2 node #1 			26.09625
+replica #132    			Datacenter_2 node #17 			25.0125
+replica #133    			Datacenter_4 node #35 			133.6575
+replica #134    			Datacenter_3 node #16 			106.02250000000001
+replica #135    			Datacenter_3 node #35 			100.755
+replica #136    			Datacenter_0 node #19 			154.755
+replica #137    			Datacenter_3 node #9 			104.09625
+replica #138    			Datacenter_4 node #33 			136.0125
+replica #139    			Datacenter_2 node #17 			25.0125
+replica #140    			Datacenter_2 node #18 			25.0125
+replica #141    			Datacenter_1 node #10 			99.6575
+replica #142    			Datacenter_2 node #17 			25.0125
+replica #143    			Datacenter_3 node #3 			104.09625
+replica #144    			Datacenter_3 node #28 			100.6575
+replica #145    			Datacenter_0 node #19 			154.755
+replica #146    			Datacenter_0 node #19 			154.755
+replica #147    			Datacenter_4 node #41 			133.6575
+replica #148    			Datacenter_4 node #23 			136.0125
+replica #149    			Datacenter_3 node #7 			104.09625
+replica #150    			Datacenter_4 node #54 			133.755
+replica #151    			Datacenter_3 node #30 			100.6575
+replica #152    			Datacenter_0 node #13 			154.6575
+replica #153    			Datacenter_3 node #18 			106.02250000000001
+replica #154    			Datacenter_3 node #23 			103.0125
+replica #155    			Datacenter_3 node #30 			100.6575
+replica #156    			Datacenter_3 node #21 			103.0125
+replica #157    			Datacenter_0 node #2 			160.0225
+replica #158    			Datacenter_2 node #4 			28.0225
+replica #159    			Datacenter_3 node #9 			104.09625
+replica #160    			Datacenter_0 node #0 			158.09625
+replica #161    			Datacenter_3 node #27 			100.6575
+replica #162    			Datacenter_2 node #15 			25.0125
+replica #163    			Datacenter_0 node #16 			154.6575
+replica #164    			Datacenter_2 node #0 			26.09625
+replica #165    			Datacenter_3 node #5 			104.09625
+replica #166    			Datacenter_4 node #19 			139.0225
+replica #167    			Datacenter_4 node #32 			136.0125
+replica #168    			Datacenter_4 node #53 			133.755
+replica #169    			Datacenter_4 node #25 			136.0125
+replica #170    			Datacenter_2 node #20 			25.0125
+replica #171    			Datacenter_2 node #6 			25.0125
+replica #172    			Datacenter_2 node #23 			22.6575
+replica #173    			Datacenter_2 node #15 			25.0125
+replica #174    			Datacenter_3 node #37 			100.755
+replica #175    			Datacenter_4 node #10 			137.09625
+replica #176    			Datacenter_1 node #5 			102.0125
+replica #177    			Datacenter_4 node #17 			139.0225
+replica #178    			Datacenter_3 node #19 			106.02250000000001
+replica #179    			Datacenter_4 node #28 			136.0125
+replica #180    			Datacenter_4 node #50 			133.755
+replica #181    			Datacenter_3 node #2 			104.09625
+replica #182    			Datacenter_4 node #34 			133.6575
+replica #183    			Datacenter_4 node #40 			133.6575
+replica #184    			Datacenter_3 node #12 			106.02250000000001
+replica #185    			Datacenter_1 node #8 			102.0125
+replica #186    			Datacenter_2 node #15 			25.0125
+replica #187    			Datacenter_3 node #10 			104.09625
+replica #188    			Datacenter_4 node #37 			133.6575
+replica #189    			Datacenter_2 node #24 			22.6575
+replica #190    			Datacenter_4 node #29 			136.0125
+replica #191    			Datacenter_4 node #53 			133.755
+replica #192    			Datacenter_4 node #54 			133.755
+replica #193    			Datacenter_1 node #14 			99.755
+replica #194    			Datacenter_2 node #16 			25.0125
+replica #195    			Datacenter_1 node #6 			102.0125
+replica #196    			Datacenter_2 node #4 			28.0225
+replica #197    			Datacenter_4 node #19 			139.0225
+replica #198    			Datacenter_4 node #38 			133.6575
+replica #199    			Datacenter_4 node #31 			136.0125
+replica #200    			Datacenter_2 node #29 			22.755
+replica #201    			Datacenter_3 node #37 			100.755
+replica #202    			Datacenter_0 node #19 			154.755
+replica #203    			Datacenter_2 node #27 			22.6575
+replica #204    			Datacenter_0 node #2 			160.0225
+replica #205    			Datacenter_4 node #33 			136.0125
+replica #206    			Datacenter_1 node #3 			105.02250000000001
+replica #207    			Datacenter_4 node #36 			133.6575
+replica #208    			Datacenter_0 node #9 			157.0125
+replica #209    			Datacenter_0 node #7 			157.0125
+replica #210    			Datacenter_2 node #6 			25.0125
+replica #211    			Datacenter_2 node #20 			25.0125
+replica #212    			Datacenter_2 node #2 			28.0225
+replica #213    			Datacenter_4 node #36 			133.6575
+replica #214    			Datacenter_2 node #7 			25.0125
+replica #215    			Datacenter_2 node #28 			22.755
+replica #216    			Datacenter_4 node #53 			133.755
+replica #217    			Datacenter_4 node #27 			136.0125
+replica #218    			Datacenter_4 node #28 			136.0125
+replica #219    			Datacenter_2 node #22 			22.6575
+replica #220    			Datacenter_3 node #1 			104.09625
+replica #221    			Datacenter_4 node #3 			137.09625
+replica #222    			Datacenter_4 node #35 			133.6575
+replica #223    			Datacenter_2 node #29 			22.755
+replica #224    			Datacenter_4 node #36 			133.6575
+replica #225    			Datacenter_4 node #53 			133.755
+replica #226    			Datacenter_0 node #17 			154.6575
+replica #227    			Datacenter_0 node #6 			157.0125
+replica #228    			Datacenter_4 node #43 			133.6575
+replica #229    			Datacenter_2 node #15 			25.0125
+replica #230    			Datacenter_4 node #54 			133.755
+replica #231    			Datacenter_2 node #3 			28.0225
+replica #232    			Datacenter_0 node #14 			154.6575
+replica #233    			Datacenter_4 node #49 			133.755
+replica #234    			Datacenter_3 node #17 			106.02250000000001
+replica #235    			Datacenter_3 node #20 			106.02250000000001
+replica #236    			Datacenter_2 node #28 			22.755
+replica #237    			Datacenter_4 node #3 			137.09625
+replica #238    			Datacenter_1 node #5 			102.0125
+replica #239    			Datacenter_1 node #3 			105.02250000000001
+replica #240    			Datacenter_0 node #2 			160.0225
+replica #241    			Datacenter_1 node #9 			102.0125
+replica #242    			Datacenter_3 node #37 			100.755
+replica #243    			Datacenter_4 node #37 			133.6575
+replica #244    			Datacenter_3 node #17 			106.02250000000001
+replica #245    			Datacenter_0 node #8 			157.0125
+replica #246    			Datacenter_2 node #13 			25.0125
+replica #247    			Datacenter_4 node #37 			133.6575
+replica #248    			Datacenter_4 node #44 			133.6575
+replica #249    			Datacenter_4 node #36 			133.6575
+replica #250    			Datacenter_3 node #37 			100.755
+replica #251    			Datacenter_2 node #8 			25.0125
+replica #252    			Datacenter_3 node #4 			104.09625
+replica #253    			Datacenter_1 node #3 			105.02250000000001
+replica #254    			Datacenter_4 node #6 			137.09625
+replica #255    			Datacenter_3 node #19 			106.02250000000001
+replica #256    			Datacenter_4 node #52 			133.755
+replica #257    			Datacenter_4 node #13 			139.0225
+replica #258    			Datacenter_0 node #2 			160.0225
+replica #259    			Datacenter_1 node #5 			102.0125
+replica #260    			Datacenter_1 node #9 			102.0125
+replica #261    			Datacenter_3 node #10 			104.09625
+replica #262    			Datacenter_4 node #54 			133.755
+replica #263    			Datacenter_2 node #3 			28.0225
+replica #264    			Datacenter_2 node #23 			22.6575
+replica #265    			Datacenter_1 node #14 			99.755
+replica #266    			Datacenter_0 node #9 			157.0125
+replica #267    			Datacenter_4 node #11 			139.0225
+replica #268    			Datacenter_4 node #28 			136.0125
+replica #269    			Datacenter_2 node #22 			22.6575
+replica #270    			Datacenter_4 node #24 			136.0125
+replica #271    			Datacenter_2 node #18 			25.0125
+replica #272    			Datacenter_2 node #19 			25.0125
+replica #273    			Datacenter_1 node #11 			99.6575
+replica #274    			Datacenter_0 node #0 			158.09625
+replica #275    			Datacenter_2 node #11 			25.0125
+replica #276    			Datacenter_3 node #20 			106.02250000000001
+replica #277    			Datacenter_2 node #21 			25.0125
+replica #278    			Datacenter_4 node #7 			137.09625
+replica #279    			Datacenter_4 node #24 			136.0125
+replica #280    			Datacenter_0 node #4 			160.0225
+replica #281    			Datacenter_3 node #28 			100.6575
+replica #282    			Datacenter_3 node #7 			104.09625
+replica #283    			Datacenter_4 node #30 			136.0125
+replica #284    			Datacenter_3 node #11 			104.09625
+replica #285    			Datacenter_2 node #29 			22.755
+replica #286    			Datacenter_0 node #2 			160.0225
+replica #287    			Datacenter_3 node #28 			100.6575
+replica #288    			Datacenter_3 node #2 			104.09625
+replica #289    			Datacenter_4 node #4 			137.09625
+replica #290    			Datacenter_3 node #25 			100.6575
+replica #291    			Datacenter_2 node #19 			25.0125
+replica #292    			Datacenter_3 node #22 			103.0125
+replica #293    			Datacenter_0 node #11 			154.6575
+replica #294    			Datacenter_3 node #36 			100.755
+replica #295    			Datacenter_4 node #5 			137.09625
+replica #296    			Datacenter_4 node #17 			139.0225
+replica #297    			Datacenter_0 node #2 			160.0225
+replica #298    			Datacenter_4 node #3 			137.09625
+replica #299    			Datacenter_2 node #27 			22.6575
+replica #300    			Datacenter_4 node #33 			136.0125
+replica #301    			Datacenter_1 node #3 			105.02250000000001
+replica #302    			Datacenter_4 node #26 			136.0125
+replica #303    			Datacenter_2 node #8 			25.0125
+replica #304    			Datacenter_4 node #50 			133.755
+replica #305    			Datacenter_0 node #19 			154.755
+replica #306    			Datacenter_2 node #7 			25.0125
+replica #307    			Datacenter_2 node #22 			22.6575
+replica #308    			Datacenter_3 node #34 			100.755
+replica #309    			Datacenter_3 node #1 			104.09625
+replica #310    			Datacenter_3 node #31 			100.6575
+replica #311    			Datacenter_4 node #20 			139.0225
+replica #312    			Datacenter_4 node #24 			136.0125
+replica #313    			Datacenter_4 node #14 			139.0225
+replica #314    			Datacenter_4 node #54 			133.755
+replica #315    			Datacenter_0 node #17 			154.6575
+replica #316    			Datacenter_0 node #11 			154.6575
+replica #317    			Datacenter_2 node #9 			25.0125
+replica #318    			Datacenter_1 node #4 			102.0125
+replica #319    			Datacenter_1 node #12 			99.6575
+replica #320    			Datacenter_4 node #42 			133.6575
+replica #321    			Datacenter_3 node #37 			100.755
+replica #322    			Datacenter_0 node #12 			154.6575
+replica #323    			Datacenter_3 node #0 			104.09625
+replica #324    			Datacenter_4 node #45 			133.755
+replica #325    			Datacenter_2 node #21 			25.0125
+replica #326    			Datacenter_2 node #1 			26.09625
+replica #327    			Datacenter_4 node #23 			136.0125
+replica #328    			Datacenter_3 node #32 			100.6575
+replica #329    			Datacenter_1 node #10 			99.6575
+replica #330    			Datacenter_3 node #12 			106.02250000000001
+replica #331    			Datacenter_3 node #22 			103.0125
+replica #332    			Datacenter_1 node #12 			99.6575
+replica #333    			Datacenter_4 node #1 			137.09625
+replica #334    			Datacenter_3 node #18 			106.02250000000001
+replica #335    			Datacenter_4 node #20 			139.0225
+replica #336    			Datacenter_4 node #27 			136.0125
+replica #337    			Datacenter_3 node #27 			100.6575
+replica #338    			Datacenter_1 node #5 			102.0125
+replica #339    			Datacenter_4 node #12 			139.0225
+replica #340    			Datacenter_4 node #6 			137.09625
+replica #341    			Datacenter_4 node #32 			136.0125
+replica #342    			Datacenter_4 node #42 			133.6575
+replica #343    			Datacenter_0 node #7 			157.0125
+replica #344    			Datacenter_1 node #11 			99.6575
+replica #345    			Datacenter_1 node #10 			99.6575
+replica #346    			Datacenter_1 node #12 			99.6575
+replica #347    			Datacenter_3 node #10 			104.09625
+replica #348    			Datacenter_2 node #18 			25.0125
+replica #349    			Datacenter_2 node #27 			22.6575
+replica #350    			Datacenter_4 node #30 			136.0125
+replica #351    			Datacenter_4 node #24 			136.0125
+replica #352    			Datacenter_3 node #1 			104.09625
+replica #353    			Datacenter_3 node #6 			104.09625
+replica #354    			Datacenter_4 node #35 			133.6575
+replica #355    			Datacenter_3 node #29 			100.6575
+replica #356    			Datacenter_0 node #13 			154.6575
+replica #357    			Datacenter_4 node #42 			133.6575
+replica #358    			Datacenter_2 node #12 			25.0125
+replica #359    			Datacenter_3 node #32 			100.6575
+replica #360    			Datacenter_4 node #26 			136.0125
+replica #361    			Datacenter_2 node #24 			22.6575
+replica #362    			Datacenter_0 node #2 			160.0225
+replica #363    			Datacenter_0 node #4 			160.0225
+replica #364    			Datacenter_1 node #7 			102.0125
+replica #365    			Datacenter_4 node #44 			133.6575
+replica #366    			Datacenter_3 node #36 			100.755
+replica #367    			Datacenter_3 node #13 			106.02250000000001
+replica #368    			Datacenter_4 node #28 			136.0125
+replica #369    			Datacenter_3 node #29 			100.6575
+replica #370    			Datacenter_0 node #0 			158.09625
+replica #371    			Datacenter_3 node #36 			100.755
+replica #372    			Datacenter_2 node #11 			25.0125
+replica #373    			Datacenter_4 node #41 			133.6575
+replica #374    			Datacenter_1 node #8 			102.0125
+replica #375    			Datacenter_4 node #24 			136.0125
+replica #376    			Datacenter_3 node #17 			106.02250000000001
+replica #377    			Datacenter_2 node #21 			25.0125
+replica #378    			Datacenter_1 node #10 			99.6575
+replica #379    			Datacenter_3 node #26 			100.6575
+replica #380    			Datacenter_4 node #22 			139.0225
+replica #381    			Datacenter_1 node #7 			102.0125
+replica #382    			Datacenter_3 node #0 			104.09625
+replica #383    			Datacenter_3 node #35 			100.755
+replica #384    			Datacenter_0 node #2 			160.0225
+replica #385    			Datacenter_0 node #19 			154.755
+replica #386    			Datacenter_4 node #38 			133.6575
+replica #387    			Datacenter_3 node #17 			106.02250000000001
+replica #388    			Datacenter_0 node #17 			154.6575
+replica #389    			Datacenter_4 node #26 			136.0125
+replica #390    			Datacenter_3 node #27 			100.6575
+replica #391    			Datacenter_2 node #18 			25.0125
+replica #392    			Datacenter_4 node #11 			139.0225
+replica #393    			Datacenter_2 node #24 			22.6575
+replica #394    			Datacenter_3 node #30 			100.6575
+replica #395    			Datacenter_0 node #8 			157.0125
+replica #396    			Datacenter_3 node #16 			106.02250000000001
+replica #397    			Datacenter_1 node #9 			102.0125
+replica #398    			Datacenter_3 node #12 			106.02250000000001
+replica #399    			Datacenter_3 node #2 			104.09625
+replica #400    			Datacenter_4 node #41 			133.6575
+replica #401    			Datacenter_4 node #51 			133.755
+replica #402    			Datacenter_4 node #43 			133.6575
+replica #403    			Datacenter_4 node #36 			133.6575
+replica #404    			Datacenter_4 node #11 			139.0225
+replica #405    			Datacenter_3 node #32 			100.6575
+replica #406    			Datacenter_4 node #40 			133.6575
+replica #407    			Datacenter_2 node #12 			25.0125
+replica #408    			Datacenter_4 node #38 			133.6575
+replica #409    			Datacenter_3 node #7 			104.09625
+replica #410    			Datacenter_4 node #5 			137.09625
+replica #411    			Datacenter_0 node #4 			160.0225
+replica #412    			Datacenter_1 node #9 			102.0125
+replica #413    			Datacenter_4 node #30 			136.0125
+replica #414    			Datacenter_4 node #18 			139.0225
+replica #415    			Datacenter_4 node #3 			137.09625
+replica #416    			Datacenter_4 node #0 			137.09625
+replica #417    			Datacenter_4 node #5 			137.09625
+replica #418    			Datacenter_3 node #7 			104.09625
+replica #419    			Datacenter_3 node #31 			100.6575
+replica #420    			Datacenter_2 node #19 			25.0125
+replica #421    			Datacenter_4 node #32 			136.0125
+replica #422    			Datacenter_3 node #28 			100.6575
+replica #423    			Datacenter_3 node #31 			100.6575
+replica #424    			Datacenter_4 node #32 			136.0125
+replica #425    			Datacenter_2 node #0 			26.09625
+replica #426    			Datacenter_1 node #3 			105.02250000000001
+replica #427    			Datacenter_0 node #7 			157.0125
+replica #428    			Datacenter_4 node #10 			137.09625
+replica #429    			Datacenter_4 node #28 			136.0125
+replica #430    			Datacenter_3 node #30 			100.6575
+replica #431    			Datacenter_0 node #0 			158.09625
+replica #432    			Datacenter_1 node #11 			99.6575
+replica #433    			Datacenter_2 node #25 			22.6575
+replica #434    			Datacenter_3 node #38 			100.755
+replica #435    			Datacenter_4 node #9 			137.09625
+replica #436    			Datacenter_4 node #44 			133.6575
+replica #437    			Datacenter_4 node #48 			133.755
+replica #438    			Datacenter_2 node #1 			26.09625
+replica #439    			Datacenter_2 node #20 			25.0125
+replica #440    			Datacenter_3 node #39 			100.755
+replica #441    			Datacenter_2 node #14 			25.0125
+replica #442    			Datacenter_4 node #26 			136.0125
+replica #443    			Datacenter_3 node #9 			104.09625
+replica #444    			Datacenter_4 node #25 			136.0125
+replica #445    			Datacenter_4 node #28 			136.0125
+replica #446    			Datacenter_0 node #10 			157.0125
+replica #447    			Datacenter_2 node #28 			22.755
+replica #448    			Datacenter_3 node #9 			104.09625
+replica #449    			Datacenter_2 node #25 			22.6575
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		60000.0		320000.0		0.1875
+HarddriveStorage		1		0.0		500000.0		0.0
+HarddriveStorage		2		90000.0		500000.0		0.18
+HarddriveStorage		3		10000.0		500000.0		0.02
+HarddriveStorage		4		30000.0		500000.0		0.06
+HarddriveStorage		5		10000.0		500000.0		0.02
+HarddriveStorage		6		20000.0		1000000.0		0.02
+HarddriveStorage		7		40000.0		1000000.0		0.04
+HarddriveStorage		8		30000.0		1000000.0		0.03
+HarddriveStorage		9		50000.0		1000000.0		0.05
+HarddriveStorage		10		10000.0		1000000.0		0.01
+HarddriveStorage		11		30000.0		2000000.0		0.015
+HarddriveStorage		12		10000.0		2000000.0		0.005
+HarddriveStorage		13		20000.0		2000000.0		0.01
+HarddriveStorage		14		30000.0		2000000.0		0.015
+HarddriveStorage		15		10000.0		2000000.0		0.005
+HarddriveStorage		16		30000.0		2000000.0		0.015
+HarddriveStorage		17		40000.0		2000000.0		0.02
+HarddriveStorage		18		0.0		2000000.0		0.0
+HarddriveStorage		19		70000.0		4000000.0		0.0175
+totalStored:590000.0		totalCapcity:2.782E7		AverageStorageUseage:0.021207764198418404
+*****PowerDatacenter: Datacenter_0*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		0.0		320000.0		0.0
+HarddriveStorage		1		10000.0		500000.0		0.02
+HarddriveStorage		2		10000.0		500000.0		0.02
+HarddriveStorage		3		50000.0		500000.0		0.1
+HarddriveStorage		4		10000.0		1000000.0		0.01
+HarddriveStorage		5		60000.0		1000000.0		0.06
+HarddriveStorage		6		20000.0		1000000.0		0.02
+HarddriveStorage		7		50000.0		1000000.0		0.05
+HarddriveStorage		8		20000.0		1000000.0		0.02
+HarddriveStorage		9		40000.0		1000000.0		0.04
+HarddriveStorage		10		50000.0		2000000.0		0.025
+HarddriveStorage		11		50000.0		2000000.0		0.025
+HarddriveStorage		12		30000.0		2000000.0		0.015
+HarddriveStorage		13		10000.0		2000000.0		0.005
+HarddriveStorage		14		20000.0		4000000.0		0.005
+totalStored:430000.0		totalCapcity:1.982E7		AverageStorageUseage:0.021695257315842584
+*****PowerDatacenter: Datacenter_1*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		30000.0		320000.0		0.09375
+HarddriveStorage		1		50000.0		320000.0		0.15625
+HarddriveStorage		2		10000.0		500000.0		0.02
+HarddriveStorage		3		20000.0		500000.0		0.04
+HarddriveStorage		4		30000.0		500000.0		0.06
+HarddriveStorage		5		0.0		1000000.0		0.0
+HarddriveStorage		6		30000.0		1000000.0		0.03
+HarddriveStorage		7		30000.0		1000000.0		0.03
+HarddriveStorage		8		30000.0		1000000.0		0.03
+HarddriveStorage		9		10000.0		1000000.0		0.01
+HarddriveStorage		10		10000.0		1000000.0		0.01
+HarddriveStorage		11		20000.0		1000000.0		0.02
+HarddriveStorage		12		20000.0		1000000.0		0.02
+HarddriveStorage		13		10000.0		1000000.0		0.01
+HarddriveStorage		14		20000.0		1000000.0		0.02
+HarddriveStorage		15		70000.0		1000000.0		0.07
+HarddriveStorage		16		30000.0		1000000.0		0.03
+HarddriveStorage		17		50000.0		1000000.0		0.05
+HarddriveStorage		18		50000.0		1000000.0		0.05
+HarddriveStorage		19		30000.0		1000000.0		0.03
+HarddriveStorage		20		30000.0		1000000.0		0.03
+HarddriveStorage		21		40000.0		1000000.0		0.04
+HarddriveStorage		22		40000.0		2000000.0		0.02
+HarddriveStorage		23		50000.0		2000000.0		0.025
+HarddriveStorage		24		40000.0		2000000.0		0.02
+HarddriveStorage		25		40000.0		2000000.0		0.02
+HarddriveStorage		26		30000.0		2000000.0		0.015
+HarddriveStorage		27		40000.0		2000000.0		0.02
+HarddriveStorage		28		40000.0		4000000.0		0.01
+HarddriveStorage		29		40000.0		4000000.0		0.01
+totalStored:940000.0		totalCapcity:3.914E7		AverageStorageUseage:0.02401635155850792
+*****PowerDatacenter: Datacenter_2*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		20000.0		320000.0		0.0625
+HarddriveStorage		1		50000.0		320000.0		0.15625
+HarddriveStorage		2		60000.0		320000.0		0.1875
+HarddriveStorage		3		10000.0		320000.0		0.03125
+HarddriveStorage		4		20000.0		320000.0		0.0625
+HarddriveStorage		5		10000.0		320000.0		0.03125
+HarddriveStorage		6		10000.0		320000.0		0.03125
+HarddriveStorage		7		40000.0		320000.0		0.125
+HarddriveStorage		8		10000.0		320000.0		0.03125
+HarddriveStorage		9		40000.0		320000.0		0.125
+HarddriveStorage		10		40000.0		320000.0		0.125
+HarddriveStorage		11		30000.0		320000.0		0.09375
+HarddriveStorage		12		40000.0		500000.0		0.08
+HarddriveStorage		13		10000.0		500000.0		0.02
+HarddriveStorage		14		20000.0		500000.0		0.04
+HarddriveStorage		15		20000.0		500000.0		0.04
+HarddriveStorage		16		30000.0		500000.0		0.06
+HarddriveStorage		17		50000.0		500000.0		0.1
+HarddriveStorage		18		30000.0		500000.0		0.06
+HarddriveStorage		19		20000.0		500000.0		0.04
+HarddriveStorage		20		20000.0		500000.0		0.04
+HarddriveStorage		21		10000.0		1000000.0		0.01
+HarddriveStorage		22		30000.0		1000000.0		0.03
+HarddriveStorage		23		10000.0		1000000.0		0.01
+HarddriveStorage		24		20000.0		1000000.0		0.02
+HarddriveStorage		25		20000.0		2000000.0		0.01
+HarddriveStorage		26		20000.0		2000000.0		0.01
+HarddriveStorage		27		40000.0		2000000.0		0.02
+HarddriveStorage		28		40000.0		2000000.0		0.02
+HarddriveStorage		29		40000.0		2000000.0		0.02
+HarddriveStorage		30		50000.0		2000000.0		0.025
+HarddriveStorage		31		30000.0		2000000.0		0.015
+HarddriveStorage		32		30000.0		2000000.0		0.015
+HarddriveStorage		33		0.0		4000000.0		0.0
+HarddriveStorage		34		10000.0		4000000.0		0.0025
+HarddriveStorage		35		20000.0		4000000.0		0.005
+HarddriveStorage		36		40000.0		4000000.0		0.01
+HarddriveStorage		37		50000.0		4000000.0		0.0125
+HarddriveStorage		38		10000.0		4000000.0		0.0025
+HarddriveStorage		39		10000.0		4000000.0		0.0025
+totalStored:1060000.0		totalCapcity:5.634E7		AverageStorageUseage:0.018814341498047567
+*****PowerDatacenter: Datacenter_3*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		30000.0		320000.0		0.09375
+HarddriveStorage		1		40000.0		320000.0		0.125
+HarddriveStorage		2		10000.0		320000.0		0.03125
+HarddriveStorage		3		60000.0		320000.0		0.1875
+HarddriveStorage		4		20000.0		320000.0		0.0625
+HarddriveStorage		5		40000.0		320000.0		0.125
+HarddriveStorage		6		30000.0		320000.0		0.09375
+HarddriveStorage		7		20000.0		320000.0		0.0625
+HarddriveStorage		8		10000.0		320000.0		0.03125
+HarddriveStorage		9		20000.0		320000.0		0.0625
+HarddriveStorage		10		20000.0		320000.0		0.0625
+HarddriveStorage		11		40000.0		500000.0		0.08
+HarddriveStorage		12		20000.0		500000.0		0.04
+HarddriveStorage		13		10000.0		500000.0		0.02
+HarddriveStorage		14		20000.0		500000.0		0.04
+HarddriveStorage		15		0.0		500000.0		0.0
+HarddriveStorage		16		10000.0		500000.0		0.02
+HarddriveStorage		17		30000.0		500000.0		0.06
+HarddriveStorage		18		20000.0		500000.0		0.04
+HarddriveStorage		19		20000.0		500000.0		0.04
+HarddriveStorage		20		20000.0		500000.0		0.04
+HarddriveStorage		21		0.0		500000.0		0.0
+HarddriveStorage		22		10000.0		500000.0		0.02
+HarddriveStorage		23		20000.0		1000000.0		0.02
+HarddriveStorage		24		60000.0		1000000.0		0.06
+HarddriveStorage		25		30000.0		1000000.0		0.03
+HarddriveStorage		26		40000.0		1000000.0		0.04
+HarddriveStorage		27		20000.0		1000000.0		0.02
+HarddriveStorage		28		80000.0		1000000.0		0.08
+HarddriveStorage		29		30000.0		1000000.0		0.03
+HarddriveStorage		30		30000.0		1000000.0		0.03
+HarddriveStorage		31		20000.0		1000000.0		0.02
+HarddriveStorage		32		40000.0		1000000.0		0.04
+HarddriveStorage		33		40000.0		1000000.0		0.04
+HarddriveStorage		34		10000.0		2000000.0		0.005
+HarddriveStorage		35		30000.0		2000000.0		0.015
+HarddriveStorage		36		50000.0		2000000.0		0.025
+HarddriveStorage		37		30000.0		2000000.0		0.015
+HarddriveStorage		38		30000.0		2000000.0		0.015
+HarddriveStorage		39		0.0		2000000.0		0.0
+HarddriveStorage		40		30000.0		2000000.0		0.015
+HarddriveStorage		41		30000.0		2000000.0		0.015
+HarddriveStorage		42		30000.0		2000000.0		0.015
+HarddriveStorage		43		20000.0		2000000.0		0.01
+HarddriveStorage		44		30000.0		2000000.0		0.015
+HarddriveStorage		45		10000.0		4000000.0		0.0025
+HarddriveStorage		46		20000.0		4000000.0		0.005
+HarddriveStorage		47		0.0		4000000.0		0.0
+HarddriveStorage		48		20000.0		4000000.0		0.005
+HarddriveStorage		49		10000.0		4000000.0		0.0025
+HarddriveStorage		50		50000.0		4000000.0		0.0125
+HarddriveStorage		51		40000.0		4000000.0		0.01
+HarddriveStorage		52		20000.0		4000000.0		0.005
+HarddriveStorage		53		60000.0		4000000.0		0.015
+HarddriveStorage		54		50000.0		4000000.0		0.0125
+totalStored:1480000.0		totalCapcity:8.252E7		AverageStorageUseage:0.01793504604944256
+*****PowerDatacenter: Datacenter_4*****
+User id		Debt
+**********************************
+Starting CloudSim version 2.0
+SdBroker is starting...
+Datacenter_0 is starting...
+Datacenter_1 is starting...
+Datacenter_2 is starting...
+Datacenter_3 is starting...
+Datacenter_4 is starting...
+AddedBroker is starting ...
+Entities started.
+
+
+
+20.0: The simulation is paused for 5 sec 
+
+
+File CloudFile0-blk1-rep0 who's id is 460 is inited!
+File CloudFile0-blk1-rep1 who's id is 461 is inited!
+File CloudFile0-blk1-rep2 who's id is 462 is inited!
+File CloudFile0-blk1-rep3 who's id is 463 is inited!
+File CloudFile0-blk1-rep4 who's id is 464 is inited!
+File CloudFile1-blk1-rep0 who's id is 465 is inited!
+File CloudFile1-blk1-rep1 who's id is 466 is inited!
+File CloudFile1-blk1-rep2 who's id is 467 is inited!
+File CloudFile1-blk1-rep3 who's id is 468 is inited!
+File CloudFile1-blk1-rep4 who's id is 469 is inited!
+File CloudFile2-blk1-rep0 who's id is 470 is inited!
+File CloudFile2-blk1-rep1 who's id is 471 is inited!
+File CloudFile2-blk1-rep2 who's id is 472 is inited!
+File CloudFile2-blk1-rep3 who's id is 473 is inited!
+File CloudFile2-blk1-rep4 who's id is 474 is inited!
+File CloudFile3-blk1-rep0 who's id is 475 is inited!
+File CloudFile3-blk1-rep1 who's id is 476 is inited!
+File CloudFile3-blk1-rep2 who's id is 477 is inited!
+File CloudFile3-blk1-rep3 who's id is 478 is inited!
+File CloudFile3-blk1-rep4 who's id is 479 is inited!
+File CloudFile4-blk1-rep0 who's id is 480 is inited!
+File CloudFile4-blk1-rep1 who's id is 481 is inited!
+File CloudFile4-blk1-rep2 who's id is 482 is inited!
+File CloudFile4-blk1-rep3 who's id is 483 is inited!
+File CloudFile4-blk1-rep4 who's id is 484 is inited!
+File CloudFile5-blk1-rep0 who's id is 485 is inited!
+File CloudFile5-blk1-rep1 who's id is 486 is inited!
+File CloudFile5-blk1-rep2 who's id is 487 is inited!
+File CloudFile5-blk1-rep3 who's id is 488 is inited!
+File CloudFile5-blk1-rep4 who's id is 489 is inited!
+File CloudFile6-blk1-rep0 who's id is 490 is inited!
+File CloudFile6-blk1-rep1 who's id is 491 is inited!
+File CloudFile6-blk1-rep2 who's id is 492 is inited!
+File CloudFile6-blk1-rep3 who's id is 493 is inited!
+File CloudFile6-blk1-rep4 who's id is 494 is inited!
+File CloudFile7-blk1-rep0 who's id is 495 is inited!
+File CloudFile7-blk1-rep1 who's id is 496 is inited!
+File CloudFile7-blk1-rep2 who's id is 497 is inited!
+File CloudFile7-blk1-rep3 who's id is 498 is inited!
+File CloudFile7-blk1-rep4 who's id is 499 is inited!
+File CloudFile8-blk1-rep0 who's id is 500 is inited!
+File CloudFile8-blk1-rep1 who's id is 501 is inited!
+File CloudFile8-blk1-rep2 who's id is 502 is inited!
+File CloudFile8-blk1-rep3 who's id is 503 is inited!
+File CloudFile8-blk1-rep4 who's id is 504 is inited!
+File CloudFile9-blk1-rep0 who's id is 505 is inited!
+File CloudFile9-blk1-rep1 who's id is 506 is inited!
+File CloudFile9-blk1-rep2 who's id is 507 is inited!
+File CloudFile9-blk1-rep3 who's id is 508 is inited!
+File CloudFile9-blk1-rep4 who's id is 509 is inited!
+File CloudFile10-blk1-rep0 who's id is 510 is inited!
+File CloudFile10-blk1-rep1 who's id is 511 is inited!
+File CloudFile10-blk1-rep2 who's id is 512 is inited!
+File CloudFile10-blk1-rep3 who's id is 513 is inited!
+File CloudFile10-blk1-rep4 who's id is 514 is inited!
+File CloudFile11-blk1-rep0 who's id is 515 is inited!
+File CloudFile11-blk1-rep1 who's id is 516 is inited!
+File CloudFile11-blk1-rep2 who's id is 517 is inited!
+File CloudFile11-blk1-rep3 who's id is 518 is inited!
+File CloudFile11-blk1-rep4 who's id is 519 is inited!
+File CloudFile12-blk1-rep0 who's id is 520 is inited!
+File CloudFile12-blk1-rep1 who's id is 521 is inited!
+File CloudFile12-blk1-rep2 who's id is 522 is inited!
+File CloudFile12-blk1-rep3 who's id is 523 is inited!
+File CloudFile12-blk1-rep4 who's id is 524 is inited!
+File CloudFile13-blk1-rep0 who's id is 525 is inited!
+File CloudFile13-blk1-rep1 who's id is 526 is inited!
+File CloudFile13-blk1-rep2 who's id is 527 is inited!
+File CloudFile13-blk1-rep3 who's id is 528 is inited!
+File CloudFile13-blk1-rep4 who's id is 529 is inited!
+File CloudFile14-blk1-rep0 who's id is 530 is inited!
+File CloudFile14-blk1-rep1 who's id is 531 is inited!
+File CloudFile14-blk1-rep2 who's id is 532 is inited!
+File CloudFile14-blk1-rep3 who's id is 533 is inited!
+File CloudFile14-blk1-rep4 who's id is 534 is inited!
+File CloudFile15-blk1-rep0 who's id is 535 is inited!
+File CloudFile15-blk1-rep1 who's id is 536 is inited!
+File CloudFile15-blk1-rep2 who's id is 537 is inited!
+File CloudFile15-blk1-rep3 who's id is 538 is inited!
+File CloudFile15-blk1-rep4 who's id is 539 is inited!
+File CloudFile16-blk1-rep0 who's id is 540 is inited!
+File CloudFile16-blk1-rep1 who's id is 541 is inited!
+File CloudFile16-blk1-rep2 who's id is 542 is inited!
+File CloudFile16-blk1-rep3 who's id is 543 is inited!
+File CloudFile16-blk1-rep4 who's id is 544 is inited!
+File CloudFile17-blk1-rep0 who's id is 545 is inited!
+File CloudFile17-blk1-rep1 who's id is 546 is inited!
+File CloudFile17-blk1-rep2 who's id is 547 is inited!
+File CloudFile17-blk1-rep3 who's id is 548 is inited!
+File CloudFile17-blk1-rep4 who's id is 549 is inited!
+File CloudFile18-blk1-rep0 who's id is 550 is inited!
+File CloudFile18-blk1-rep1 who's id is 551 is inited!
+File CloudFile18-blk1-rep2 who's id is 552 is inited!
+File CloudFile18-blk1-rep3 who's id is 553 is inited!
+File CloudFile18-blk1-rep4 who's id is 554 is inited!
+File CloudFile19-blk1-rep0 who's id is 555 is inited!
+File CloudFile19-blk1-rep1 who's id is 556 is inited!
+File CloudFile19-blk1-rep2 who's id is 557 is inited!
+File CloudFile19-blk1-rep3 who's id is 558 is inited!
+File CloudFile19-blk1-rep4 who's id is 559 is inited!
+File CloudFile20-blk1-rep0 who's id is 560 is inited!
+File CloudFile20-blk1-rep1 who's id is 561 is inited!
+File CloudFile20-blk1-rep2 who's id is 562 is inited!
+File CloudFile20-blk1-rep3 who's id is 563 is inited!
+File CloudFile20-blk1-rep4 who's id is 564 is inited!
+File CloudFile21-blk1-rep0 who's id is 565 is inited!
+File CloudFile21-blk1-rep1 who's id is 566 is inited!
+File CloudFile21-blk1-rep2 who's id is 567 is inited!
+File CloudFile21-blk1-rep3 who's id is 568 is inited!
+File CloudFile21-blk1-rep4 who's id is 569 is inited!
+File CloudFile22-blk1-rep0 who's id is 570 is inited!
+File CloudFile22-blk1-rep1 who's id is 571 is inited!
+File CloudFile22-blk1-rep2 who's id is 572 is inited!
+File CloudFile22-blk1-rep3 who's id is 573 is inited!
+File CloudFile22-blk1-rep4 who's id is 574 is inited!
+File CloudFile23-blk1-rep0 who's id is 575 is inited!
+File CloudFile23-blk1-rep1 who's id is 576 is inited!
+File CloudFile23-blk1-rep2 who's id is 577 is inited!
+File CloudFile23-blk1-rep3 who's id is 578 is inited!
+File CloudFile23-blk1-rep4 who's id is 579 is inited!
+File CloudFile24-blk1-rep0 who's id is 580 is inited!
+File CloudFile24-blk1-rep1 who's id is 581 is inited!
+File CloudFile24-blk1-rep2 who's id is 582 is inited!
+File CloudFile24-blk1-rep3 who's id is 583 is inited!
+File CloudFile24-blk1-rep4 who's id is 584 is inited!
+File CloudFile25-blk1-rep0 who's id is 585 is inited!
+File CloudFile25-blk1-rep1 who's id is 586 is inited!
+File CloudFile25-blk1-rep2 who's id is 587 is inited!
+File CloudFile25-blk1-rep3 who's id is 588 is inited!
+File CloudFile25-blk1-rep4 who's id is 589 is inited!
+File CloudFile26-blk1-rep0 who's id is 590 is inited!
+File CloudFile26-blk1-rep1 who's id is 591 is inited!
+File CloudFile26-blk1-rep2 who's id is 592 is inited!
+File CloudFile26-blk1-rep3 who's id is 593 is inited!
+File CloudFile26-blk1-rep4 who's id is 594 is inited!
+File CloudFile27-blk1-rep0 who's id is 595 is inited!
+File CloudFile27-blk1-rep1 who's id is 596 is inited!
+File CloudFile27-blk1-rep2 who's id is 597 is inited!
+File CloudFile27-blk1-rep3 who's id is 598 is inited!
+File CloudFile27-blk1-rep4 who's id is 599 is inited!
+File CloudFile28-blk1-rep0 who's id is 600 is inited!
+File CloudFile28-blk1-rep1 who's id is 601 is inited!
+File CloudFile28-blk1-rep2 who's id is 602 is inited!
+File CloudFile28-blk1-rep3 who's id is 603 is inited!
+File CloudFile28-blk1-rep4 who's id is 604 is inited!
+File CloudFile29-blk1-rep0 who's id is 605 is inited!
+File CloudFile29-blk1-rep1 who's id is 606 is inited!
+File CloudFile29-blk1-rep2 who's id is 607 is inited!
+File CloudFile29-blk1-rep3 who's id is 608 is inited!
+File CloudFile29-blk1-rep4 who's id is 609 is inited!
+File CloudFile30-blk1-rep0 who's id is 610 is inited!
+File CloudFile30-blk1-rep1 who's id is 611 is inited!
+File CloudFile30-blk1-rep2 who's id is 612 is inited!
+File CloudFile30-blk1-rep3 who's id is 613 is inited!
+File CloudFile30-blk1-rep4 who's id is 614 is inited!
+File CloudFile31-blk1-rep0 who's id is 615 is inited!
+File CloudFile31-blk1-rep1 who's id is 616 is inited!
+File CloudFile31-blk1-rep2 who's id is 617 is inited!
+File CloudFile31-blk1-rep3 who's id is 618 is inited!
+File CloudFile31-blk1-rep4 who's id is 619 is inited!
+File CloudFile32-blk1-rep0 who's id is 620 is inited!
+File CloudFile32-blk1-rep1 who's id is 621 is inited!
+File CloudFile32-blk1-rep2 who's id is 622 is inited!
+File CloudFile32-blk1-rep3 who's id is 623 is inited!
+File CloudFile32-blk1-rep4 who's id is 624 is inited!
+File CloudFile33-blk1-rep0 who's id is 625 is inited!
+File CloudFile33-blk1-rep1 who's id is 626 is inited!
+File CloudFile33-blk1-rep2 who's id is 627 is inited!
+File CloudFile33-blk1-rep3 who's id is 628 is inited!
+File CloudFile33-blk1-rep4 who's id is 629 is inited!
+File CloudFile34-blk1-rep0 who's id is 630 is inited!
+File CloudFile34-blk1-rep1 who's id is 631 is inited!
+File CloudFile34-blk1-rep2 who's id is 632 is inited!
+File CloudFile34-blk1-rep3 who's id is 633 is inited!
+File CloudFile34-blk1-rep4 who's id is 634 is inited!
+File CloudFile35-blk1-rep0 who's id is 635 is inited!
+File CloudFile35-blk1-rep1 who's id is 636 is inited!
+File CloudFile35-blk1-rep2 who's id is 637 is inited!
+File CloudFile35-blk1-rep3 who's id is 638 is inited!
+File CloudFile35-blk1-rep4 who's id is 639 is inited!
+File CloudFile36-blk1-rep0 who's id is 640 is inited!
+File CloudFile36-blk1-rep1 who's id is 641 is inited!
+File CloudFile36-blk1-rep2 who's id is 642 is inited!
+File CloudFile36-blk1-rep3 who's id is 643 is inited!
+File CloudFile36-blk1-rep4 who's id is 644 is inited!
+File CloudFile37-blk1-rep0 who's id is 645 is inited!
+File CloudFile37-blk1-rep1 who's id is 646 is inited!
+File CloudFile37-blk1-rep2 who's id is 647 is inited!
+File CloudFile37-blk1-rep3 who's id is 648 is inited!
+File CloudFile37-blk1-rep4 who's id is 649 is inited!
+File CloudFile38-blk1-rep0 who's id is 650 is inited!
+File CloudFile38-blk1-rep1 who's id is 651 is inited!
+File CloudFile38-blk1-rep2 who's id is 652 is inited!
+File CloudFile38-blk1-rep3 who's id is 653 is inited!
+File CloudFile38-blk1-rep4 who's id is 654 is inited!
+File CloudFile39-blk1-rep0 who's id is 655 is inited!
+File CloudFile39-blk1-rep1 who's id is 656 is inited!
+File CloudFile39-blk1-rep2 who's id is 657 is inited!
+File CloudFile39-blk1-rep3 who's id is 658 is inited!
+File CloudFile39-blk1-rep4 who's id is 659 is inited!
+File CloudFile40-blk1-rep0 who's id is 660 is inited!
+File CloudFile40-blk1-rep1 who's id is 661 is inited!
+File CloudFile40-blk1-rep2 who's id is 662 is inited!
+File CloudFile40-blk1-rep3 who's id is 663 is inited!
+File CloudFile40-blk1-rep4 who's id is 664 is inited!
+File CloudFile41-blk1-rep0 who's id is 665 is inited!
+File CloudFile41-blk1-rep1 who's id is 666 is inited!
+File CloudFile41-blk1-rep2 who's id is 667 is inited!
+File CloudFile41-blk1-rep3 who's id is 668 is inited!
+File CloudFile41-blk1-rep4 who's id is 669 is inited!
+File CloudFile42-blk1-rep0 who's id is 670 is inited!
+File CloudFile42-blk1-rep1 who's id is 671 is inited!
+File CloudFile42-blk1-rep2 who's id is 672 is inited!
+File CloudFile42-blk1-rep3 who's id is 673 is inited!
+File CloudFile42-blk1-rep4 who's id is 674 is inited!
+File CloudFile43-blk1-rep0 who's id is 675 is inited!
+File CloudFile43-blk1-rep1 who's id is 676 is inited!
+File CloudFile43-blk1-rep2 who's id is 677 is inited!
+File CloudFile43-blk1-rep3 who's id is 678 is inited!
+File CloudFile43-blk1-rep4 who's id is 679 is inited!
+File CloudFile44-blk1-rep0 who's id is 680 is inited!
+File CloudFile44-blk1-rep1 who's id is 681 is inited!
+File CloudFile44-blk1-rep2 who's id is 682 is inited!
+File CloudFile44-blk1-rep3 who's id is 683 is inited!
+File CloudFile44-blk1-rep4 who's id is 684 is inited!
+File CloudFile45-blk1-rep0 who's id is 685 is inited!
+File CloudFile45-blk1-rep1 who's id is 686 is inited!
+File CloudFile45-blk1-rep2 who's id is 687 is inited!
+File CloudFile45-blk1-rep3 who's id is 688 is inited!
+File CloudFile45-blk1-rep4 who's id is 689 is inited!
+File CloudFile46-blk1-rep0 who's id is 690 is inited!
+File CloudFile46-blk1-rep1 who's id is 691 is inited!
+File CloudFile46-blk1-rep2 who's id is 692 is inited!
+File CloudFile46-blk1-rep3 who's id is 693 is inited!
+File CloudFile46-blk1-rep4 who's id is 694 is inited!
+File CloudFile47-blk1-rep0 who's id is 695 is inited!
+File CloudFile47-blk1-rep1 who's id is 696 is inited!
+File CloudFile47-blk1-rep2 who's id is 697 is inited!
+File CloudFile47-blk1-rep3 who's id is 698 is inited!
+File CloudFile47-blk1-rep4 who's id is 699 is inited!
+File CloudFile48-blk1-rep0 who's id is 700 is inited!
+File CloudFile48-blk1-rep1 who's id is 701 is inited!
+File CloudFile48-blk1-rep2 who's id is 702 is inited!
+File CloudFile48-blk1-rep3 who's id is 703 is inited!
+File CloudFile48-blk1-rep4 who's id is 704 is inited!
+File CloudFile49-blk1-rep0 who's id is 705 is inited!
+File CloudFile49-blk1-rep1 who's id is 706 is inited!
+File CloudFile49-blk1-rep2 who's id is 707 is inited!
+File CloudFile49-blk1-rep3 who's id is 708 is inited!
+File CloudFile49-blk1-rep4 who's id is 709 is inited!
+File CloudFile50-blk1-rep0 who's id is 710 is inited!
+File CloudFile50-blk1-rep1 who's id is 711 is inited!
+File CloudFile50-blk1-rep2 who's id is 712 is inited!
+File CloudFile50-blk1-rep3 who's id is 713 is inited!
+File CloudFile50-blk1-rep4 who's id is 714 is inited!
+File CloudFile51-blk1-rep0 who's id is 715 is inited!
+File CloudFile51-blk1-rep1 who's id is 716 is inited!
+File CloudFile51-blk1-rep2 who's id is 717 is inited!
+File CloudFile51-blk1-rep3 who's id is 718 is inited!
+File CloudFile51-blk1-rep4 who's id is 719 is inited!
+File CloudFile52-blk1-rep0 who's id is 720 is inited!
+File CloudFile52-blk1-rep1 who's id is 721 is inited!
+File CloudFile52-blk1-rep2 who's id is 722 is inited!
+File CloudFile52-blk1-rep3 who's id is 723 is inited!
+File CloudFile52-blk1-rep4 who's id is 724 is inited!
+File CloudFile53-blk1-rep0 who's id is 725 is inited!
+File CloudFile53-blk1-rep1 who's id is 726 is inited!
+File CloudFile53-blk1-rep2 who's id is 727 is inited!
+File CloudFile53-blk1-rep3 who's id is 728 is inited!
+File CloudFile53-blk1-rep4 who's id is 729 is inited!
+File CloudFile54-blk1-rep0 who's id is 730 is inited!
+File CloudFile54-blk1-rep1 who's id is 731 is inited!
+File CloudFile54-blk1-rep2 who's id is 732 is inited!
+File CloudFile54-blk1-rep3 who's id is 733 is inited!
+File CloudFile54-blk1-rep4 who's id is 734 is inited!
+File CloudFile55-blk1-rep0 who's id is 735 is inited!
+File CloudFile55-blk1-rep1 who's id is 736 is inited!
+File CloudFile55-blk1-rep2 who's id is 737 is inited!
+File CloudFile55-blk1-rep3 who's id is 738 is inited!
+File CloudFile55-blk1-rep4 who's id is 739 is inited!
+File CloudFile56-blk1-rep0 who's id is 740 is inited!
+File CloudFile56-blk1-rep1 who's id is 741 is inited!
+File CloudFile56-blk1-rep2 who's id is 742 is inited!
+File CloudFile56-blk1-rep3 who's id is 743 is inited!
+File CloudFile56-blk1-rep4 who's id is 744 is inited!
+File CloudFile57-blk1-rep0 who's id is 745 is inited!
+File CloudFile57-blk1-rep1 who's id is 746 is inited!
+File CloudFile57-blk1-rep2 who's id is 747 is inited!
+File CloudFile57-blk1-rep3 who's id is 748 is inited!
+File CloudFile57-blk1-rep4 who's id is 749 is inited!
+File CloudFile58-blk1-rep0 who's id is 750 is inited!
+File CloudFile58-blk1-rep1 who's id is 751 is inited!
+File CloudFile58-blk1-rep2 who's id is 752 is inited!
+File CloudFile58-blk1-rep3 who's id is 753 is inited!
+File CloudFile58-blk1-rep4 who's id is 754 is inited!
+File CloudFile59-blk1-rep0 who's id is 755 is inited!
+File CloudFile59-blk1-rep1 who's id is 756 is inited!
+File CloudFile59-blk1-rep2 who's id is 757 is inited!
+File CloudFile59-blk1-rep3 who's id is 758 is inited!
+File CloudFile59-blk1-rep4 who's id is 759 is inited!
+File CloudFile60-blk1-rep0 who's id is 760 is inited!
+File CloudFile60-blk1-rep1 who's id is 761 is inited!
+File CloudFile60-blk1-rep2 who's id is 762 is inited!
+File CloudFile60-blk1-rep3 who's id is 763 is inited!
+File CloudFile60-blk1-rep4 who's id is 764 is inited!
+File CloudFile61-blk1-rep0 who's id is 765 is inited!
+File CloudFile61-blk1-rep1 who's id is 766 is inited!
+File CloudFile61-blk1-rep2 who's id is 767 is inited!
+File CloudFile61-blk1-rep3 who's id is 768 is inited!
+File CloudFile61-blk1-rep4 who's id is 769 is inited!
+File CloudFile62-blk1-rep0 who's id is 770 is inited!
+File CloudFile62-blk1-rep1 who's id is 771 is inited!
+File CloudFile62-blk1-rep2 who's id is 772 is inited!
+File CloudFile62-blk1-rep3 who's id is 773 is inited!
+File CloudFile62-blk1-rep4 who's id is 774 is inited!
+File CloudFile63-blk1-rep0 who's id is 775 is inited!
+File CloudFile63-blk1-rep1 who's id is 776 is inited!
+File CloudFile63-blk1-rep2 who's id is 777 is inited!
+File CloudFile63-blk1-rep3 who's id is 778 is inited!
+File CloudFile63-blk1-rep4 who's id is 779 is inited!
+File CloudFile64-blk1-rep0 who's id is 780 is inited!
+File CloudFile64-blk1-rep1 who's id is 781 is inited!
+File CloudFile64-blk1-rep2 who's id is 782 is inited!
+File CloudFile64-blk1-rep3 who's id is 783 is inited!
+File CloudFile64-blk1-rep4 who's id is 784 is inited!
+File CloudFile65-blk1-rep0 who's id is 785 is inited!
+File CloudFile65-blk1-rep1 who's id is 786 is inited!
+File CloudFile65-blk1-rep2 who's id is 787 is inited!
+File CloudFile65-blk1-rep3 who's id is 788 is inited!
+File CloudFile65-blk1-rep4 who's id is 789 is inited!
+File CloudFile66-blk1-rep0 who's id is 790 is inited!
+File CloudFile66-blk1-rep1 who's id is 791 is inited!
+File CloudFile66-blk1-rep2 who's id is 792 is inited!
+File CloudFile66-blk1-rep3 who's id is 793 is inited!
+File CloudFile66-blk1-rep4 who's id is 794 is inited!
+File CloudFile67-blk1-rep0 who's id is 795 is inited!
+File CloudFile67-blk1-rep1 who's id is 796 is inited!
+File CloudFile67-blk1-rep2 who's id is 797 is inited!
+File CloudFile67-blk1-rep3 who's id is 798 is inited!
+File CloudFile67-blk1-rep4 who's id is 799 is inited!
+File CloudFile68-blk1-rep0 who's id is 800 is inited!
+File CloudFile68-blk1-rep1 who's id is 801 is inited!
+File CloudFile68-blk1-rep2 who's id is 802 is inited!
+File CloudFile68-blk1-rep3 who's id is 803 is inited!
+File CloudFile68-blk1-rep4 who's id is 804 is inited!
+File CloudFile69-blk1-rep0 who's id is 805 is inited!
+File CloudFile69-blk1-rep1 who's id is 806 is inited!
+File CloudFile69-blk1-rep2 who's id is 807 is inited!
+File CloudFile69-blk1-rep3 who's id is 808 is inited!
+File CloudFile69-blk1-rep4 who's id is 809 is inited!
+File CloudFile70-blk1-rep0 who's id is 810 is inited!
+File CloudFile70-blk1-rep1 who's id is 811 is inited!
+File CloudFile70-blk1-rep2 who's id is 812 is inited!
+File CloudFile70-blk1-rep3 who's id is 813 is inited!
+File CloudFile70-blk1-rep4 who's id is 814 is inited!
+File CloudFile71-blk1-rep0 who's id is 815 is inited!
+File CloudFile71-blk1-rep1 who's id is 816 is inited!
+File CloudFile71-blk1-rep2 who's id is 817 is inited!
+File CloudFile71-blk1-rep3 who's id is 818 is inited!
+File CloudFile71-blk1-rep4 who's id is 819 is inited!
+File CloudFile72-blk1-rep0 who's id is 820 is inited!
+File CloudFile72-blk1-rep1 who's id is 821 is inited!
+File CloudFile72-blk1-rep2 who's id is 822 is inited!
+File CloudFile72-blk1-rep3 who's id is 823 is inited!
+File CloudFile72-blk1-rep4 who's id is 824 is inited!
+File CloudFile73-blk1-rep0 who's id is 825 is inited!
+File CloudFile73-blk1-rep1 who's id is 826 is inited!
+File CloudFile73-blk1-rep2 who's id is 827 is inited!
+File CloudFile73-blk1-rep3 who's id is 828 is inited!
+File CloudFile73-blk1-rep4 who's id is 829 is inited!
+File CloudFile74-blk1-rep0 who's id is 830 is inited!
+File CloudFile74-blk1-rep1 who's id is 831 is inited!
+File CloudFile74-blk1-rep2 who's id is 832 is inited!
+File CloudFile74-blk1-rep3 who's id is 833 is inited!
+File CloudFile74-blk1-rep4 who's id is 834 is inited!
+File CloudFile75-blk1-rep0 who's id is 835 is inited!
+File CloudFile75-blk1-rep1 who's id is 836 is inited!
+File CloudFile75-blk1-rep2 who's id is 837 is inited!
+File CloudFile75-blk1-rep3 who's id is 838 is inited!
+File CloudFile75-blk1-rep4 who's id is 839 is inited!
+File CloudFile76-blk1-rep0 who's id is 840 is inited!
+File CloudFile76-blk1-rep1 who's id is 841 is inited!
+File CloudFile76-blk1-rep2 who's id is 842 is inited!
+File CloudFile76-blk1-rep3 who's id is 843 is inited!
+File CloudFile76-blk1-rep4 who's id is 844 is inited!
+File CloudFile77-blk1-rep0 who's id is 845 is inited!
+File CloudFile77-blk1-rep1 who's id is 846 is inited!
+File CloudFile77-blk1-rep2 who's id is 847 is inited!
+File CloudFile77-blk1-rep3 who's id is 848 is inited!
+File CloudFile77-blk1-rep4 who's id is 849 is inited!
+File CloudFile78-blk1-rep0 who's id is 850 is inited!
+File CloudFile78-blk1-rep1 who's id is 851 is inited!
+File CloudFile78-blk1-rep2 who's id is 852 is inited!
+File CloudFile78-blk1-rep3 who's id is 853 is inited!
+File CloudFile78-blk1-rep4 who's id is 854 is inited!
+File CloudFile79-blk1-rep0 who's id is 855 is inited!
+File CloudFile79-blk1-rep1 who's id is 856 is inited!
+File CloudFile79-blk1-rep2 who's id is 857 is inited!
+File CloudFile79-blk1-rep3 who's id is 858 is inited!
+File CloudFile79-blk1-rep4 who's id is 859 is inited!
+File CloudFile80-blk1-rep0 who's id is 860 is inited!
+File CloudFile80-blk1-rep1 who's id is 861 is inited!
+File CloudFile80-blk1-rep2 who's id is 862 is inited!
+File CloudFile80-blk1-rep3 who's id is 863 is inited!
+File CloudFile80-blk1-rep4 who's id is 864 is inited!
+File CloudFile81-blk1-rep0 who's id is 865 is inited!
+File CloudFile81-blk1-rep1 who's id is 866 is inited!
+File CloudFile81-blk1-rep2 who's id is 867 is inited!
+File CloudFile81-blk1-rep3 who's id is 868 is inited!
+File CloudFile81-blk1-rep4 who's id is 869 is inited!
+File CloudFile82-blk1-rep0 who's id is 870 is inited!
+File CloudFile82-blk1-rep1 who's id is 871 is inited!
+File CloudFile82-blk1-rep2 who's id is 872 is inited!
+File CloudFile82-blk1-rep3 who's id is 873 is inited!
+File CloudFile82-blk1-rep4 who's id is 874 is inited!
+File CloudFile83-blk1-rep0 who's id is 875 is inited!
+File CloudFile83-blk1-rep1 who's id is 876 is inited!
+File CloudFile83-blk1-rep2 who's id is 877 is inited!
+File CloudFile83-blk1-rep3 who's id is 878 is inited!
+File CloudFile83-blk1-rep4 who's id is 879 is inited!
+File CloudFile84-blk1-rep0 who's id is 880 is inited!
+File CloudFile84-blk1-rep1 who's id is 881 is inited!
+File CloudFile84-blk1-rep2 who's id is 882 is inited!
+File CloudFile84-blk1-rep3 who's id is 883 is inited!
+File CloudFile84-blk1-rep4 who's id is 884 is inited!
+File CloudFile85-blk1-rep0 who's id is 885 is inited!
+File CloudFile85-blk1-rep1 who's id is 886 is inited!
+File CloudFile85-blk1-rep2 who's id is 887 is inited!
+File CloudFile85-blk1-rep3 who's id is 888 is inited!
+File CloudFile85-blk1-rep4 who's id is 889 is inited!
+File CloudFile86-blk1-rep0 who's id is 890 is inited!
+File CloudFile86-blk1-rep1 who's id is 891 is inited!
+File CloudFile86-blk1-rep2 who's id is 892 is inited!
+File CloudFile86-blk1-rep3 who's id is 893 is inited!
+File CloudFile86-blk1-rep4 who's id is 894 is inited!
+File CloudFile87-blk1-rep0 who's id is 895 is inited!
+File CloudFile87-blk1-rep1 who's id is 896 is inited!
+File CloudFile87-blk1-rep2 who's id is 897 is inited!
+File CloudFile87-blk1-rep3 who's id is 898 is inited!
+File CloudFile87-blk1-rep4 who's id is 899 is inited!
+File CloudFile88-blk1-rep0 who's id is 900 is inited!
+File CloudFile88-blk1-rep1 who's id is 901 is inited!
+File CloudFile88-blk1-rep2 who's id is 902 is inited!
+File CloudFile88-blk1-rep3 who's id is 903 is inited!
+File CloudFile88-blk1-rep4 who's id is 904 is inited!
+File CloudFile89-blk1-rep0 who's id is 905 is inited!
+File CloudFile89-blk1-rep1 who's id is 906 is inited!
+File CloudFile89-blk1-rep2 who's id is 907 is inited!
+File CloudFile89-blk1-rep3 who's id is 908 is inited!
+File CloudFile89-blk1-rep4 who's id is 909 is inited!
+File CloudFile90-blk1-rep0 who's id is 910 is inited!
+File CloudFile90-blk1-rep1 who's id is 911 is inited!
+File CloudFile90-blk1-rep2 who's id is 912 is inited!
+File CloudFile90-blk1-rep3 who's id is 913 is inited!
+File CloudFile90-blk1-rep4 who's id is 914 is inited!
+File CloudFile91-blk1-rep0 who's id is 915 is inited!
+File CloudFile91-blk1-rep1 who's id is 916 is inited!
+File CloudFile91-blk1-rep2 who's id is 917 is inited!
+File CloudFile91-blk1-rep3 who's id is 918 is inited!
+File CloudFile91-blk1-rep4 who's id is 919 is inited!
+File CloudFile92-blk1-rep0 who's id is 920 is inited!
+File CloudFile92-blk1-rep1 who's id is 921 is inited!
+File CloudFile92-blk1-rep2 who's id is 922 is inited!
+File CloudFile92-blk1-rep3 who's id is 923 is inited!
+File CloudFile92-blk1-rep4 who's id is 924 is inited!
+File CloudFile93-blk1-rep0 who's id is 925 is inited!
+File CloudFile93-blk1-rep1 who's id is 926 is inited!
+File CloudFile93-blk1-rep2 who's id is 927 is inited!
+File CloudFile93-blk1-rep3 who's id is 928 is inited!
+File CloudFile93-blk1-rep4 who's id is 929 is inited!
+File CloudFile94-blk1-rep0 who's id is 930 is inited!
+File CloudFile94-blk1-rep1 who's id is 931 is inited!
+File CloudFile94-blk1-rep2 who's id is 932 is inited!
+File CloudFile94-blk1-rep3 who's id is 933 is inited!
+File CloudFile94-blk1-rep4 who's id is 934 is inited!
+File CloudFile95-blk1-rep0 who's id is 935 is inited!
+File CloudFile95-blk1-rep1 who's id is 936 is inited!
+File CloudFile95-blk1-rep2 who's id is 937 is inited!
+File CloudFile95-blk1-rep3 who's id is 938 is inited!
+File CloudFile95-blk1-rep4 who's id is 939 is inited!
+File CloudFile96-blk1-rep0 who's id is 940 is inited!
+File CloudFile96-blk1-rep1 who's id is 941 is inited!
+File CloudFile96-blk1-rep2 who's id is 942 is inited!
+File CloudFile96-blk1-rep3 who's id is 943 is inited!
+File CloudFile96-blk1-rep4 who's id is 944 is inited!
+File CloudFile97-blk1-rep0 who's id is 945 is inited!
+File CloudFile97-blk1-rep1 who's id is 946 is inited!
+File CloudFile97-blk1-rep2 who's id is 947 is inited!
+File CloudFile97-blk1-rep3 who's id is 948 is inited!
+File CloudFile97-blk1-rep4 who's id is 949 is inited!
+File CloudFile98-blk1-rep0 who's id is 950 is inited!
+File CloudFile98-blk1-rep1 who's id is 951 is inited!
+File CloudFile98-blk1-rep2 who's id is 952 is inited!
+File CloudFile98-blk1-rep3 who's id is 953 is inited!
+File CloudFile98-blk1-rep4 who's id is 954 is inited!
+File CloudFile99-blk1-rep0 who's id is 955 is inited!
+File CloudFile99-blk1-rep1 who's id is 956 is inited!
+File CloudFile99-blk1-rep2 who's id is 957 is inited!
+File CloudFile99-blk1-rep3 who's id is 958 is inited!
+File CloudFile99-blk1-rep4 who's id is 959 is inited!
+File CloudFile100-blk1-rep0 who's id is 960 is inited!
+File CloudFile100-blk1-rep1 who's id is 961 is inited!
+File CloudFile100-blk1-rep2 who's id is 962 is inited!
+File CloudFile100-blk1-rep3 who's id is 963 is inited!
+File CloudFile100-blk1-rep4 who's id is 964 is inited!
+File CloudFile101-blk1-rep0 who's id is 965 is inited!
+File CloudFile101-blk1-rep1 who's id is 966 is inited!
+File CloudFile101-blk1-rep2 who's id is 967 is inited!
+File CloudFile101-blk1-rep3 who's id is 968 is inited!
+File CloudFile101-blk1-rep4 who's id is 969 is inited!
+File CloudFile102-blk1-rep0 who's id is 970 is inited!
+File CloudFile102-blk1-rep1 who's id is 971 is inited!
+File CloudFile102-blk1-rep2 who's id is 972 is inited!
+File CloudFile102-blk1-rep3 who's id is 973 is inited!
+File CloudFile102-blk1-rep4 who's id is 974 is inited!
+File CloudFile103-blk1-rep0 who's id is 975 is inited!
+File CloudFile103-blk1-rep1 who's id is 976 is inited!
+File CloudFile103-blk1-rep2 who's id is 977 is inited!
+File CloudFile103-blk1-rep3 who's id is 978 is inited!
+File CloudFile103-blk1-rep4 who's id is 979 is inited!
+File CloudFile104-blk1-rep0 who's id is 980 is inited!
+File CloudFile104-blk1-rep1 who's id is 981 is inited!
+File CloudFile104-blk1-rep2 who's id is 982 is inited!
+File CloudFile104-blk1-rep3 who's id is 983 is inited!
+File CloudFile104-blk1-rep4 who's id is 984 is inited!
+File CloudFile105-blk1-rep0 who's id is 985 is inited!
+File CloudFile105-blk1-rep1 who's id is 986 is inited!
+File CloudFile105-blk1-rep2 who's id is 987 is inited!
+File CloudFile105-blk1-rep3 who's id is 988 is inited!
+File CloudFile105-blk1-rep4 who's id is 989 is inited!
+File CloudFile106-blk1-rep0 who's id is 990 is inited!
+File CloudFile106-blk1-rep1 who's id is 991 is inited!
+File CloudFile106-blk1-rep2 who's id is 992 is inited!
+File CloudFile106-blk1-rep3 who's id is 993 is inited!
+File CloudFile106-blk1-rep4 who's id is 994 is inited!
+File CloudFile107-blk1-rep0 who's id is 995 is inited!
+File CloudFile107-blk1-rep1 who's id is 996 is inited!
+File CloudFile107-blk1-rep2 who's id is 997 is inited!
+File CloudFile107-blk1-rep3 who's id is 998 is inited!
+File CloudFile107-blk1-rep4 who's id is 999 is inited!
+File CloudFile108-blk1-rep0 who's id is 1000 is inited!
+File CloudFile108-blk1-rep1 who's id is 1001 is inited!
+File CloudFile108-blk1-rep2 who's id is 1002 is inited!
+File CloudFile108-blk1-rep3 who's id is 1003 is inited!
+File CloudFile108-blk1-rep4 who's id is 1004 is inited!
+File CloudFile109-blk1-rep0 who's id is 1005 is inited!
+File CloudFile109-blk1-rep1 who's id is 1006 is inited!
+File CloudFile109-blk1-rep2 who's id is 1007 is inited!
+File CloudFile109-blk1-rep3 who's id is 1008 is inited!
+File CloudFile109-blk1-rep4 who's id is 1009 is inited!
+File CloudFile110-blk1-rep0 who's id is 1010 is inited!
+File CloudFile110-blk1-rep1 who's id is 1011 is inited!
+File CloudFile110-blk1-rep2 who's id is 1012 is inited!
+File CloudFile110-blk1-rep3 who's id is 1013 is inited!
+File CloudFile110-blk1-rep4 who's id is 1014 is inited!
+File CloudFile111-blk1-rep0 who's id is 1015 is inited!
+File CloudFile111-blk1-rep1 who's id is 1016 is inited!
+File CloudFile111-blk1-rep2 who's id is 1017 is inited!
+File CloudFile111-blk1-rep3 who's id is 1018 is inited!
+File CloudFile111-blk1-rep4 who's id is 1019 is inited!
+File CloudFile112-blk1-rep0 who's id is 1020 is inited!
+File CloudFile112-blk1-rep1 who's id is 1021 is inited!
+File CloudFile112-blk1-rep2 who's id is 1022 is inited!
+File CloudFile112-blk1-rep3 who's id is 1023 is inited!
+File CloudFile112-blk1-rep4 who's id is 1024 is inited!
+File CloudFile113-blk1-rep0 who's id is 1025 is inited!
+File CloudFile113-blk1-rep1 who's id is 1026 is inited!
+File CloudFile113-blk1-rep2 who's id is 1027 is inited!
+File CloudFile113-blk1-rep3 who's id is 1028 is inited!
+File CloudFile113-blk1-rep4 who's id is 1029 is inited!
+File CloudFile114-blk1-rep0 who's id is 1030 is inited!
+File CloudFile114-blk1-rep1 who's id is 1031 is inited!
+File CloudFile114-blk1-rep2 who's id is 1032 is inited!
+File CloudFile114-blk1-rep3 who's id is 1033 is inited!
+File CloudFile114-blk1-rep4 who's id is 1034 is inited!
+File CloudFile115-blk1-rep0 who's id is 1035 is inited!
+File CloudFile115-blk1-rep1 who's id is 1036 is inited!
+File CloudFile115-blk1-rep2 who's id is 1037 is inited!
+File CloudFile115-blk1-rep3 who's id is 1038 is inited!
+File CloudFile115-blk1-rep4 who's id is 1039 is inited!
+File CloudFile116-blk1-rep0 who's id is 1040 is inited!
+File CloudFile116-blk1-rep1 who's id is 1041 is inited!
+File CloudFile116-blk1-rep2 who's id is 1042 is inited!
+File CloudFile116-blk1-rep3 who's id is 1043 is inited!
+File CloudFile116-blk1-rep4 who's id is 1044 is inited!
+File CloudFile117-blk1-rep0 who's id is 1045 is inited!
+File CloudFile117-blk1-rep1 who's id is 1046 is inited!
+File CloudFile117-blk1-rep2 who's id is 1047 is inited!
+File CloudFile117-blk1-rep3 who's id is 1048 is inited!
+File CloudFile117-blk1-rep4 who's id is 1049 is inited!
+File CloudFile118-blk1-rep0 who's id is 1050 is inited!
+File CloudFile118-blk1-rep1 who's id is 1051 is inited!
+File CloudFile118-blk1-rep2 who's id is 1052 is inited!
+File CloudFile118-blk1-rep3 who's id is 1053 is inited!
+File CloudFile118-blk1-rep4 who's id is 1054 is inited!
+File CloudFile119-blk1-rep0 who's id is 1055 is inited!
+File CloudFile119-blk1-rep1 who's id is 1056 is inited!
+File CloudFile119-blk1-rep2 who's id is 1057 is inited!
+File CloudFile119-blk1-rep3 who's id is 1058 is inited!
+File CloudFile119-blk1-rep4 who's id is 1059 is inited!
+replica #460    			Datacenter_3 node #37 			10.754999999999999
+replica #461    			Datacenter_4 node #50 			10.754999999999999
+replica #462    			Datacenter_3 node #35 			10.754999999999999
+replica #463    			Datacenter_4 node #51 			10.754999999999999
+replica #464    			Datacenter_3 node #38 			10.754999999999999
+replica #465    			Datacenter_4 node #48 			10.754999999999999
+replica #466    			Datacenter_3 node #33 			10.754999999999999
+replica #467    			Datacenter_4 node #45 			10.754999999999999
+replica #468    			Datacenter_3 node #27 			10.6575
+replica #469    			Datacenter_4 node #47 			10.754999999999999
+replica #470    			Datacenter_3 node #29 			10.6575
+replica #471    			Datacenter_4 node #35 			10.6575
+replica #472    			Datacenter_3 node #32 			10.6575
+replica #473    			Datacenter_4 node #38 			10.6575
+replica #474    			Datacenter_3 node #26 			10.6575
+replica #475    			Datacenter_4 node #41 			10.6575
+replica #476    			Datacenter_0 node #4 			16.0225
+replica #477    			Datacenter_4 node #44 			10.6575
+replica #478    			Datacenter_3 node #23 			13.0125
+replica #479    			Datacenter_4 node #34 			10.6575
+replica #480    			Datacenter_3 node #1 			14.096250000000001
+replica #481    			Datacenter_4 node #28 			13.0125
+replica #482    			Datacenter_3 node #9 			14.096250000000001
+replica #483    			Datacenter_4 node #26 			13.0125
+replica #484    			Datacenter_3 node #11 			14.096250000000001
+replica #485    			Datacenter_4 node #33 			13.0125
+replica #486    			Datacenter_3 node #4 			14.096250000000001
+replica #487    			Datacenter_4 node #29 			13.0125
+replica #488    			Datacenter_0 node #18 			10.6575
+replica #489    			Datacenter_4 node #49 			10.754999999999999
+replica #490    			Datacenter_1 node #4 			13.0125
+replica #491    			Datacenter_4 node #35 			10.6575
+replica #492    			Datacenter_3 node #26 			10.6575
+replica #493    			Datacenter_4 node #41 			10.6575
+replica #494    			Datacenter_3 node #25 			10.6575
+replica #495    			Datacenter_4 node #37 			10.6575
+replica #496    			Datacenter_0 node #4 			16.0225
+replica #497    			Datacenter_4 node #42 			10.6575
+replica #498    			Datacenter_3 node #21 			13.0125
+replica #499    			Datacenter_4 node #43 			10.6575
+replica #500    			Datacenter_3 node #2 			14.096250000000001
+replica #501    			Datacenter_4 node #28 			13.0125
+replica #502    			Datacenter_3 node #7 			14.096250000000001
+replica #503    			Datacenter_4 node #26 			13.0125
+replica #504    			Datacenter_1 node #6 			13.0125
+replica #505    			Datacenter_3 node #26 			10.6575
+replica #506    			Datacenter_4 node #36 			10.6575
+replica #507    			Datacenter_0 node #6 			13.0125
+replica #508    			Datacenter_4 node #37 			10.6575
+replica #509    			Datacenter_3 node #31 			10.6575
+replica #510    			Datacenter_4 node #42 			10.6575
+replica #511    			Datacenter_3 node #21 			13.0125
+replica #512    			Datacenter_4 node #40 			10.6575
+replica #513    			Datacenter_3 node #24 			13.0125
+replica #514    			Datacenter_4 node #34 			10.6575
+replica #515    			Datacenter_0 node #19 			10.754999999999999
+replica #516    			Datacenter_1 node #10 			10.6575
+replica #517    			Datacenter_4 node #51 			10.754999999999999
+replica #518    			Datacenter_3 node #38 			10.754999999999999
+replica #519    			Datacenter_4 node #48 			10.754999999999999
+replica #520    			Datacenter_4 node #45 			10.754999999999999
+replica #521    			Datacenter_3 node #39 			10.754999999999999
+replica #522    			Datacenter_4 node #49 			10.754999999999999
+replica #523    			Datacenter_4 node #52 			10.754999999999999
+replica #524    			Datacenter_0 node #9 			13.0125
+replica #525    			Datacenter_3 node #30 			10.6575
+replica #526    			Datacenter_4 node #35 			10.6575
+replica #527    			Datacenter_4 node #37 			10.6575
+replica #528    			Datacenter_4 node #41 			10.6575
+replica #529    			Datacenter_4 node #42 			10.6575
+replica #530    			Datacenter_1 node #14 			10.754999999999999
+replica #531    			Datacenter_3 node #36 			10.754999999999999
+replica #532    			Datacenter_4 node #53 			10.754999999999999
+replica #533    			Datacenter_0 node #14 			10.6575
+replica #534    			Datacenter_3 node #39 			10.754999999999999
+replica #535    			Datacenter_4 node #45 			10.754999999999999
+replica #536    			Datacenter_4 node #49 			10.754999999999999
+replica #537    			Datacenter_4 node #52 			10.754999999999999
+replica #538    			Datacenter_4 node #46 			10.754999999999999
+replica #539    			Datacenter_4 node #47 			10.754999999999999
+replica #540    			Datacenter_4 node #35 			10.6575
+replica #541    			Datacenter_3 node #28 			10.6575
+replica #542    			Datacenter_4 node #37 			10.6575
+replica #543    			Datacenter_4 node #41 			10.6575
+replica #544    			Datacenter_0 node #0 			14.096250000000001
+replica #545    			Datacenter_1 node #14 			10.754999999999999
+replica #546    			Datacenter_4 node #50 			10.754999999999999
+replica #547    			Datacenter_3 node #35 			10.754999999999999
+replica #548    			Datacenter_4 node #54 			10.754999999999999
+replica #549    			Datacenter_4 node #45 			10.754999999999999
+replica #550    			Datacenter_3 node #33 			10.754999999999999
+replica #551    			Datacenter_0 node #12 			10.6575
+replica #552    			Datacenter_4 node #52 			10.754999999999999
+replica #553    			Datacenter_0 node #18 			10.6575
+replica #554    			Datacenter_4 node #47 			10.754999999999999
+replica #555    			Datacenter_1 node #8 			13.0125
+replica #556    			Datacenter_2 node #21 			13.0125
+replica #557    			Datacenter_4 node #41 			10.6575
+replica #558    			Datacenter_3 node #32 			10.6575
+replica #559    			Datacenter_2 node #8 			13.0125
+replica #560    			Datacenter_3 node #21 			13.0125
+replica #561    			Datacenter_2 node #19 			13.0125
+replica #562    			Datacenter_3 node #24 			13.0125
+replica #563    			Datacenter_4 node #34 			10.6575
+replica #564    			Datacenter_4 node #43 			10.6575
+replica #565    			Datacenter_4 node #39 			10.6575
+replica #566    			Datacenter_4 node #28 			13.0125
+replica #567    			Datacenter_3 node #9 			14.096250000000001
+replica #568    			Datacenter_1 node #6 			13.0125
+replica #569    			Datacenter_4 node #47 			10.754999999999999
+replica #570    			Datacenter_0 node #7 			13.0125
+replica #571    			Datacenter_2 node #21 			13.0125
+replica #572    			Datacenter_3 node #32 			10.6575
+replica #573    			Datacenter_4 node #36 			10.6575
+replica #574    			Datacenter_4 node #42 			10.6575
+replica #575    			Datacenter_3 node #21 			13.0125
+replica #576    			Datacenter_0 node #4 			16.0225
+replica #577    			Datacenter_4 node #40 			10.6575
+replica #578    			Datacenter_4 node #43 			10.6575
+replica #579    			Datacenter_2 node #12 			13.0125
+replica #580    			Datacenter_3 node #1 			14.096250000000001
+replica #581    			Datacenter_2 node #9 			13.0125
+replica #582    			Datacenter_0 node #17 			10.6575
+replica #583    			Datacenter_4 node #54 			10.754999999999999
+replica #584    			Datacenter_1 node #13 			10.6575
+replica #585    			Datacenter_3 node #33 			10.754999999999999
+replica #586    			Datacenter_2 node #27 			10.6575
+replica #587    			Datacenter_3 node #30 			10.6575
+replica #588    			Datacenter_4 node #49 			10.754999999999999
+replica #589    			Datacenter_4 node #46 			10.754999999999999
+replica #590    			Datacenter_4 node #41 			10.6575
+replica #591    			Datacenter_1 node #0 			14.096250000000001
+replica #592    			Datacenter_3 node #29 			10.6575
+replica #593    			Datacenter_0 node #10 			13.0125
+replica #594    			Datacenter_4 node #42 			10.6575
+replica #595    			Datacenter_0 node #2 			16.0225
+replica #596    			Datacenter_4 node #43 			10.6575
+replica #597    			Datacenter_2 node #16 			13.0125
+replica #598    			Datacenter_3 node #23 			13.0125
+replica #599    			Datacenter_2 node #9 			13.0125
+replica #600    			Datacenter_3 node #2 			14.096250000000001
+replica #601    			Datacenter_4 node #28 			13.0125
+replica #602    			Datacenter_1 node #6 			13.0125
+replica #603    			Datacenter_3 node #29 			10.6575
+replica #604    			Datacenter_0 node #9 			13.0125
+replica #605    			Datacenter_4 node #41 			10.6575
+replica #606    			Datacenter_3 node #27 			10.6575
+replica #607    			Datacenter_0 node #8 			13.0125
+replica #608    			Datacenter_4 node #36 			10.6575
+replica #609    			Datacenter_3 node #25 			10.6575
+replica #610    			Datacenter_0 node #2 			16.0225
+replica #611    			Datacenter_1 node #10 			10.6575
+replica #612    			Datacenter_3 node #35 			10.754999999999999
+replica #613    			Datacenter_0 node #11 			10.6575
+replica #614    			Datacenter_4 node #45 			10.754999999999999
+replica #615    			Datacenter_4 node #49 			10.754999999999999
+replica #616    			Datacenter_2 node #25 			10.6575
+replica #617    			Datacenter_3 node #29 			10.6575
+replica #618    			Datacenter_0 node #15 			10.6575
+replica #619    			Datacenter_4 node #48 			10.754999999999999
+replica #620    			Datacenter_0 node #7 			13.0125
+replica #621    			Datacenter_4 node #36 			10.6575
+replica #622    			Datacenter_2 node #8 			13.0125
+replica #623    			Datacenter_1 node #1 			16.0225
+replica #624    			Datacenter_2 node #19 			13.0125
+replica #625    			Datacenter_4 node #43 			10.6575
+replica #626    			Datacenter_3 node #24 			13.0125
+replica #627    			Datacenter_2 node #9 			13.0125
+replica #628    			Datacenter_4 node #38 			10.6575
+replica #629    			Datacenter_3 node #2 			14.096250000000001
+replica #630    			Datacenter_2 node #11 			13.0125
+replica #631    			Datacenter_4 node #28 			13.0125
+replica #632    			Datacenter_1 node #7 			13.0125
+replica #633    			Datacenter_2 node #15 			13.0125
+replica #634    			Datacenter_4 node #47 			10.754999999999999
+replica #635    			Datacenter_3 node #32 			10.6575
+replica #636    			Datacenter_2 node #17 			13.0125
+replica #637    			Datacenter_3 node #28 			10.6575
+replica #638    			Datacenter_4 node #35 			10.6575
+replica #639    			Datacenter_3 node #31 			10.6575
+replica #640    			Datacenter_2 node #16 			13.0125
+replica #641    			Datacenter_3 node #24 			13.0125
+replica #642    			Datacenter_4 node #40 			10.6575
+replica #643    			Datacenter_4 node #34 			10.6575
+replica #644    			Datacenter_4 node #44 			10.6575
+replica #645    			Datacenter_1 node #5 			13.0125
+replica #646    			Datacenter_3 node #34 			10.754999999999999
+replica #647    			Datacenter_2 node #26 			10.6575
+replica #648    			Datacenter_3 node #30 			10.6575
+replica #649    			Datacenter_4 node #46 			10.754999999999999
+replica #650    			Datacenter_4 node #41 			10.6575
+replica #651    			Datacenter_4 node #36 			10.6575
+replica #652    			Datacenter_4 node #35 			10.6575
+replica #653    			Datacenter_4 node #42 			10.6575
+replica #654    			Datacenter_3 node #25 			10.6575
+replica #655    			Datacenter_0 node #2 			16.0225
+replica #656    			Datacenter_4 node #40 			10.6575
+replica #657    			Datacenter_0 node #3 			16.0225
+replica #658    			Datacenter_2 node #11 			13.0125
+replica #659    			Datacenter_3 node #2 			14.096250000000001
+replica #660    			Datacenter_2 node #20 			13.0125
+replica #661    			Datacenter_1 node #7 			13.0125
+replica #662    			Datacenter_4 node #47 			10.754999999999999
+replica #663    			Datacenter_3 node #30 			10.6575
+replica #664    			Datacenter_4 node #52 			10.754999999999999
+replica #665    			Datacenter_4 node #41 			10.6575
+replica #666    			Datacenter_3 node #28 			10.6575
+replica #667    			Datacenter_0 node #6 			13.0125
+replica #668    			Datacenter_1 node #1 			16.0225
+replica #669    			Datacenter_3 node #31 			10.6575
+replica #670    			Datacenter_0 node #2 			16.0225
+replica #671    			Datacenter_4 node #43 			10.6575
+replica #672    			Datacenter_3 node #22 			13.0125
+replica #673    			Datacenter_0 node #5 			16.0225
+replica #674    			Datacenter_4 node #44 			10.6575
+replica #675    			Datacenter_0 node #19 			10.754999999999999
+replica #676    			Datacenter_4 node #53 			10.754999999999999
+replica #677    			Datacenter_0 node #11 			10.6575
+replica #678    			Datacenter_4 node #45 			10.754999999999999
+replica #679    			Datacenter_2 node #27 			10.6575
+replica #680    			Datacenter_1 node #5 			13.0125
+replica #681    			Datacenter_2 node #24 			10.6575
+replica #682    			Datacenter_4 node #52 			10.754999999999999
+replica #683    			Datacenter_3 node #29 			10.6575
+replica #684    			Datacenter_2 node #17 			13.0125
+replica #685    			Datacenter_4 node #41 			10.6575
+replica #686    			Datacenter_3 node #27 			10.6575
+replica #687    			Datacenter_2 node #16 			13.0125
+replica #688    			Datacenter_4 node #42 			10.6575
+replica #689    			Datacenter_1 node #2 			16.0225
+replica #690    			Datacenter_2 node #9 			13.0125
+replica #691    			Datacenter_4 node #40 			10.6575
+replica #692    			Datacenter_3 node #22 			13.0125
+replica #693    			Datacenter_2 node #6 			13.0125
+replica #694    			Datacenter_3 node #2 			14.096250000000001
+replica #695    			Datacenter_4 node #39 			10.6575
+replica #696    			Datacenter_3 node #9 			14.096250000000001
+replica #697    			Datacenter_4 node #24 			13.0125
+replica #698    			Datacenter_3 node #10 			14.096250000000001
+replica #699    			Datacenter_0 node #16 			10.6575
+replica #700    			Datacenter_4 node #47 			10.754999999999999
+replica #701    			Datacenter_1 node #7 			13.0125
+replica #702    			Datacenter_2 node #26 			10.6575
+replica #703    			Datacenter_4 node #46 			10.754999999999999
+replica #704    			Datacenter_3 node #27 			10.6575
+replica #705    			Datacenter_2 node #16 			13.0125
+replica #706    			Datacenter_3 node #32 			10.6575
+replica #707    			Datacenter_4 node #42 			10.6575
+replica #708    			Datacenter_3 node #25 			10.6575
+replica #709    			Datacenter_4 node #40 			10.6575
+replica #710    			Datacenter_0 node #2 			16.0225
+replica #711    			Datacenter_4 node #37 			10.6575
+replica #712    			Datacenter_3 node #22 			13.0125
+replica #713    			Datacenter_0 node #5 			16.0225
+replica #714    			Datacenter_1 node #13 			10.6575
+replica #715    			Datacenter_3 node #39 			10.754999999999999
+replica #716    			Datacenter_0 node #13 			10.6575
+replica #717    			Datacenter_4 node #49 			10.754999999999999
+replica #718    			Datacenter_2 node #15 			13.0125
+replica #719    			Datacenter_4 node #48 			10.754999999999999
+replica #720    			Datacenter_3 node #32 			10.6575
+replica #721    			Datacenter_0 node #6 			13.0125
+replica #722    			Datacenter_2 node #8 			13.0125
+replica #723    			Datacenter_1 node #1 			16.0225
+replica #724    			Datacenter_2 node #18 			13.0125
+replica #725    			Datacenter_4 node #37 			10.6575
+replica #726    			Datacenter_3 node #24 			13.0125
+replica #727    			Datacenter_2 node #11 			13.0125
+replica #728    			Datacenter_3 node #23 			13.0125
+replica #729    			Datacenter_4 node #38 			10.6575
+replica #730    			Datacenter_3 node #1 			14.096250000000001
+replica #731    			Datacenter_0 node #11 			10.6575
+replica #732    			Datacenter_4 node #47 			10.754999999999999
+replica #733    			Datacenter_0 node #14 			10.6575
+replica #734    			Datacenter_2 node #24 			10.6575
+replica #735    			Datacenter_3 node #38 			10.754999999999999
+replica #736    			Datacenter_2 node #26 			10.6575
+replica #737    			Datacenter_1 node #6 			13.0125
+replica #738    			Datacenter_4 node #48 			10.754999999999999
+replica #739    			Datacenter_3 node #32 			10.6575
+replica #740    			Datacenter_4 node #41 			10.6575
+replica #741    			Datacenter_3 node #28 			10.6575
+replica #742    			Datacenter_0 node #8 			13.0125
+replica #743    			Datacenter_1 node #1 			16.0225
+replica #744    			Datacenter_3 node #26 			10.6575
+replica #745    			Datacenter_0 node #2 			16.0225
+replica #746    			Datacenter_4 node #43 			10.6575
+replica #747    			Datacenter_2 node #6 			13.0125
+replica #748    			Datacenter_4 node #44 			10.6575
+replica #749    			Datacenter_3 node #2 			14.096250000000001
+replica #750    			Datacenter_0 node #19 			10.754999999999999
+replica #751    			Datacenter_4 node #53 			10.754999999999999
+replica #752    			Datacenter_3 node #36 			10.754999999999999
+replica #753    			Datacenter_0 node #17 			10.6575
+replica #754    			Datacenter_1 node #13 			10.6575
+replica #755    			Datacenter_3 node #33 			10.754999999999999
+replica #756    			Datacenter_0 node #12 			10.6575
+replica #757    			Datacenter_4 node #54 			10.754999999999999
+replica #758    			Datacenter_3 node #29 			10.6575
+replica #759    			Datacenter_0 node #9 			13.0125
+replica #760    			Datacenter_4 node #41 			10.6575
+replica #761    			Datacenter_0 node #6 			13.0125
+replica #762    			Datacenter_4 node #36 			10.6575
+replica #763    			Datacenter_1 node #3 			16.0225
+replica #764    			Datacenter_2 node #6 			13.0125
+replica #765    			Datacenter_3 node #22 			13.0125
+replica #766    			Datacenter_2 node #19 			13.0125
+replica #767    			Datacenter_4 node #38 			10.6575
+replica #768    			Datacenter_3 node #2 			14.096250000000001
+replica #769    			Datacenter_2 node #12 			13.0125
+replica #770    			Datacenter_4 node #28 			13.0125
+replica #771    			Datacenter_3 node #7 			14.096250000000001
+replica #772    			Datacenter_0 node #14 			10.6575
+replica #773    			Datacenter_4 node #48 			10.754999999999999
+replica #774    			Datacenter_1 node #5 			13.0125
+replica #775    			Datacenter_2 node #25 			10.6575
+replica #776    			Datacenter_4 node #52 			10.754999999999999
+replica #777    			Datacenter_3 node #32 			10.6575
+replica #778    			Datacenter_2 node #16 			13.0125
+replica #779    			Datacenter_4 node #41 			10.6575
+replica #780    			Datacenter_3 node #28 			10.6575
+replica #781    			Datacenter_2 node #8 			13.0125
+replica #782    			Datacenter_4 node #35 			10.6575
+replica #783    			Datacenter_3 node #31 			10.6575
+replica #784    			Datacenter_0 node #2 			16.0225
+replica #785    			Datacenter_2 node #9 			13.0125
+replica #786    			Datacenter_1 node #11 			10.6575
+replica #787    			Datacenter_2 node #25 			10.6575
+replica #788    			Datacenter_4 node #54 			10.754999999999999
+replica #789    			Datacenter_3 node #39 			10.754999999999999
+replica #790    			Datacenter_2 node #23 			10.6575
+replica #791    			Datacenter_3 node #32 			10.6575
+replica #792    			Datacenter_4 node #46 			10.754999999999999
+replica #793    			Datacenter_3 node #28 			10.6575
+replica #794    			Datacenter_4 node #41 			10.6575
+replica #795    			Datacenter_4 node #36 			10.6575
+replica #796    			Datacenter_0 node #8 			13.0125
+replica #797    			Datacenter_2 node #9 			13.0125
+replica #798    			Datacenter_3 node #26 			10.6575
+replica #799    			Datacenter_1 node #14 			10.754999999999999
+replica #800    			Datacenter_4 node #54 			10.754999999999999
+replica #801    			Datacenter_3 node #35 			10.754999999999999
+replica #802    			Datacenter_0 node #17 			10.6575
+replica #803    			Datacenter_4 node #52 			10.754999999999999
+replica #804    			Datacenter_2 node #26 			10.6575
+replica #805    			Datacenter_3 node #34 			10.754999999999999
+replica #806    			Datacenter_0 node #15 			10.6575
+replica #807    			Datacenter_1 node #9 			13.0125
+replica #808    			Datacenter_3 node #29 			10.6575
+replica #809    			Datacenter_0 node #6 			13.0125
+replica #810    			Datacenter_4 node #36 			10.6575
+replica #811    			Datacenter_3 node #26 			10.6575
+replica #812    			Datacenter_0 node #10 			13.0125
+replica #813    			Datacenter_4 node #37 			10.6575
+replica #814    			Datacenter_2 node #19 			13.0125
+replica #815    			Datacenter_4 node #43 			10.6575
+replica #816    			Datacenter_3 node #21 			13.0125
+replica #817    			Datacenter_0 node #3 			16.0225
+replica #818    			Datacenter_2 node #20 			13.0125
+replica #819    			Datacenter_1 node #5 			13.0125
+replica #820    			Datacenter_2 node #27 			10.6575
+replica #821    			Datacenter_4 node #49 			10.754999999999999
+replica #822    			Datacenter_3 node #29 			10.6575
+replica #823    			Datacenter_2 node #16 			13.0125
+replica #824    			Datacenter_3 node #30 			10.6575
+replica #825    			Datacenter_4 node #36 			10.6575
+replica #826    			Datacenter_3 node #27 			10.6575
+replica #827    			Datacenter_0 node #10 			13.0125
+replica #828    			Datacenter_1 node #2 			16.0225
+replica #829    			Datacenter_3 node #22 			13.0125
+replica #830    			Datacenter_0 node #4 			16.0225
+replica #831    			Datacenter_4 node #38 			10.6575
+replica #832    			Datacenter_2 node #20 			13.0125
+replica #833    			Datacenter_4 node #34 			10.6575
+replica #834    			Datacenter_3 node #1 			14.096250000000001
+replica #835    			Datacenter_0 node #17 			10.6575
+replica #836    			Datacenter_4 node #53 			10.754999999999999
+replica #837    			Datacenter_3 node #39 			10.754999999999999
+replica #838    			Datacenter_0 node #16 			10.6575
+replica #839    			Datacenter_1 node #5 			13.0125
+replica #840    			Datacenter_3 node #34 			10.754999999999999
+replica #841    			Datacenter_0 node #15 			10.6575
+replica #842    			Datacenter_4 node #50 			10.754999999999999
+replica #843    			Datacenter_3 node #28 			10.6575
+replica #844    			Datacenter_0 node #6 			13.0125
+replica #845    			Datacenter_4 node #36 			10.6575
+replica #846    			Datacenter_0 node #8 			13.0125
+replica #847    			Datacenter_2 node #19 			13.0125
+replica #848    			Datacenter_1 node #2 			16.0225
+replica #849    			Datacenter_2 node #18 			13.0125
+replica #850    			Datacenter_4 node #40 			10.6575
+replica #851    			Datacenter_3 node #21 			13.0125
+replica #852    			Datacenter_2 node #11 			13.0125
+replica #853    			Datacenter_4 node #34 			10.6575
+replica #854    			Datacenter_3 node #1 			14.096250000000001
+replica #855    			Datacenter_2 node #14 			13.0125
+replica #856    			Datacenter_4 node #24 			13.0125
+replica #857    			Datacenter_3 node #10 			14.096250000000001
+replica #858    			Datacenter_2 node #5 			13.0125
+replica #859    			Datacenter_2 node #1 			14.096250000000001
+replica #860    			Datacenter_3 node #0 			14.096250000000001
+replica #861    			Datacenter_1 node #3 			16.0225
+replica #862    			Datacenter_4 node #35 			10.6575
+replica #863    			Datacenter_3 node #25 			10.6575
+replica #864    			Datacenter_0 node #2 			16.0225
+replica #865    			Datacenter_4 node #43 			10.6575
+replica #866    			Datacenter_3 node #24 			13.0125
+replica #867    			Datacenter_0 node #5 			16.0225
+replica #868    			Datacenter_4 node #44 			10.6575
+replica #869    			Datacenter_0 node #19 			10.754999999999999
+replica #870    			Datacenter_2 node #29 			10.754999999999999
+replica #871    			Datacenter_1 node #11 			10.6575
+replica #872    			Datacenter_2 node #26 			10.6575
+replica #873    			Datacenter_4 node #48 			10.754999999999999
+replica #874    			Datacenter_3 node #34 			10.754999999999999
+replica #875    			Datacenter_2 node #24 			10.6575
+replica #876    			Datacenter_3 node #29 			10.6575
+replica #877    			Datacenter_4 node #46 			10.754999999999999
+replica #878    			Datacenter_3 node #28 			10.6575
+replica #879    			Datacenter_0 node #9 			13.0125
+replica #880    			Datacenter_2 node #8 			13.0125
+replica #881    			Datacenter_3 node #26 			10.6575
+replica #882    			Datacenter_1 node #1 			16.0225
+replica #883    			Datacenter_4 node #43 			10.6575
+replica #884    			Datacenter_3 node #22 			13.0125
+replica #885    			Datacenter_0 node #4 			16.0225
+replica #886    			Datacenter_4 node #38 			10.6575
+replica #887    			Datacenter_2 node #21 			13.0125
+replica #888    			Datacenter_3 node #2 			14.096250000000001
+replica #889    			Datacenter_4 node #39 			10.6575
+replica #890    			Datacenter_0 node #17 			10.6575
+replica #891    			Datacenter_2 node #26 			10.6575
+replica #892    			Datacenter_3 node #39 			10.754999999999999
+replica #893    			Datacenter_1 node #12 			10.6575
+replica #894    			Datacenter_4 node #47 			10.754999999999999
+replica #895    			Datacenter_3 node #38 			10.754999999999999
+replica #896    			Datacenter_0 node #13 			10.6575
+replica #897    			Datacenter_4 node #45 			10.754999999999999
+replica #898    			Datacenter_2 node #16 			13.0125
+replica #899    			Datacenter_3 node #30 			10.6575
+replica #900    			Datacenter_2 node #19 			13.0125
+replica #901    			Datacenter_0 node #7 			13.0125
+replica #902    			Datacenter_4 node #35 			10.6575
+replica #903    			Datacenter_1 node #2 			16.0225
+replica #904    			Datacenter_3 node #22 			13.0125
+replica #905    			Datacenter_2 node #6 			13.0125
+replica #906    			Datacenter_3 node #21 			13.0125
+replica #907    			Datacenter_4 node #44 			10.6575
+replica #908    			Datacenter_4 node #34 			10.6575
+replica #909    			Datacenter_4 node #39 			10.6575
+replica #910    			Datacenter_4 node #28 			13.0125
+replica #911    			Datacenter_4 node #24 			13.0125
+replica #912    			Datacenter_1 node #9 			13.0125
+replica #913    			Datacenter_3 node #32 			10.6575
+replica #914    			Datacenter_2 node #19 			13.0125
+replica #915    			Datacenter_3 node #26 			10.6575
+replica #916    			Datacenter_4 node #35 			10.6575
+replica #917    			Datacenter_4 node #43 			10.6575
+replica #918    			Datacenter_0 node #0 			14.096250000000001
+replica #919    			Datacenter_4 node #37 			10.6575
+replica #920    			Datacenter_3 node #21 			13.0125
+replica #921    			Datacenter_0 node #5 			16.0225
+replica #922    			Datacenter_4 node #44 			10.6575
+replica #923    			Datacenter_2 node #12 			13.0125
+replica #924    			Datacenter_2 node #7 			13.0125
+replica #925    			Datacenter_3 node #9 			14.096250000000001
+replica #926    			Datacenter_1 node #6 			13.0125
+replica #927    			Datacenter_3 node #32 			10.6575
+replica #928    			Datacenter_4 node #51 			10.754999999999999
+replica #929    			Datacenter_0 node #6 			13.0125
+replica #930    			Datacenter_4 node #36 			10.6575
+replica #931    			Datacenter_3 node #27 			10.6575
+replica #932    			Datacenter_0 node #10 			13.0125
+replica #933    			Datacenter_4 node #37 			10.6575
+replica #934    			Datacenter_4 node #42 			10.6575
+replica #935    			Datacenter_2 node #21 			13.0125
+replica #936    			Datacenter_1 node #11 			10.6575
+replica #937    			Datacenter_2 node #24 			10.6575
+replica #938    			Datacenter_3 node #34 			10.754999999999999
+replica #939    			Datacenter_2 node #27 			10.6575
+replica #940    			Datacenter_3 node #33 			10.754999999999999
+replica #941    			Datacenter_4 node #49 			10.754999999999999
+replica #942    			Datacenter_3 node #29 			10.6575
+replica #943    			Datacenter_4 node #51 			10.754999999999999
+replica #944    			Datacenter_4 node #41 			10.6575
+replica #945    			Datacenter_4 node #36 			10.6575
+replica #946    			Datacenter_4 node #35 			10.6575
+replica #947    			Datacenter_1 node #1 			16.0225
+replica #948    			Datacenter_4 node #37 			10.6575
+replica #949    			Datacenter_3 node #22 			13.0125
+replica #950    			Datacenter_0 node #4 			16.0225
+replica #951    			Datacenter_4 node #44 			10.6575
+replica #952    			Datacenter_3 node #23 			13.0125
+replica #953    			Datacenter_0 node #1 			16.0225
+replica #954    			Datacenter_4 node #39 			10.6575
+replica #955    			Datacenter_2 node #14 			13.0125
+replica #956    			Datacenter_4 node #24 			13.0125
+replica #957    			Datacenter_3 node #10 			14.096250000000001
+replica #958    			Datacenter_0 node #16 			10.6575
+replica #959    			Datacenter_2 node #25 			10.6575
+replica #960    			Datacenter_1 node #7 			13.0125
+replica #961    			Datacenter_2 node #22 			10.6575
+replica #962    			Datacenter_3 node #32 			10.6575
+replica #963    			Datacenter_2 node #19 			13.0125
+replica #964    			Datacenter_3 node #30 			10.6575
+replica #965    			Datacenter_4 node #36 			10.6575
+replica #966    			Datacenter_4 node #35 			10.6575
+replica #967    			Datacenter_3 node #25 			10.6575
+replica #968    			Datacenter_4 node #43 			10.6575
+replica #969    			Datacenter_1 node #14 			10.754999999999999
+replica #970    			Datacenter_4 node #54 			10.754999999999999
+replica #971    			Datacenter_3 node #35 			10.754999999999999
+replica #972    			Datacenter_0 node #14 			10.6575
+replica #973    			Datacenter_4 node #49 			10.754999999999999
+replica #974    			Datacenter_0 node #13 			10.6575
+replica #975    			Datacenter_4 node #45 			10.754999999999999
+replica #976    			Datacenter_3 node #32 			10.6575
+replica #977    			Datacenter_0 node #18 			10.6575
+replica #978    			Datacenter_4 node #51 			10.754999999999999
+replica #979    			Datacenter_3 node #30 			10.6575
+replica #980    			Datacenter_0 node #7 			13.0125
+replica #981    			Datacenter_1 node #1 			16.0225
+replica #982    			Datacenter_3 node #25 			10.6575
+replica #983    			Datacenter_0 node #0 			14.096250000000001
+replica #984    			Datacenter_4 node #42 			10.6575
+replica #985    			Datacenter_3 node #21 			13.0125
+replica #986    			Datacenter_0 node #5 			16.0225
+replica #987    			Datacenter_4 node #38 			10.6575
+replica #988    			Datacenter_0 node #1 			16.0225
+replica #989    			Datacenter_2 node #7 			13.0125
+replica #990    			Datacenter_1 node #7 			13.0125
+replica #991    			Datacenter_2 node #22 			10.6575
+replica #992    			Datacenter_4 node #46 			10.754999999999999
+replica #993    			Datacenter_3 node #30 			10.6575
+replica #994    			Datacenter_2 node #15 			13.0125
+replica #995    			Datacenter_4 node #41 			10.6575
+replica #996    			Datacenter_3 node #27 			10.6575
+replica #997    			Datacenter_2 node #6 			13.0125
+replica #998    			Datacenter_4 node #37 			10.6575
+replica #999    			Datacenter_3 node #22 			13.0125
+replica #1000    			Datacenter_4 node #44 			10.6575
+replica #1001    			Datacenter_2 node #11 			13.0125
+replica #1002    			Datacenter_1 node #12 			10.6575
+replica #1003    			Datacenter_2 node #25 			10.6575
+replica #1004    			Datacenter_4 node #47 			10.754999999999999
+replica #1005    			Datacenter_3 node #38 			10.754999999999999
+replica #1006    			Datacenter_2 node #23 			10.6575
+replica #1007    			Datacenter_4 node #52 			10.754999999999999
+replica #1008    			Datacenter_3 node #30 			10.6575
+replica #1009    			Datacenter_2 node #16 			13.0125
+replica #1010    			Datacenter_3 node #27 			10.6575
+replica #1011    			Datacenter_4 node #35 			10.6575
+replica #1012    			Datacenter_1 node #3 			16.0225
+replica #1013    			Datacenter_4 node #43 			10.6575
+replica #1014    			Datacenter_3 node #22 			13.0125
+replica #1015    			Datacenter_0 node #4 			16.0225
+replica #1016    			Datacenter_4 node #38 			10.6575
+replica #1017    			Datacenter_3 node #23 			13.0125
+replica #1018    			Datacenter_0 node #1 			16.0225
+replica #1019    			Datacenter_4 node #39 			10.6575
+replica #1020    			Datacenter_2 node #14 			13.0125
+replica #1021    			Datacenter_4 node #24 			13.0125
+replica #1022    			Datacenter_3 node #7 			14.096250000000001
+replica #1023    			Datacenter_0 node #16 			10.6575
+replica #1024    			Datacenter_2 node #27 			10.6575
+replica #1025    			Datacenter_1 node #7 			13.0125
+replica #1026    			Datacenter_2 node #22 			10.6575
+replica #1027    			Datacenter_3 node #30 			10.6575
+replica #1028    			Datacenter_4 node #50 			10.754999999999999
+replica #1029    			Datacenter_4 node #41 			10.6575
+replica #1030    			Datacenter_3 node #28 			10.6575
+replica #1031    			Datacenter_0 node #8 			13.0125
+replica #1032    			Datacenter_4 node #43 			10.6575
+replica #1033    			Datacenter_3 node #31 			10.6575
+replica #1034    			Datacenter_0 node #2 			16.0225
+replica #1035    			Datacenter_2 node #17 			13.0125
+replica #1036    			Datacenter_1 node #10 			10.6575
+replica #1037    			Datacenter_2 node #26 			10.6575
+replica #1038    			Datacenter_3 node #37 			10.754999999999999
+replica #1039    			Datacenter_2 node #24 			10.6575
+replica #1040    			Datacenter_3 node #33 			10.754999999999999
+replica #1041    			Datacenter_4 node #48 			10.754999999999999
+replica #1042    			Datacenter_4 node #50 			10.754999999999999
+replica #1043    			Datacenter_3 node #29 			10.6575
+replica #1044    			Datacenter_1 node #4 			13.0125
+replica #1045    			Datacenter_4 node #36 			10.6575
+replica #1046    			Datacenter_2 node #8 			13.0125
+replica #1047    			Datacenter_3 node #25 			10.6575
+replica #1048    			Datacenter_4 node #37 			10.6575
+replica #1049    			Datacenter_4 node #42 			10.6575
+replica #1050    			Datacenter_4 node #44 			10.6575
+replica #1051    			Datacenter_4 node #38 			10.6575
+replica #1052    			Datacenter_3 node #23 			13.0125
+replica #1053    			Datacenter_0 node #3 			16.0225
+replica #1054    			Datacenter_4 node #39 			10.6575
+replica #1055    			Datacenter_0 node #17 			10.6575
+replica #1056    			Datacenter_2 node #26 			10.6575
+replica #1057    			Datacenter_3 node #33 			10.754999999999999
+replica #1058    			Datacenter_2 node #25 			10.6575
+replica #1059    			Datacenter_1 node #5 			13.0125
+20.0: SdBroker: Cloud Resource List received with 5 resource(s)
+Adding: SDBroker2
+SDBroker2 is starting...
+20.0: SDBroker2: Cloud Resource List received with 5 resource(s)
+Operate ...
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #4 cost: 33.333333333333336 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #3 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #2 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #1 cost: 76.92307692307692 secnods
+read replica #0 cost: 33.333333333333336 secnods
+read replica #2 cost: 76.92307692307692 secnods
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+SdBroker is shutting down...
+Datacenter_0 is shutting down...
+Datacenter_1 is shutting down...
+Datacenter_2 is shutting down...
+Datacenter_3 is shutting down...
+Datacenter_4 is shutting down...
+AddedBroker is shutting down...
+SDBroker2 is shutting down...
+Simulation completed.
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		90000.0		320000.0		0.28125
+HarddriveStorage		1		30000.0		500000.0		0.06
+HarddriveStorage		2		180000.0		500000.0		0.36
+HarddriveStorage		3		40000.0		500000.0		0.08
+HarddriveStorage		4		100000.0		500000.0		0.2
+HarddriveStorage		5		60000.0		500000.0		0.12
+HarddriveStorage		6		90000.0		1000000.0		0.09
+HarddriveStorage		7		80000.0		1000000.0		0.08
+HarddriveStorage		8		80000.0		1000000.0		0.08
+HarddriveStorage		9		90000.0		1000000.0		0.09
+HarddriveStorage		10		50000.0		1000000.0		0.05
+HarddriveStorage		11		60000.0		2000000.0		0.03
+HarddriveStorage		12		30000.0		2000000.0		0.015
+HarddriveStorage		13		50000.0		2000000.0		0.025
+HarddriveStorage		14		70000.0		2000000.0		0.035
+HarddriveStorage		15		40000.0		2000000.0		0.02
+HarddriveStorage		16		70000.0		2000000.0		0.035
+HarddriveStorage		17		100000.0		2000000.0		0.05
+HarddriveStorage		18		30000.0		2000000.0		0.015
+HarddriveStorage		19		110000.0		4000000.0		0.0275
+totalStored:1450000.0		totalCapcity:2.782E7		AverageStorageUseage:0.05212077641984184
+*****PowerDatacenter: Datacenter_0*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		10000.0		320000.0		0.03125
+HarddriveStorage		1		80000.0		500000.0		0.16
+HarddriveStorage		2		50000.0		500000.0		0.1
+HarddriveStorage		3		80000.0		500000.0		0.16
+HarddriveStorage		4		30000.0		1000000.0		0.03
+HarddriveStorage		5		120000.0		1000000.0		0.12
+HarddriveStorage		6		70000.0		1000000.0		0.07
+HarddriveStorage		7		110000.0		1000000.0		0.11
+HarddriveStorage		8		30000.0		1000000.0		0.03
+HarddriveStorage		9		60000.0		1000000.0		0.06
+HarddriveStorage		10		80000.0		2000000.0		0.04
+HarddriveStorage		11		80000.0		2000000.0		0.04
+HarddriveStorage		12		50000.0		2000000.0		0.025
+HarddriveStorage		13		40000.0		2000000.0		0.02
+HarddriveStorage		14		60000.0		4000000.0		0.015
+totalStored:950000.0		totalCapcity:1.982E7		AverageStorageUseage:0.0479313824419778
+*****PowerDatacenter: Datacenter_1*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		30000.0		320000.0		0.09375
+HarddriveStorage		1		60000.0		320000.0		0.1875
+HarddriveStorage		2		10000.0		500000.0		0.02
+HarddriveStorage		3		20000.0		500000.0		0.04
+HarddriveStorage		4		30000.0		500000.0		0.06
+HarddriveStorage		5		10000.0		1000000.0		0.01
+HarddriveStorage		6		80000.0		1000000.0		0.08
+HarddriveStorage		7		50000.0		1000000.0		0.05
+HarddriveStorage		8		90000.0		1000000.0		0.09
+HarddriveStorage		9		70000.0		1000000.0		0.07
+HarddriveStorage		10		10000.0		1000000.0		0.01
+HarddriveStorage		11		70000.0		1000000.0		0.07
+HarddriveStorage		12		50000.0		1000000.0		0.05
+HarddriveStorage		13		10000.0		1000000.0		0.01
+HarddriveStorage		14		50000.0		1000000.0		0.05
+HarddriveStorage		15		100000.0		1000000.0		0.1
+HarddriveStorage		16		110000.0		1000000.0		0.11
+HarddriveStorage		17		80000.0		1000000.0		0.08
+HarddriveStorage		18		70000.0		1000000.0		0.07
+HarddriveStorage		19		110000.0		1000000.0		0.11
+HarddriveStorage		20		60000.0		1000000.0		0.06
+HarddriveStorage		21		80000.0		1000000.0		0.08
+HarddriveStorage		22		70000.0		2000000.0		0.035
+HarddriveStorage		23		70000.0		2000000.0		0.035
+HarddriveStorage		24		90000.0		2000000.0		0.045
+HarddriveStorage		25		100000.0		2000000.0		0.05
+HarddriveStorage		26		110000.0		2000000.0		0.055
+HarddriveStorage		27		90000.0		2000000.0		0.045
+HarddriveStorage		28		40000.0		4000000.0		0.01
+HarddriveStorage		29		50000.0		4000000.0		0.0125
+totalStored:1870000.0		totalCapcity:3.914E7		AverageStorageUseage:0.047777210015329585
+*****PowerDatacenter: Datacenter_2*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		30000.0		320000.0		0.09375
+HarddriveStorage		1		100000.0		320000.0		0.3125
+HarddriveStorage		2		140000.0		320000.0		0.4375
+HarddriveStorage		3		10000.0		320000.0		0.03125
+HarddriveStorage		4		30000.0		320000.0		0.09375
+HarddriveStorage		5		10000.0		320000.0		0.03125
+HarddriveStorage		6		10000.0		320000.0		0.03125
+HarddriveStorage		7		70000.0		320000.0		0.21875
+HarddriveStorage		8		10000.0		320000.0		0.03125
+HarddriveStorage		9		80000.0		320000.0		0.25
+HarddriveStorage		10		70000.0		320000.0		0.21875
+HarddriveStorage		11		40000.0		320000.0		0.125
+HarddriveStorage		12		40000.0		500000.0		0.08
+HarddriveStorage		13		10000.0		500000.0		0.02
+HarddriveStorage		14		20000.0		500000.0		0.04
+HarddriveStorage		15		20000.0		500000.0		0.04
+HarddriveStorage		16		30000.0		500000.0		0.06
+HarddriveStorage		17		50000.0		500000.0		0.1
+HarddriveStorage		18		30000.0		500000.0		0.06
+HarddriveStorage		19		20000.0		500000.0		0.04
+HarddriveStorage		20		20000.0		500000.0		0.04
+HarddriveStorage		21		100000.0		1000000.0		0.1
+HarddriveStorage		22		130000.0		1000000.0		0.13
+HarddriveStorage		23		70000.0		1000000.0		0.07
+HarddriveStorage		24		80000.0		1000000.0		0.08
+HarddriveStorage		25		100000.0		2000000.0		0.05
+HarddriveStorage		26		100000.0		2000000.0		0.05
+HarddriveStorage		27		120000.0		2000000.0		0.06
+HarddriveStorage		28		130000.0		2000000.0		0.065
+HarddriveStorage		29		150000.0		2000000.0		0.075
+HarddriveStorage		30		160000.0		2000000.0		0.08
+HarddriveStorage		31		80000.0		2000000.0		0.04
+HarddriveStorage		32		160000.0		2000000.0		0.08
+HarddriveStorage		33		70000.0		4000000.0		0.0175
+HarddriveStorage		34		60000.0		4000000.0		0.015
+HarddriveStorage		35		70000.0		4000000.0		0.0175
+HarddriveStorage		36		60000.0		4000000.0		0.015
+HarddriveStorage		37		70000.0		4000000.0		0.0175
+HarddriveStorage		38		60000.0		4000000.0		0.015
+HarddriveStorage		39		70000.0		4000000.0		0.0175
+totalStored:2680000.0		totalCapcity:5.634E7		AverageStorageUseage:0.04756833510827121
+*****PowerDatacenter: Datacenter_3*****
+User id		Debt
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		30000.0		320000.0		0.09375
+HarddriveStorage		1		40000.0		320000.0		0.125
+HarddriveStorage		2		10000.0		320000.0		0.03125
+HarddriveStorage		3		60000.0		320000.0		0.1875
+HarddriveStorage		4		20000.0		320000.0		0.0625
+HarddriveStorage		5		40000.0		320000.0		0.125
+HarddriveStorage		6		30000.0		320000.0		0.09375
+HarddriveStorage		7		20000.0		320000.0		0.0625
+HarddriveStorage		8		10000.0		320000.0		0.03125
+HarddriveStorage		9		20000.0		320000.0		0.0625
+HarddriveStorage		10		20000.0		320000.0		0.0625
+HarddriveStorage		11		40000.0		500000.0		0.08
+HarddriveStorage		12		20000.0		500000.0		0.04
+HarddriveStorage		13		10000.0		500000.0		0.02
+HarddriveStorage		14		20000.0		500000.0		0.04
+HarddriveStorage		15		0.0		500000.0		0.0
+HarddriveStorage		16		10000.0		500000.0		0.02
+HarddriveStorage		17		30000.0		500000.0		0.06
+HarddriveStorage		18		20000.0		500000.0		0.04
+HarddriveStorage		19		20000.0		500000.0		0.04
+HarddriveStorage		20		20000.0		500000.0		0.04
+HarddriveStorage		21		0.0		500000.0		0.0
+HarddriveStorage		22		10000.0		500000.0		0.02
+HarddriveStorage		23		20000.0		1000000.0		0.02
+HarddriveStorage		24		110000.0		1000000.0		0.11
+HarddriveStorage		25		30000.0		1000000.0		0.03
+HarddriveStorage		26		60000.0		1000000.0		0.06
+HarddriveStorage		27		20000.0		1000000.0		0.02
+HarddriveStorage		28		150000.0		1000000.0		0.15
+HarddriveStorage		29		40000.0		1000000.0		0.04
+HarddriveStorage		30		30000.0		1000000.0		0.03
+HarddriveStorage		31		20000.0		1000000.0		0.02
+HarddriveStorage		32		40000.0		1000000.0		0.04
+HarddriveStorage		33		50000.0		1000000.0		0.05
+HarddriveStorage		34		80000.0		2000000.0		0.04
+HarddriveStorage		35		160000.0		2000000.0		0.08
+HarddriveStorage		36		190000.0		2000000.0		0.095
+HarddriveStorage		37		150000.0		2000000.0		0.075
+HarddriveStorage		38		120000.0		2000000.0		0.06
+HarddriveStorage		39		70000.0		2000000.0		0.035
+HarddriveStorage		40		100000.0		2000000.0		0.05
+HarddriveStorage		41		200000.0		2000000.0		0.1
+HarddriveStorage		42		140000.0		2000000.0		0.07
+HarddriveStorage		43		160000.0		2000000.0		0.08
+HarddriveStorage		44		130000.0		2000000.0		0.065
+HarddriveStorage		45		90000.0		4000000.0		0.0225
+HarddriveStorage		46		90000.0		4000000.0		0.0225
+HarddriveStorage		47		100000.0		4000000.0		0.025
+HarddriveStorage		48		100000.0		4000000.0		0.025
+HarddriveStorage		49		100000.0		4000000.0		0.025
+HarddriveStorage		50		100000.0		4000000.0		0.025
+HarddriveStorage		51		90000.0		4000000.0		0.0225
+HarddriveStorage		52		100000.0		4000000.0		0.025
+HarddriveStorage		53		100000.0		4000000.0		0.025
+HarddriveStorage		54		110000.0		4000000.0		0.0275
+totalStored:3550000.0		totalCapcity:8.252E7		AverageStorageUseage:0.04301987396994668
+*****PowerDatacenter: Datacenter_4*****
+User id		Debt
+**********************************
+StroageTest finished!

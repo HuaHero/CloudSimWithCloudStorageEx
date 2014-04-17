@@ -1,0 +1,1146 @@
+Starting MultiDcStorageSimImprov...
+Initialising...
+File CloudFile0-blk1-rep0 who's id is 0 is inited!
+File CloudFile0-blk1-rep1 who's id is 1 is inited!
+File CloudFile0-blk1-rep2 who's id is 2 is inited!
+File CloudFile0-blk1-rep3 who's id is 3 is inited!
+File CloudFile0-blk1-rep4 who's id is 4 is inited!
+File CloudFile0-blk1-rep5 who's id is 5 is inited!
+File CloudFile0-blk1-rep6 who's id is 6 is inited!
+File CloudFile0-blk1-rep7 who's id is 7 is inited!
+File CloudFile0-blk1-rep8 who's id is 8 is inited!
+File CloudFile1-blk1-rep0 who's id is 9 is inited!
+File CloudFile1-blk1-rep1 who's id is 10 is inited!
+File CloudFile1-blk1-rep2 who's id is 11 is inited!
+File CloudFile1-blk1-rep3 who's id is 12 is inited!
+File CloudFile1-blk1-rep4 who's id is 13 is inited!
+File CloudFile1-blk1-rep5 who's id is 14 is inited!
+File CloudFile1-blk1-rep6 who's id is 15 is inited!
+File CloudFile1-blk1-rep7 who's id is 16 is inited!
+File CloudFile1-blk1-rep8 who's id is 17 is inited!
+File CloudFile2-blk1-rep0 who's id is 18 is inited!
+File CloudFile2-blk1-rep1 who's id is 19 is inited!
+File CloudFile2-blk1-rep2 who's id is 20 is inited!
+File CloudFile2-blk1-rep3 who's id is 21 is inited!
+File CloudFile2-blk1-rep4 who's id is 22 is inited!
+File CloudFile2-blk1-rep5 who's id is 23 is inited!
+File CloudFile2-blk1-rep6 who's id is 24 is inited!
+File CloudFile2-blk1-rep7 who's id is 25 is inited!
+File CloudFile2-blk1-rep8 who's id is 26 is inited!
+File CloudFile3-blk1-rep0 who's id is 27 is inited!
+File CloudFile3-blk1-rep1 who's id is 28 is inited!
+File CloudFile3-blk1-rep2 who's id is 29 is inited!
+File CloudFile3-blk1-rep3 who's id is 30 is inited!
+File CloudFile3-blk1-rep4 who's id is 31 is inited!
+File CloudFile3-blk1-rep5 who's id is 32 is inited!
+File CloudFile3-blk1-rep6 who's id is 33 is inited!
+File CloudFile3-blk1-rep7 who's id is 34 is inited!
+File CloudFile3-blk1-rep8 who's id is 35 is inited!
+File CloudFile4-blk1-rep0 who's id is 36 is inited!
+File CloudFile4-blk1-rep1 who's id is 37 is inited!
+File CloudFile4-blk1-rep2 who's id is 38 is inited!
+File CloudFile4-blk1-rep3 who's id is 39 is inited!
+File CloudFile4-blk1-rep4 who's id is 40 is inited!
+File CloudFile4-blk1-rep5 who's id is 41 is inited!
+File CloudFile4-blk1-rep6 who's id is 42 is inited!
+File CloudFile4-blk1-rep7 who's id is 43 is inited!
+File CloudFile4-blk1-rep8 who's id is 44 is inited!
+File CloudFile5-blk1-rep0 who's id is 45 is inited!
+File CloudFile5-blk1-rep1 who's id is 46 is inited!
+File CloudFile5-blk1-rep2 who's id is 47 is inited!
+File CloudFile5-blk1-rep3 who's id is 48 is inited!
+File CloudFile5-blk1-rep4 who's id is 49 is inited!
+File CloudFile5-blk1-rep5 who's id is 50 is inited!
+File CloudFile5-blk1-rep6 who's id is 51 is inited!
+File CloudFile5-blk1-rep7 who's id is 52 is inited!
+File CloudFile5-blk1-rep8 who's id is 53 is inited!
+File CloudFile6-blk1-rep0 who's id is 54 is inited!
+File CloudFile6-blk1-rep1 who's id is 55 is inited!
+File CloudFile6-blk1-rep2 who's id is 56 is inited!
+File CloudFile6-blk1-rep3 who's id is 57 is inited!
+File CloudFile6-blk1-rep4 who's id is 58 is inited!
+File CloudFile6-blk1-rep5 who's id is 59 is inited!
+File CloudFile6-blk1-rep6 who's id is 60 is inited!
+File CloudFile6-blk1-rep7 who's id is 61 is inited!
+File CloudFile6-blk1-rep8 who's id is 62 is inited!
+File CloudFile7-blk1-rep0 who's id is 63 is inited!
+File CloudFile7-blk1-rep1 who's id is 64 is inited!
+File CloudFile7-blk1-rep2 who's id is 65 is inited!
+File CloudFile7-blk1-rep3 who's id is 66 is inited!
+File CloudFile7-blk1-rep4 who's id is 67 is inited!
+File CloudFile7-blk1-rep5 who's id is 68 is inited!
+File CloudFile7-blk1-rep6 who's id is 69 is inited!
+File CloudFile7-blk1-rep7 who's id is 70 is inited!
+File CloudFile7-blk1-rep8 who's id is 71 is inited!
+File CloudFile8-blk1-rep0 who's id is 72 is inited!
+File CloudFile8-blk1-rep1 who's id is 73 is inited!
+File CloudFile8-blk1-rep2 who's id is 74 is inited!
+File CloudFile8-blk1-rep3 who's id is 75 is inited!
+File CloudFile8-blk1-rep4 who's id is 76 is inited!
+File CloudFile8-blk1-rep5 who's id is 77 is inited!
+File CloudFile8-blk1-rep6 who's id is 78 is inited!
+File CloudFile8-blk1-rep7 who's id is 79 is inited!
+File CloudFile8-blk1-rep8 who's id is 80 is inited!
+File CloudFile9-blk1-rep0 who's id is 81 is inited!
+File CloudFile9-blk1-rep1 who's id is 82 is inited!
+File CloudFile9-blk1-rep2 who's id is 83 is inited!
+File CloudFile9-blk1-rep3 who's id is 84 is inited!
+File CloudFile9-blk1-rep4 who's id is 85 is inited!
+File CloudFile9-blk1-rep5 who's id is 86 is inited!
+File CloudFile9-blk1-rep6 who's id is 87 is inited!
+File CloudFile9-blk1-rep7 who's id is 88 is inited!
+File CloudFile9-blk1-rep8 who's id is 89 is inited!
+replica #0    			Datacenter_4 node #27 			136.0125
+replica #1    			Datacenter_0 node #16 			154.6575
+replica #2    			Datacenter_4 node #39 			133.6575
+replica #3    			Datacenter_3 node #0 			104.09625
+replica #4    			Datacenter_0 node #19 			154.755
+replica #5    			Datacenter_2 node #13 			25.0125
+replica #6    			Datacenter_0 node #18 			154.6575
+replica #7    			Datacenter_4 node #24 			136.0125
+replica #8    			Datacenter_3 node #25 			100.6575
+replica #9    			Datacenter_4 node #47 			133.755
+replica #10    			Datacenter_0 node #6 			157.0125
+replica #11    			Datacenter_4 node #19 			139.0225
+replica #12    			Datacenter_3 node #33 			100.755
+replica #13    			Datacenter_4 node #46 			133.755
+replica #14    			Datacenter_0 node #4 			160.0225
+replica #15    			Datacenter_4 node #18 			139.0225
+replica #16    			Datacenter_4 node #29 			136.0125
+replica #17    			Datacenter_0 node #7 			157.0125
+replica #18    			Datacenter_0 node #4 			160.0225
+replica #19    			Datacenter_3 node #19 			106.02250000000001
+replica #20    			Datacenter_3 node #27 			100.6575
+replica #21    			Datacenter_0 node #19 			154.755
+replica #22    			Datacenter_4 node #20 			139.0225
+replica #23    			Datacenter_4 node #16 			139.0225
+replica #24    			Datacenter_1 node #14 			99.755
+replica #25    			Datacenter_4 node #49 			133.755
+replica #26    			Datacenter_4 node #22 			139.0225
+replica #27    			Datacenter_3 node #9 			104.09625
+replica #28    			Datacenter_0 node #7 			157.0125
+replica #29    			Datacenter_4 node #35 			133.6575
+replica #30    			Datacenter_4 node #33 			136.0125
+replica #31    			Datacenter_2 node #8 			25.0125
+replica #32    			Datacenter_0 node #19 			154.755
+replica #33    			Datacenter_2 node #14 			25.0125
+replica #34    			Datacenter_4 node #31 			136.0125
+replica #35    			Datacenter_4 node #7 			137.09625
+replica #36    			Datacenter_2 node #16 			25.0125
+replica #37    			Datacenter_4 node #0 			137.09625
+replica #38    			Datacenter_2 node #11 			25.0125
+replica #39    			Datacenter_4 node #43 			133.6575
+replica #40    			Datacenter_4 node #28 			136.0125
+replica #41    			Datacenter_2 node #11 			25.0125
+replica #42    			Datacenter_4 node #1 			137.09625
+replica #43    			Datacenter_3 node #8 			104.09625
+replica #44    			Datacenter_3 node #27 			100.6575
+replica #45    			Datacenter_1 node #1 			105.02250000000001
+replica #46    			Datacenter_3 node #8 			104.09625
+replica #47    			Datacenter_4 node #33 			136.0125
+replica #48    			Datacenter_2 node #13 			25.0125
+replica #49    			Datacenter_4 node #11 			139.0225
+replica #50    			Datacenter_3 node #7 			104.09625
+replica #51    			Datacenter_4 node #36 			133.6575
+replica #52    			Datacenter_2 node #3 			28.0225
+replica #53    			Datacenter_2 node #26 			22.6575
+replica #54    			Datacenter_1 node #1 			105.02250000000001
+replica #55    			Datacenter_1 node #0 			103.09625
+replica #56    			Datacenter_4 node #47 			133.755
+replica #57    			Datacenter_3 node #7 			104.09625
+replica #58    			Datacenter_1 node #14 			99.755
+replica #59    			Datacenter_0 node #2 			160.0225
+replica #60    			Datacenter_4 node #23 			136.0125
+replica #61    			Datacenter_4 node #7 			137.09625
+replica #62    			Datacenter_0 node #4 			160.0225
+replica #63    			Datacenter_4 node #33 			136.0125
+replica #64    			Datacenter_4 node #29 			136.0125
+replica #65    			Datacenter_0 node #19 			154.755
+replica #66    			Datacenter_2 node #11 			25.0125
+replica #67    			Datacenter_4 node #26 			136.0125
+replica #68    			Datacenter_2 node #1 			26.09625
+replica #69    			Datacenter_1 node #9 			102.0125
+replica #70    			Datacenter_0 node #5 			160.0225
+replica #71    			Datacenter_1 node #5 			102.0125
+replica #72    			Datacenter_2 node #15 			25.0125
+replica #73    			Datacenter_4 node #53 			133.755
+replica #74    			Datacenter_1 node #12 			99.6575
+replica #75    			Datacenter_4 node #52 			133.755
+replica #76    			Datacenter_0 node #18 			154.6575
+replica #77    			Datacenter_4 node #46 			133.755
+replica #78    			Datacenter_4 node #54 			133.755
+replica #79    			Datacenter_2 node #25 			22.6575
+replica #80    			Datacenter_3 node #25 			100.6575
+replica #81    			Datacenter_4 node #44 			133.6575
+replica #82    			Datacenter_0 node #4 			160.0225
+replica #83    			Datacenter_4 node #3 			137.09625
+replica #84    			Datacenter_1 node #6 			102.0125
+replica #85    			Datacenter_3 node #19 			106.02250000000001
+replica #86    			Datacenter_0 node #18 			154.6575
+replica #87    			Datacenter_0 node #3 			160.0225
+replica #88    			Datacenter_4 node #0 			137.09625
+replica #89    			Datacenter_3 node #3 			104.09625
+Starting CloudSim version 2.0
+CSdBroker is starting...
+Datacenter_0 is starting...
+Datacenter_1 is starting...
+Datacenter_2 is starting...
+Datacenter_3 is starting...
+Datacenter_4 is starting...
+Entities started.
+0.0: CSdBroker: Cloud Resource List received with 5 resource(s)
+288.0:CSdBroker:Trying to Create VM#0 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#1 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#2 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#3 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#4 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#5 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#6 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#7 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#8 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#9 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#10 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#11 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#12 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#13 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#14 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#15 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#16 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#17 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#18 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#19 in Datacenter_0
+288.0:CSdBroker:Trying to Create VM#20 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#21 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#22 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#23 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#24 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#25 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#26 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#27 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#28 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#29 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#30 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#31 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#32 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#33 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#34 in Datacenter_1
+288.0:CSdBroker:Trying to Create VM#35 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#36 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#37 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#38 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#39 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#40 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#41 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#42 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#43 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#44 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#45 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#46 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#47 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#48 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#49 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#50 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#51 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#52 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#53 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#54 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#55 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#56 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#57 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#58 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#59 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#60 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#61 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#62 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#63 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#64 in Datacenter_2
+288.0:CSdBroker:Trying to Create VM#65 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#66 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#67 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#68 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#69 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#70 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#71 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#72 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#73 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#74 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#75 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#76 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#77 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#78 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#79 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#80 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#81 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#82 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#83 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#84 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#85 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#86 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#87 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#88 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#89 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#90 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#91 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#92 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#93 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#94 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#95 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#96 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#97 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#98 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#99 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#100 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#101 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#102 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#103 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#104 in Datacenter_3
+288.0:CSdBroker:Trying to Create VM#105 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#106 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#107 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#108 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#109 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#110 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#111 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#112 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#113 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#114 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#115 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#116 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#117 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#118 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#119 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#120 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#121 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#122 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#123 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#124 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#125 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#126 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#127 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#128 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#129 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#130 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#131 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#132 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#133 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#134 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#135 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#136 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#137 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#138 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#139 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#140 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#141 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#142 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#143 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#144 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#145 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#146 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#147 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#148 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#149 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#150 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#151 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#152 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#153 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#154 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#155 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#156 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#157 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#158 in Datacenter_4
+288.0:CSdBroker:Trying to Create VM#159 in Datacenter_4
+312.0: CSdBroker: VM #35 has been created in Datacenter #5, Host #0
+312.0: CSdBroker: VM #36 has been created in Datacenter #5, Host #1
+312.0: CSdBroker: VM #37 has been created in Datacenter #5, Host #2
+312.0: CSdBroker: VM #38 has been created in Datacenter #5, Host #3
+312.0: CSdBroker: VM #39 has been created in Datacenter #5, Host #4
+312.0: CSdBroker: VM #40 has been created in Datacenter #5, Host #5
+312.0: CSdBroker: VM #41 has been created in Datacenter #5, Host #6
+312.0: CSdBroker: VM #42 has been created in Datacenter #5, Host #7
+312.0: CSdBroker: VM #43 has been created in Datacenter #5, Host #8
+312.0: CSdBroker: VM #44 has been created in Datacenter #5, Host #9
+312.0: CSdBroker: VM #45 has been created in Datacenter #5, Host #10
+312.0: CSdBroker: VM #46 has been created in Datacenter #5, Host #11
+312.0: CSdBroker: VM #47 has been created in Datacenter #5, Host #12
+312.0: CSdBroker: VM #48 has been created in Datacenter #5, Host #13
+312.0: CSdBroker: VM #49 has been created in Datacenter #5, Host #14
+312.0: CSdBroker: VM #50 has been created in Datacenter #5, Host #15
+312.0: CSdBroker: VM #51 has been created in Datacenter #5, Host #16
+312.0: CSdBroker: VM #52 has been created in Datacenter #5, Host #17
+312.0: CSdBroker: VM #53 has been created in Datacenter #5, Host #18
+312.0: CSdBroker: VM #54 has been created in Datacenter #5, Host #19
+312.0: CSdBroker: VM #55 has been created in Datacenter #5, Host #20
+312.0: CSdBroker: VM #56 has been created in Datacenter #5, Host #21
+312.0: CSdBroker: VM #57 has been created in Datacenter #5, Host #22
+312.0: CSdBroker: VM #58 has been created in Datacenter #5, Host #23
+312.0: CSdBroker: VM #59 has been created in Datacenter #5, Host #24
+312.0: CSdBroker: VM #60 has been created in Datacenter #5, Host #25
+312.0: CSdBroker: VM #61 has been created in Datacenter #5, Host #26
+312.0: CSdBroker: VM #62 has been created in Datacenter #5, Host #27
+312.0: CSdBroker: VM #63 has been created in Datacenter #5, Host #28
+312.0: CSdBroker: VM #64 has been created in Datacenter #5, Host #29
+466.0: CSdBroker: VM #20 has been created in Datacenter #4, Host #0
+466.0: CSdBroker: VM #21 has been created in Datacenter #4, Host #1
+466.0: CSdBroker: VM #22 has been created in Datacenter #4, Host #2
+466.0: CSdBroker: VM #23 has been created in Datacenter #4, Host #3
+466.0: CSdBroker: VM #24 has been created in Datacenter #4, Host #4
+466.0: CSdBroker: VM #25 has been created in Datacenter #4, Host #5
+466.0: CSdBroker: VM #26 has been created in Datacenter #4, Host #6
+466.0: CSdBroker: VM #27 has been created in Datacenter #4, Host #7
+466.0: CSdBroker: VM #28 has been created in Datacenter #4, Host #8
+466.0: CSdBroker: VM #29 has been created in Datacenter #4, Host #9
+466.0: CSdBroker: VM #30 has been created in Datacenter #4, Host #10
+466.0: CSdBroker: VM #31 has been created in Datacenter #4, Host #11
+466.0: CSdBroker: VM #32 has been created in Datacenter #4, Host #12
+466.0: CSdBroker: VM #33 has been created in Datacenter #4, Host #13
+466.0: CSdBroker: VM #34 has been created in Datacenter #4, Host #14
+468.0: CSdBroker: VM #65 has been created in Datacenter #6, Host #0
+468.0: CSdBroker: VM #66 has been created in Datacenter #6, Host #1
+468.0: CSdBroker: VM #67 has been created in Datacenter #6, Host #2
+468.0: CSdBroker: VM #68 has been created in Datacenter #6, Host #3
+468.0: CSdBroker: VM #69 has been created in Datacenter #6, Host #4
+468.0: CSdBroker: VM #70 has been created in Datacenter #6, Host #5
+468.0: CSdBroker: VM #71 has been created in Datacenter #6, Host #6
+468.0: CSdBroker: VM #72 has been created in Datacenter #6, Host #7
+468.0: CSdBroker: VM #73 has been created in Datacenter #6, Host #8
+468.0: CSdBroker: VM #74 has been created in Datacenter #6, Host #9
+468.0: CSdBroker: VM #75 has been created in Datacenter #6, Host #10
+468.0: CSdBroker: VM #76 has been created in Datacenter #6, Host #11
+468.0: CSdBroker: VM #77 has been created in Datacenter #6, Host #12
+468.0: CSdBroker: VM #78 has been created in Datacenter #6, Host #13
+468.0: CSdBroker: VM #79 has been created in Datacenter #6, Host #14
+468.0: CSdBroker: VM #80 has been created in Datacenter #6, Host #15
+468.0: CSdBroker: VM #81 has been created in Datacenter #6, Host #16
+468.0: CSdBroker: VM #82 has been created in Datacenter #6, Host #17
+468.0: CSdBroker: VM #83 has been created in Datacenter #6, Host #18
+468.0: CSdBroker: VM #84 has been created in Datacenter #6, Host #19
+468.0: CSdBroker: VM #85 has been created in Datacenter #6, Host #20
+468.0: CSdBroker: VM #86 has been created in Datacenter #6, Host #21
+468.0: CSdBroker: VM #87 has been created in Datacenter #6, Host #22
+468.0: CSdBroker: VM #88 has been created in Datacenter #6, Host #23
+468.0: CSdBroker: VM #89 has been created in Datacenter #6, Host #24
+468.0: CSdBroker: VM #90 has been created in Datacenter #6, Host #25
+468.0: CSdBroker: VM #91 has been created in Datacenter #6, Host #26
+468.0: CSdBroker: VM #92 has been created in Datacenter #6, Host #27
+468.0: CSdBroker: VM #93 has been created in Datacenter #6, Host #28
+468.0: CSdBroker: VM #94 has been created in Datacenter #6, Host #29
+468.0: CSdBroker: VM #95 has been created in Datacenter #6, Host #30
+468.0: CSdBroker: VM #96 has been created in Datacenter #6, Host #31
+468.0: CSdBroker: VM #97 has been created in Datacenter #6, Host #32
+468.0: CSdBroker: VM #98 has been created in Datacenter #6, Host #33
+468.0: CSdBroker: VM #99 has been created in Datacenter #6, Host #34
+468.0: CSdBroker: VM #100 has been created in Datacenter #6, Host #35
+468.0: CSdBroker: VM #101 has been created in Datacenter #6, Host #36
+468.0: CSdBroker: VM #102 has been created in Datacenter #6, Host #37
+468.0: CSdBroker: VM #103 has been created in Datacenter #6, Host #38
+468.0: CSdBroker: VM #104 has been created in Datacenter #6, Host #39
+534.0: CSdBroker: VM #105 has been created in Datacenter #7, Host #0
+534.0: CSdBroker: VM #106 has been created in Datacenter #7, Host #1
+534.0: CSdBroker: VM #107 has been created in Datacenter #7, Host #2
+534.0: CSdBroker: VM #108 has been created in Datacenter #7, Host #3
+534.0: CSdBroker: VM #109 has been created in Datacenter #7, Host #4
+534.0: CSdBroker: VM #110 has been created in Datacenter #7, Host #5
+534.0: CSdBroker: VM #111 has been created in Datacenter #7, Host #6
+534.0: CSdBroker: VM #112 has been created in Datacenter #7, Host #7
+534.0: CSdBroker: VM #113 has been created in Datacenter #7, Host #8
+534.0: CSdBroker: VM #114 has been created in Datacenter #7, Host #9
+534.0: CSdBroker: VM #115 has been created in Datacenter #7, Host #10
+534.0: CSdBroker: VM #116 has been created in Datacenter #7, Host #11
+534.0: CSdBroker: VM #117 has been created in Datacenter #7, Host #12
+534.0: CSdBroker: VM #118 has been created in Datacenter #7, Host #13
+534.0: CSdBroker: VM #119 has been created in Datacenter #7, Host #14
+534.0: CSdBroker: VM #120 has been created in Datacenter #7, Host #15
+534.0: CSdBroker: VM #121 has been created in Datacenter #7, Host #16
+534.0: CSdBroker: VM #122 has been created in Datacenter #7, Host #17
+534.0: CSdBroker: VM #123 has been created in Datacenter #7, Host #18
+534.0: CSdBroker: VM #124 has been created in Datacenter #7, Host #19
+534.0: CSdBroker: VM #125 has been created in Datacenter #7, Host #20
+534.0: CSdBroker: VM #126 has been created in Datacenter #7, Host #21
+534.0: CSdBroker: VM #127 has been created in Datacenter #7, Host #22
+534.0: CSdBroker: VM #128 has been created in Datacenter #7, Host #23
+534.0: CSdBroker: VM #129 has been created in Datacenter #7, Host #24
+534.0: CSdBroker: VM #130 has been created in Datacenter #7, Host #25
+534.0: CSdBroker: VM #131 has been created in Datacenter #7, Host #26
+534.0: CSdBroker: VM #132 has been created in Datacenter #7, Host #27
+534.0: CSdBroker: VM #133 has been created in Datacenter #7, Host #28
+534.0: CSdBroker: VM #134 has been created in Datacenter #7, Host #29
+534.0: CSdBroker: VM #135 has been created in Datacenter #7, Host #30
+534.0: CSdBroker: VM #136 has been created in Datacenter #7, Host #31
+534.0: CSdBroker: VM #137 has been created in Datacenter #7, Host #32
+534.0: CSdBroker: VM #138 has been created in Datacenter #7, Host #33
+534.0: CSdBroker: VM #139 has been created in Datacenter #7, Host #34
+534.0: CSdBroker: VM #140 has been created in Datacenter #7, Host #35
+534.0: CSdBroker: VM #141 has been created in Datacenter #7, Host #36
+534.0: CSdBroker: VM #142 has been created in Datacenter #7, Host #37
+534.0: CSdBroker: VM #143 has been created in Datacenter #7, Host #38
+534.0: CSdBroker: VM #144 has been created in Datacenter #7, Host #39
+534.0: CSdBroker: VM #145 has been created in Datacenter #7, Host #40
+534.0: CSdBroker: VM #146 has been created in Datacenter #7, Host #41
+534.0: CSdBroker: VM #147 has been created in Datacenter #7, Host #42
+534.0: CSdBroker: VM #148 has been created in Datacenter #7, Host #43
+534.0: CSdBroker: VM #149 has been created in Datacenter #7, Host #44
+534.0: CSdBroker: VM #150 has been created in Datacenter #7, Host #45
+534.0: CSdBroker: VM #151 has been created in Datacenter #7, Host #46
+534.0: CSdBroker: VM #152 has been created in Datacenter #7, Host #47
+534.0: CSdBroker: VM #153 has been created in Datacenter #7, Host #48
+534.0: CSdBroker: VM #154 has been created in Datacenter #7, Host #49
+534.0: CSdBroker: VM #155 has been created in Datacenter #7, Host #50
+534.0: CSdBroker: VM #156 has been created in Datacenter #7, Host #51
+534.0: CSdBroker: VM #157 has been created in Datacenter #7, Host #52
+534.0: CSdBroker: VM #158 has been created in Datacenter #7, Host #53
+534.0: CSdBroker: VM #159 has been created in Datacenter #7, Host #54
+576.0: CSdBroker: VM #0 has been created in Datacenter #3, Host #0
+576.0: CSdBroker: VM #1 has been created in Datacenter #3, Host #1
+576.0: CSdBroker: VM #2 has been created in Datacenter #3, Host #2
+576.0: CSdBroker: VM #3 has been created in Datacenter #3, Host #3
+576.0: CSdBroker: VM #4 has been created in Datacenter #3, Host #4
+576.0: CSdBroker: VM #5 has been created in Datacenter #3, Host #5
+576.0: CSdBroker: VM #6 has been created in Datacenter #3, Host #6
+576.0: CSdBroker: VM #7 has been created in Datacenter #3, Host #7
+576.0: CSdBroker: VM #8 has been created in Datacenter #3, Host #8
+576.0: CSdBroker: VM #9 has been created in Datacenter #3, Host #9
+576.0: CSdBroker: VM #10 has been created in Datacenter #3, Host #10
+576.0: CSdBroker: VM #11 has been created in Datacenter #3, Host #11
+576.0: CSdBroker: VM #12 has been created in Datacenter #3, Host #12
+576.0: CSdBroker: VM #13 has been created in Datacenter #3, Host #13
+576.0: CSdBroker: VM #14 has been created in Datacenter #3, Host #14
+576.0: CSdBroker: VM #15 has been created in Datacenter #3, Host #15
+576.0: CSdBroker: VM #16 has been created in Datacenter #3, Host #16
+576.0: CSdBroker: VM #17 has been created in Datacenter #3, Host #17
+576.0: CSdBroker: VM #18 has been created in Datacenter #3, Host #18
+576.0: CSdBroker: VM #19 has been created in Datacenter #3, Host #19
+576.0: CSdBroker: Sending cloudlet 0 to VM #35
+576.0: CSdBroker: Sending cloudlet 1 to VM #36
+576.0: CSdBroker: Sending cloudlet 2 to VM #37
+576.0: CSdBroker: Sending cloudlet 3 to VM #38
+576.0: CSdBroker: Sending cloudlet 4 to VM #39
+576.0: CSdBroker: Sending cloudlet 5 to VM #40
+576.0: CSdBroker: Sending cloudlet 6 to VM #41
+576.0: CSdBroker: Sending cloudlet 7 to VM #42
+576.0: CSdBroker: Sending cloudlet 8 to VM #43
+576.0: CSdBroker: Sending cloudlet 9 to VM #44
+576.0: CSdBroker: Sending cloudlet 10 to VM #45
+576.0: CSdBroker: Sending cloudlet 11 to VM #46
+576.0: CSdBroker: Sending cloudlet 12 to VM #47
+576.0: CSdBroker: Sending cloudlet 13 to VM #48
+576.0: CSdBroker: Sending cloudlet 14 to VM #49
+576.0: CSdBroker: Sending cloudlet 15 to VM #50
+576.0: CSdBroker: Sending cloudlet 16 to VM #51
+576.0: CSdBroker: Sending cloudlet 17 to VM #52
+576.0: CSdBroker: Sending cloudlet 18 to VM #53
+576.0: CSdBroker: Sending cloudlet 19 to VM #54
+576.0: CSdBroker: Sending cloudlet 20 to VM #55
+576.0: CSdBroker: Sending cloudlet 21 to VM #56
+576.0: CSdBroker: Sending cloudlet 22 to VM #57
+576.0: CSdBroker: Sending cloudlet 23 to VM #58
+576.0: CSdBroker: Sending cloudlet 24 to VM #59
+576.0: CSdBroker: Sending cloudlet 25 to VM #60
+576.0: CSdBroker: Sending cloudlet 26 to VM #61
+576.0: CSdBroker: Sending cloudlet 27 to VM #62
+576.0: CSdBroker: Sending cloudlet 28 to VM #63
+576.0: CSdBroker: Sending cloudlet 29 to VM #64
+576.0: CSdBroker: Sending cloudlet 30 to VM #20
+576.0: CSdBroker: Sending cloudlet 31 to VM #21
+576.0: CSdBroker: Sending cloudlet 32 to VM #22
+576.0: CSdBroker: Sending cloudlet 33 to VM #23
+576.0: CSdBroker: Sending cloudlet 34 to VM #24
+576.0: CSdBroker: Sending cloudlet 35 to VM #25
+576.0: CSdBroker: Sending cloudlet 36 to VM #26
+576.0: CSdBroker: Sending cloudlet 37 to VM #27
+576.0: CSdBroker: Sending cloudlet 38 to VM #28
+576.0: CSdBroker: Sending cloudlet 39 to VM #29
+576.0: CSdBroker: Sending cloudlet 40 to VM #30
+576.0: CSdBroker: Sending cloudlet 41 to VM #31
+576.0: CSdBroker: Sending cloudlet 42 to VM #32
+576.0: CSdBroker: Sending cloudlet 43 to VM #33
+576.0: CSdBroker: Sending cloudlet 44 to VM #34
+576.0: CSdBroker: Sending cloudlet 45 to VM #65
+576.0: CSdBroker: Sending cloudlet 46 to VM #66
+576.0: CSdBroker: Sending cloudlet 47 to VM #67
+576.0: CSdBroker: Sending cloudlet 48 to VM #68
+576.0: CSdBroker: Sending cloudlet 49 to VM #69
+576.0: CSdBroker: Sending cloudlet 50 to VM #70
+576.0: CSdBroker: Sending cloudlet 51 to VM #71
+576.0: CSdBroker: Sending cloudlet 52 to VM #72
+576.0: CSdBroker: Sending cloudlet 53 to VM #73
+576.0: CSdBroker: Sending cloudlet 54 to VM #74
+576.0: CSdBroker: Sending cloudlet 55 to VM #75
+576.0: CSdBroker: Sending cloudlet 56 to VM #76
+576.0: CSdBroker: Sending cloudlet 57 to VM #77
+576.0: CSdBroker: Sending cloudlet 58 to VM #78
+576.0: CSdBroker: Sending cloudlet 59 to VM #79
+576.0: CSdBroker: Sending cloudlet 60 to VM #80
+576.0: CSdBroker: Sending cloudlet 61 to VM #81
+576.0: CSdBroker: Sending cloudlet 62 to VM #82
+576.0: CSdBroker: Sending cloudlet 63 to VM #83
+576.0: CSdBroker: Sending cloudlet 64 to VM #84
+576.0: CSdBroker: Sending cloudlet 65 to VM #85
+576.0: CSdBroker: Sending cloudlet 66 to VM #86
+576.0: CSdBroker: Sending cloudlet 67 to VM #87
+576.0: CSdBroker: Sending cloudlet 68 to VM #88
+576.0: CSdBroker: Sending cloudlet 69 to VM #89
+576.0: CSdBroker: Sending cloudlet 70 to VM #90
+576.0: CSdBroker: Sending cloudlet 71 to VM #91
+576.0: CSdBroker: Sending cloudlet 72 to VM #92
+576.0: CSdBroker: Sending cloudlet 73 to VM #93
+576.0: CSdBroker: Sending cloudlet 74 to VM #94
+576.0: CSdBroker: Sending cloudlet 75 to VM #95
+576.0: CSdBroker: Sending cloudlet 76 to VM #96
+576.0: CSdBroker: Sending cloudlet 77 to VM #97
+576.0: CSdBroker: Sending cloudlet 78 to VM #98
+576.0: CSdBroker: Sending cloudlet 79 to VM #99
+576.0: CSdBroker: Sending cloudlet 80 to VM #100
+576.0: CSdBroker: Sending cloudlet 81 to VM #101
+576.0: CSdBroker: Sending cloudlet 82 to VM #102
+576.0: CSdBroker: Sending cloudlet 83 to VM #103
+576.0: CSdBroker: Sending cloudlet 84 to VM #104
+576.0: CSdBroker: Sending cloudlet 85 to VM #105
+576.0: CSdBroker: Sending cloudlet 86 to VM #106
+576.0: CSdBroker: Sending cloudlet 87 to VM #107
+576.0: CSdBroker: Sending cloudlet 88 to VM #108
+576.0: CSdBroker: Sending cloudlet 89 to VM #109
+600.1: CSdBroker: Cloudlet 28 received
+600.1: CSdBroker: Cloudlet 29 received
+600.1666666666666: CSdBroker: Cloudlet 22 received
+600.1666666666666: CSdBroker: Cloudlet 23 received
+600.1666666666666: CSdBroker: Cloudlet 24 received
+600.1666666666666: CSdBroker: Cloudlet 25 received
+600.1666666666666: CSdBroker: Cloudlet 26 received
+600.1666666666666: CSdBroker: Cloudlet 27 received
+600.2: CSdBroker: Cloudlet 6 received
+600.2: CSdBroker: Cloudlet 7 received
+600.2: CSdBroker: Cloudlet 8 received
+600.2: CSdBroker: Cloudlet 9 received
+600.2: CSdBroker: Cloudlet 10 received
+600.2: CSdBroker: Cloudlet 11 received
+600.2: CSdBroker: Cloudlet 12 received
+600.2: CSdBroker: Cloudlet 13 received
+600.2: CSdBroker: Cloudlet 14 received
+600.2: CSdBroker: Cloudlet 15 received
+600.2: CSdBroker: Cloudlet 16 received
+600.2: CSdBroker: Cloudlet 17 received
+600.2: CSdBroker: Cloudlet 18 received
+600.2: CSdBroker: Cloudlet 19 received
+600.2: CSdBroker: Cloudlet 20 received
+600.2: CSdBroker: Cloudlet 21 received
+600.2666666666667: CSdBroker: Cloudlet 2 received
+600.2666666666667: CSdBroker: Cloudlet 3 received
+600.2666666666667: CSdBroker: Cloudlet 4 received
+600.35: CSdBroker: Cloudlet 0 received
+600.35: CSdBroker: Cloudlet 1 received
+633.6033333333334: CSdBroker: Cloudlet 5 received
+754.1: CSdBroker: Cloudlet 44 received
+754.1666666666666: CSdBroker: Cloudlet 40 received
+754.1666666666666: CSdBroker: Cloudlet 41 received
+754.1666666666666: CSdBroker: Cloudlet 42 received
+754.1666666666666: CSdBroker: Cloudlet 43 received
+754.2: CSdBroker: Cloudlet 34 received
+754.2: CSdBroker: Cloudlet 35 received
+754.2: CSdBroker: Cloudlet 36 received
+754.2: CSdBroker: Cloudlet 37 received
+754.2: CSdBroker: Cloudlet 38 received
+754.2: CSdBroker: Cloudlet 39 received
+754.2666666666667: CSdBroker: Cloudlet 31 received
+754.2666666666667: CSdBroker: Cloudlet 32 received
+754.2666666666667: CSdBroker: Cloudlet 33 received
+754.35: CSdBroker: Cloudlet 30 received
+756.1: CSdBroker: Cloudlet 78 received
+756.1: CSdBroker: Cloudlet 79 received
+756.1: CSdBroker: Cloudlet 81 received
+756.1: CSdBroker: Cloudlet 82 received
+756.1: CSdBroker: Cloudlet 83 received
+756.1: CSdBroker: Cloudlet 84 received
+756.1666666666666: CSdBroker: Cloudlet 70 received
+756.1666666666666: CSdBroker: Cloudlet 71 received
+756.1666666666666: CSdBroker: Cloudlet 72 received
+756.1666666666666: CSdBroker: Cloudlet 73 received
+756.1666666666666: CSdBroker: Cloudlet 74 received
+756.1666666666666: CSdBroker: Cloudlet 75 received
+756.1666666666666: CSdBroker: Cloudlet 76 received
+756.1666666666666: CSdBroker: Cloudlet 77 received
+756.2: CSdBroker: Cloudlet 66 received
+756.2: CSdBroker: Cloudlet 67 received
+756.2: CSdBroker: Cloudlet 68 received
+756.2: CSdBroker: Cloudlet 69 received
+756.2666666666667: CSdBroker: Cloudlet 58 received
+756.2666666666667: CSdBroker: Cloudlet 59 received
+756.2666666666667: CSdBroker: Cloudlet 60 received
+756.2666666666667: CSdBroker: Cloudlet 61 received
+756.2666666666667: CSdBroker: Cloudlet 62 received
+756.2666666666667: CSdBroker: Cloudlet 63 received
+756.2666666666667: CSdBroker: Cloudlet 64 received
+756.2666666666667: CSdBroker: Cloudlet 65 received
+756.35: CSdBroker: Cloudlet 45 received
+756.35: CSdBroker: Cloudlet 47 received
+756.35: CSdBroker: Cloudlet 48 received
+756.35: CSdBroker: Cloudlet 49 received
+756.35: CSdBroker: Cloudlet 51 received
+756.35: CSdBroker: Cloudlet 52 received
+756.35: CSdBroker: Cloudlet 53 received
+756.35: CSdBroker: Cloudlet 54 received
+756.35: CSdBroker: Cloudlet 55 received
+756.35: CSdBroker: Cloudlet 56 received
+822.3333333333334: CSdBroker: Cloudlet 85 received
+822.3333333333334: CSdBroker: Cloudlet 86 received
+822.3333333333334: CSdBroker: Cloudlet 87 received
+822.3333333333334: CSdBroker: Cloudlet 89 received
+833.1252000000001: CSdBroker: Cloudlet 80 received
+833.2252000000001: CSdBroker: Cloudlet 57 received
+833.3252000000001: CSdBroker: Cloudlet 46 received
+833.3252000000001: CSdBroker: Cloudlet 50 received
+899.2560000000001: CSdBroker: Cloudlet 88 received
+899.2560000000001: CSdBroker: All Cloudlets executed. Finishing...
+899.2560000000001: CSdBroker: Destroying VM #35
+899.2560000000001: CSdBroker: Destroying VM #36
+899.2560000000001: CSdBroker: Destroying VM #37
+899.2560000000001: CSdBroker: Destroying VM #38
+899.2560000000001: CSdBroker: Destroying VM #39
+899.2560000000001: CSdBroker: Destroying VM #40
+899.2560000000001: CSdBroker: Destroying VM #41
+899.2560000000001: CSdBroker: Destroying VM #42
+899.2560000000001: CSdBroker: Destroying VM #43
+899.2560000000001: CSdBroker: Destroying VM #44
+899.2560000000001: CSdBroker: Destroying VM #45
+899.2560000000001: CSdBroker: Destroying VM #46
+899.2560000000001: CSdBroker: Destroying VM #47
+899.2560000000001: CSdBroker: Destroying VM #48
+899.2560000000001: CSdBroker: Destroying VM #49
+899.2560000000001: CSdBroker: Destroying VM #50
+899.2560000000001: CSdBroker: Destroying VM #51
+899.2560000000001: CSdBroker: Destroying VM #52
+899.2560000000001: CSdBroker: Destroying VM #53
+899.2560000000001: CSdBroker: Destroying VM #54
+899.2560000000001: CSdBroker: Destroying VM #55
+899.2560000000001: CSdBroker: Destroying VM #56
+899.2560000000001: CSdBroker: Destroying VM #57
+899.2560000000001: CSdBroker: Destroying VM #58
+899.2560000000001: CSdBroker: Destroying VM #59
+899.2560000000001: CSdBroker: Destroying VM #60
+899.2560000000001: CSdBroker: Destroying VM #61
+899.2560000000001: CSdBroker: Destroying VM #62
+899.2560000000001: CSdBroker: Destroying VM #63
+899.2560000000001: CSdBroker: Destroying VM #64
+899.2560000000001: CSdBroker: Destroying VM #20
+899.2560000000001: CSdBroker: Destroying VM #21
+899.2560000000001: CSdBroker: Destroying VM #22
+899.2560000000001: CSdBroker: Destroying VM #23
+899.2560000000001: CSdBroker: Destroying VM #24
+899.2560000000001: CSdBroker: Destroying VM #25
+899.2560000000001: CSdBroker: Destroying VM #26
+899.2560000000001: CSdBroker: Destroying VM #27
+899.2560000000001: CSdBroker: Destroying VM #28
+899.2560000000001: CSdBroker: Destroying VM #29
+899.2560000000001: CSdBroker: Destroying VM #30
+899.2560000000001: CSdBroker: Destroying VM #31
+899.2560000000001: CSdBroker: Destroying VM #32
+899.2560000000001: CSdBroker: Destroying VM #33
+899.2560000000001: CSdBroker: Destroying VM #34
+899.2560000000001: CSdBroker: Destroying VM #65
+899.2560000000001: CSdBroker: Destroying VM #66
+899.2560000000001: CSdBroker: Destroying VM #67
+899.2560000000001: CSdBroker: Destroying VM #68
+899.2560000000001: CSdBroker: Destroying VM #69
+899.2560000000001: CSdBroker: Destroying VM #70
+899.2560000000001: CSdBroker: Destroying VM #71
+899.2560000000001: CSdBroker: Destroying VM #72
+899.2560000000001: CSdBroker: Destroying VM #73
+899.2560000000001: CSdBroker: Destroying VM #74
+899.2560000000001: CSdBroker: Destroying VM #75
+899.2560000000001: CSdBroker: Destroying VM #76
+899.2560000000001: CSdBroker: Destroying VM #77
+899.2560000000001: CSdBroker: Destroying VM #78
+899.2560000000001: CSdBroker: Destroying VM #79
+899.2560000000001: CSdBroker: Destroying VM #80
+899.2560000000001: CSdBroker: Destroying VM #81
+899.2560000000001: CSdBroker: Destroying VM #82
+899.2560000000001: CSdBroker: Destroying VM #83
+899.2560000000001: CSdBroker: Destroying VM #84
+899.2560000000001: CSdBroker: Destroying VM #85
+899.2560000000001: CSdBroker: Destroying VM #86
+899.2560000000001: CSdBroker: Destroying VM #87
+899.2560000000001: CSdBroker: Destroying VM #88
+899.2560000000001: CSdBroker: Destroying VM #89
+899.2560000000001: CSdBroker: Destroying VM #90
+899.2560000000001: CSdBroker: Destroying VM #91
+899.2560000000001: CSdBroker: Destroying VM #92
+899.2560000000001: CSdBroker: Destroying VM #93
+899.2560000000001: CSdBroker: Destroying VM #94
+899.2560000000001: CSdBroker: Destroying VM #95
+899.2560000000001: CSdBroker: Destroying VM #96
+899.2560000000001: CSdBroker: Destroying VM #97
+899.2560000000001: CSdBroker: Destroying VM #98
+899.2560000000001: CSdBroker: Destroying VM #99
+899.2560000000001: CSdBroker: Destroying VM #100
+899.2560000000001: CSdBroker: Destroying VM #101
+899.2560000000001: CSdBroker: Destroying VM #102
+899.2560000000001: CSdBroker: Destroying VM #103
+899.2560000000001: CSdBroker: Destroying VM #104
+899.2560000000001: CSdBroker: Destroying VM #105
+899.2560000000001: CSdBroker: Destroying VM #106
+899.2560000000001: CSdBroker: Destroying VM #107
+899.2560000000001: CSdBroker: Destroying VM #108
+899.2560000000001: CSdBroker: Destroying VM #109
+899.2560000000001: CSdBroker: Destroying VM #110
+899.2560000000001: CSdBroker: Destroying VM #111
+899.2560000000001: CSdBroker: Destroying VM #112
+899.2560000000001: CSdBroker: Destroying VM #113
+899.2560000000001: CSdBroker: Destroying VM #114
+899.2560000000001: CSdBroker: Destroying VM #115
+899.2560000000001: CSdBroker: Destroying VM #116
+899.2560000000001: CSdBroker: Destroying VM #117
+899.2560000000001: CSdBroker: Destroying VM #118
+899.2560000000001: CSdBroker: Destroying VM #119
+899.2560000000001: CSdBroker: Destroying VM #120
+899.2560000000001: CSdBroker: Destroying VM #121
+899.2560000000001: CSdBroker: Destroying VM #122
+899.2560000000001: CSdBroker: Destroying VM #123
+899.2560000000001: CSdBroker: Destroying VM #124
+899.2560000000001: CSdBroker: Destroying VM #125
+899.2560000000001: CSdBroker: Destroying VM #126
+899.2560000000001: CSdBroker: Destroying VM #127
+899.2560000000001: CSdBroker: Destroying VM #128
+899.2560000000001: CSdBroker: Destroying VM #129
+899.2560000000001: CSdBroker: Destroying VM #130
+899.2560000000001: CSdBroker: Destroying VM #131
+899.2560000000001: CSdBroker: Destroying VM #132
+899.2560000000001: CSdBroker: Destroying VM #133
+899.2560000000001: CSdBroker: Destroying VM #134
+899.2560000000001: CSdBroker: Destroying VM #135
+899.2560000000001: CSdBroker: Destroying VM #136
+899.2560000000001: CSdBroker: Destroying VM #137
+899.2560000000001: CSdBroker: Destroying VM #138
+899.2560000000001: CSdBroker: Destroying VM #139
+899.2560000000001: CSdBroker: Destroying VM #140
+899.2560000000001: CSdBroker: Destroying VM #141
+899.2560000000001: CSdBroker: Destroying VM #142
+899.2560000000001: CSdBroker: Destroying VM #143
+899.2560000000001: CSdBroker: Destroying VM #144
+899.2560000000001: CSdBroker: Destroying VM #145
+899.2560000000001: CSdBroker: Destroying VM #146
+899.2560000000001: CSdBroker: Destroying VM #147
+899.2560000000001: CSdBroker: Destroying VM #148
+899.2560000000001: CSdBroker: Destroying VM #149
+899.2560000000001: CSdBroker: Destroying VM #150
+899.2560000000001: CSdBroker: Destroying VM #151
+899.2560000000001: CSdBroker: Destroying VM #152
+899.2560000000001: CSdBroker: Destroying VM #153
+899.2560000000001: CSdBroker: Destroying VM #154
+899.2560000000001: CSdBroker: Destroying VM #155
+899.2560000000001: CSdBroker: Destroying VM #156
+899.2560000000001: CSdBroker: Destroying VM #157
+899.2560000000001: CSdBroker: Destroying VM #158
+899.2560000000001: CSdBroker: Destroying VM #159
+899.2560000000001: CSdBroker: Destroying VM #0
+899.2560000000001: CSdBroker: Destroying VM #1
+899.2560000000001: CSdBroker: Destroying VM #2
+899.2560000000001: CSdBroker: Destroying VM #3
+899.2560000000001: CSdBroker: Destroying VM #4
+899.2560000000001: CSdBroker: Destroying VM #5
+899.2560000000001: CSdBroker: Destroying VM #6
+899.2560000000001: CSdBroker: Destroying VM #7
+899.2560000000001: CSdBroker: Destroying VM #8
+899.2560000000001: CSdBroker: Destroying VM #9
+899.2560000000001: CSdBroker: Destroying VM #10
+899.2560000000001: CSdBroker: Destroying VM #11
+899.2560000000001: CSdBroker: Destroying VM #12
+899.2560000000001: CSdBroker: Destroying VM #13
+899.2560000000001: CSdBroker: Destroying VM #14
+899.2560000000001: CSdBroker: Destroying VM #15
+899.2560000000001: CSdBroker: Destroying VM #16
+899.2560000000001: CSdBroker: Destroying VM #17
+899.2560000000001: CSdBroker: Destroying VM #18
+899.2560000000001: CSdBroker: Destroying VM #19
+CSdBroker is shutting down...
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+CSdBroker is shutting down...
+Datacenter_0 is shutting down...
+Datacenter_1 is shutting down...
+Datacenter_2 is shutting down...
+Datacenter_3 is shutting down...
+Datacenter_4 is shutting down...
+Simulation completed.
+
+========== OUTPUT ==========
+Cloudlet ID    STATUS    Data center ID    VM ID        Time    Start Time    Finish Time
+    28        SUCCESS        5            63            0.1        588            588.1
+    29        SUCCESS        5            64            0.1        588            588.1
+    22        SUCCESS        5            57            0.17        588            588.17
+    23        SUCCESS        5            58            0.17        588            588.17
+    24        SUCCESS        5            59            0.17        588            588.17
+    25        SUCCESS        5            60            0.17        588            588.17
+    26        SUCCESS        5            61            0.17        588            588.17
+    27        SUCCESS        5            62            0.17        588            588.17
+    6        SUCCESS        5            41            0.2        588            588.2
+    7        SUCCESS        5            42            0.2        588            588.2
+    8        SUCCESS        5            43            0.2        588            588.2
+    9        SUCCESS        5            44            0.2        588            588.2
+    10        SUCCESS        5            45            0.2        588            588.2
+    11        SUCCESS        5            46            0.2        588            588.2
+    12        SUCCESS        5            47            0.2        588            588.2
+    13        SUCCESS        5            48            0.2        588            588.2
+    14        SUCCESS        5            49            0.2        588            588.2
+    15        SUCCESS        5            50            0.2        588            588.2
+    16        SUCCESS        5            51            0.2        588            588.2
+    17        SUCCESS        5            52            0.2        588            588.2
+    18        SUCCESS        5            53            0.2        588            588.2
+    19        SUCCESS        5            54            0.2        588            588.2
+    20        SUCCESS        5            55            0.2        588            588.2
+    21        SUCCESS        5            56            0.2        588            588.2
+    2        SUCCESS        5            37            0.27        588            588.27
+    3        SUCCESS        5            38            0.27        588            588.27
+    4        SUCCESS        5            39            0.27        588            588.27
+    0        SUCCESS        5            35            0.35        588            588.35
+    1        SUCCESS        5            36            0.35        588            588.35
+    5        SUCCESS        5            40            33.6        588            621.6
+    44        SUCCESS        4            34            0.1        665            665.1
+    40        SUCCESS        4            30            0.17        665            665.17
+    41        SUCCESS        4            31            0.17        665            665.17
+    42        SUCCESS        4            32            0.17        665            665.17
+    43        SUCCESS        4            33            0.17        665            665.17
+    34        SUCCESS        4            24            0.2        665            665.2
+    35        SUCCESS        4            25            0.2        665            665.2
+    36        SUCCESS        4            26            0.2        665            665.2
+    37        SUCCESS        4            27            0.2        665            665.2
+    38        SUCCESS        4            28            0.2        665            665.2
+    39        SUCCESS        4            29            0.2        665            665.2
+    31        SUCCESS        4            21            0.27        665            665.27
+    32        SUCCESS        4            22            0.27        665            665.27
+    33        SUCCESS        4            23            0.27        665            665.27
+    30        SUCCESS        4            20            0.35        665            665.35
+    78        SUCCESS        6            98            0.1        666            666.1
+    79        SUCCESS        6            99            0.1        666            666.1
+    81        SUCCESS        6            101            0.1        666            666.1
+    82        SUCCESS        6            102            0.1        666            666.1
+    83        SUCCESS        6            103            0.1        666            666.1
+    84        SUCCESS        6            104            0.1        666            666.1
+    70        SUCCESS        6            90            0.17        666            666.17
+    71        SUCCESS        6            91            0.17        666            666.17
+    72        SUCCESS        6            92            0.17        666            666.17
+    73        SUCCESS        6            93            0.17        666            666.17
+    74        SUCCESS        6            94            0.17        666            666.17
+    75        SUCCESS        6            95            0.17        666            666.17
+    76        SUCCESS        6            96            0.17        666            666.17
+    77        SUCCESS        6            97            0.17        666            666.17
+    66        SUCCESS        6            86            0.2        666            666.2
+    67        SUCCESS        6            87            0.2        666            666.2
+    68        SUCCESS        6            88            0.2        666            666.2
+    69        SUCCESS        6            89            0.2        666            666.2
+    58        SUCCESS        6            78            0.27        666            666.27
+    59        SUCCESS        6            79            0.27        666            666.27
+    60        SUCCESS        6            80            0.27        666            666.27
+    61        SUCCESS        6            81            0.27        666            666.27
+    62        SUCCESS        6            82            0.27        666            666.27
+    63        SUCCESS        6            83            0.27        666            666.27
+    64        SUCCESS        6            84            0.27        666            666.27
+    65        SUCCESS        6            85            0.27        666            666.27
+    45        SUCCESS        6            65            0.35        666            666.35
+    47        SUCCESS        6            67            0.35        666            666.35
+    48        SUCCESS        6            68            0.35        666            666.35
+    49        SUCCESS        6            69            0.35        666            666.35
+    51        SUCCESS        6            71            0.35        666            666.35
+    52        SUCCESS        6            72            0.35        666            666.35
+    53        SUCCESS        6            73            0.35        666            666.35
+    54        SUCCESS        6            74            0.35        666            666.35
+    55        SUCCESS        6            75            0.35        666            666.35
+    56        SUCCESS        6            76            0.35        666            666.35
+    85        SUCCESS        7            105            0.33        699            699.33
+    86        SUCCESS        7            106            0.33        699            699.33
+    87        SUCCESS        7            107            0.33        699            699.33
+    89        SUCCESS        7            109            0.33        699            699.33
+    80        SUCCESS        6            100            77.13        666            743.13
+    57        SUCCESS        6            77            77.23        666            743.23
+    46        SUCCESS        6            66            77.33        666            743.33
+    50        SUCCESS        6            70            77.33        666            743.33
+    88        SUCCESS        7            108            77.26        699            776.26
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		0.0		320000.0		0.0
+HarddriveStorage		1		0.0		500000.0		0.0
+HarddriveStorage		2		10000.0		500000.0		0.02
+HarddriveStorage		3		10000.0		500000.0		0.02
+HarddriveStorage		4		40000.0		500000.0		0.08
+HarddriveStorage		5		10000.0		500000.0		0.02
+HarddriveStorage		6		10000.0		1000000.0		0.01
+HarddriveStorage		7		20000.0		1000000.0		0.02
+HarddriveStorage		8		0.0		1000000.0		0.0
+HarddriveStorage		9		0.0		1000000.0		0.0
+HarddriveStorage		10		0.0		1000000.0		0.0
+HarddriveStorage		11		0.0		2000000.0		0.0
+HarddriveStorage		12		0.0		2000000.0		0.0
+HarddriveStorage		13		0.0		2000000.0		0.0
+HarddriveStorage		14		0.0		2000000.0		0.0
+HarddriveStorage		15		0.0		2000000.0		0.0
+HarddriveStorage		16		10000.0		2000000.0		0.005
+HarddriveStorage		17		0.0		2000000.0		0.0
+HarddriveStorage		18		30000.0		2000000.0		0.015
+HarddriveStorage		19		40000.0		4000000.0		0.01
+totalStored:180000.0		totalCapcity:2.782E7		AverageStorageUseage:0.006470165348670022
+*****PowerDatacenter: Datacenter_0*****
+User id		Debt
+2		30661.6
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		10000.0		320000.0		0.03125
+HarddriveStorage		1		20000.0		500000.0		0.04
+HarddriveStorage		2		0.0		500000.0		0.0
+HarddriveStorage		3		0.0		500000.0		0.0
+HarddriveStorage		4		0.0		1000000.0		0.0
+HarddriveStorage		5		10000.0		1000000.0		0.01
+HarddriveStorage		6		10000.0		1000000.0		0.01
+HarddriveStorage		7		0.0		1000000.0		0.0
+HarddriveStorage		8		0.0		1000000.0		0.0
+HarddriveStorage		9		10000.0		1000000.0		0.01
+HarddriveStorage		10		0.0		2000000.0		0.0
+HarddriveStorage		11		0.0		2000000.0		0.0
+HarddriveStorage		12		10000.0		2000000.0		0.005
+HarddriveStorage		13		0.0		2000000.0		0.0
+HarddriveStorage		14		20000.0		4000000.0		0.005
+totalStored:90000.0		totalCapcity:1.982E7		AverageStorageUseage:0.004540867810292634
+*****PowerDatacenter: Datacenter_1*****
+User id		Debt
+2		21842.4
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		0.0		320000.0		0.0
+HarddriveStorage		1		10000.0		320000.0		0.03125
+HarddriveStorage		2		0.0		500000.0		0.0
+HarddriveStorage		3		10000.0		500000.0		0.02
+HarddriveStorage		4		0.0		500000.0		0.0
+HarddriveStorage		5		0.0		1000000.0		0.0
+HarddriveStorage		6		0.0		1000000.0		0.0
+HarddriveStorage		7		0.0		1000000.0		0.0
+HarddriveStorage		8		10000.0		1000000.0		0.01
+HarddriveStorage		9		0.0		1000000.0		0.0
+HarddriveStorage		10		0.0		1000000.0		0.0
+HarddriveStorage		11		30000.0		1000000.0		0.03
+HarddriveStorage		12		0.0		1000000.0		0.0
+HarddriveStorage		13		20000.0		1000000.0		0.02
+HarddriveStorage		14		10000.0		1000000.0		0.01
+HarddriveStorage		15		10000.0		1000000.0		0.01
+HarddriveStorage		16		10000.0		1000000.0		0.01
+HarddriveStorage		17		0.0		1000000.0		0.0
+HarddriveStorage		18		0.0		1000000.0		0.0
+HarddriveStorage		19		0.0		1000000.0		0.0
+HarddriveStorage		20		0.0		1000000.0		0.0
+HarddriveStorage		21		0.0		1000000.0		0.0
+HarddriveStorage		22		0.0		2000000.0		0.0
+HarddriveStorage		23		0.0		2000000.0		0.0
+HarddriveStorage		24		0.0		2000000.0		0.0
+HarddriveStorage		25		10000.0		2000000.0		0.005
+HarddriveStorage		26		10000.0		2000000.0		0.005
+HarddriveStorage		27		0.0		2000000.0		0.0
+HarddriveStorage		28		0.0		4000000.0		0.0
+HarddriveStorage		29		0.0		4000000.0		0.0
+totalStored:130000.0		totalCapcity:3.914E7		AverageStorageUseage:0.003321410321921308
+*****PowerDatacenter: Datacenter_2*****
+User id		Debt
+2		43133.6
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		10000.0		320000.0		0.03125
+HarddriveStorage		1		0.0		320000.0		0.0
+HarddriveStorage		2		0.0		320000.0		0.0
+HarddriveStorage		3		10000.0		320000.0		0.03125
+HarddriveStorage		4		0.0		320000.0		0.0
+HarddriveStorage		5		0.0		320000.0		0.0
+HarddriveStorage		6		0.0		320000.0		0.0
+HarddriveStorage		7		20000.0		320000.0		0.0625
+HarddriveStorage		8		20000.0		320000.0		0.0625
+HarddriveStorage		9		10000.0		320000.0		0.03125
+HarddriveStorage		10		0.0		320000.0		0.0
+HarddriveStorage		11		0.0		320000.0		0.0
+HarddriveStorage		12		0.0		500000.0		0.0
+HarddriveStorage		13		0.0		500000.0		0.0
+HarddriveStorage		14		0.0		500000.0		0.0
+HarddriveStorage		15		0.0		500000.0		0.0
+HarddriveStorage		16		0.0		500000.0		0.0
+HarddriveStorage		17		0.0		500000.0		0.0
+HarddriveStorage		18		0.0		500000.0		0.0
+HarddriveStorage		19		20000.0		500000.0		0.04
+HarddriveStorage		20		0.0		500000.0		0.0
+HarddriveStorage		21		0.0		1000000.0		0.0
+HarddriveStorage		22		0.0		1000000.0		0.0
+HarddriveStorage		23		0.0		1000000.0		0.0
+HarddriveStorage		24		0.0		1000000.0		0.0
+HarddriveStorage		25		20000.0		2000000.0		0.01
+HarddriveStorage		26		0.0		2000000.0		0.0
+HarddriveStorage		27		20000.0		2000000.0		0.01
+HarddriveStorage		28		0.0		2000000.0		0.0
+HarddriveStorage		29		0.0		2000000.0		0.0
+HarddriveStorage		30		0.0		2000000.0		0.0
+HarddriveStorage		31		0.0		2000000.0		0.0
+HarddriveStorage		32		0.0		2000000.0		0.0
+HarddriveStorage		33		10000.0		4000000.0		0.0025
+HarddriveStorage		34		0.0		4000000.0		0.0
+HarddriveStorage		35		0.0		4000000.0		0.0
+HarddriveStorage		36		0.0		4000000.0		0.0
+HarddriveStorage		37		0.0		4000000.0		0.0
+HarddriveStorage		38		0.0		4000000.0		0.0
+HarddriveStorage		39		0.0		4000000.0		0.0
+totalStored:140000.0		totalCapcity:5.634E7		AverageStorageUseage:0.0024849130280440185
+*****PowerDatacenter: Datacenter_3*****
+User id		Debt
+2		62023.2
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		20000.0		320000.0		0.0625
+HarddriveStorage		1		10000.0		320000.0		0.03125
+HarddriveStorage		2		0.0		320000.0		0.0
+HarddriveStorage		3		10000.0		320000.0		0.03125
+HarddriveStorage		4		0.0		320000.0		0.0
+HarddriveStorage		5		0.0		320000.0		0.0
+HarddriveStorage		6		0.0		320000.0		0.0
+HarddriveStorage		7		20000.0		320000.0		0.0625
+HarddriveStorage		8		0.0		320000.0		0.0
+HarddriveStorage		9		0.0		320000.0		0.0
+HarddriveStorage		10		0.0		320000.0		0.0
+HarddriveStorage		11		10000.0		500000.0		0.02
+HarddriveStorage		12		0.0		500000.0		0.0
+HarddriveStorage		13		0.0		500000.0		0.0
+HarddriveStorage		14		0.0		500000.0		0.0
+HarddriveStorage		15		0.0		500000.0		0.0
+HarddriveStorage		16		10000.0		500000.0		0.02
+HarddriveStorage		17		0.0		500000.0		0.0
+HarddriveStorage		18		10000.0		500000.0		0.02
+HarddriveStorage		19		10000.0		500000.0		0.02
+HarddriveStorage		20		10000.0		500000.0		0.02
+HarddriveStorage		21		0.0		500000.0		0.0
+HarddriveStorage		22		10000.0		500000.0		0.02
+HarddriveStorage		23		10000.0		1000000.0		0.01
+HarddriveStorage		24		10000.0		1000000.0		0.01
+HarddriveStorage		25		0.0		1000000.0		0.0
+HarddriveStorage		26		10000.0		1000000.0		0.01
+HarddriveStorage		27		10000.0		1000000.0		0.01
+HarddriveStorage		28		10000.0		1000000.0		0.01
+HarddriveStorage		29		20000.0		1000000.0		0.02
+HarddriveStorage		30		0.0		1000000.0		0.0
+HarddriveStorage		31		10000.0		1000000.0		0.01
+HarddriveStorage		32		0.0		1000000.0		0.0
+HarddriveStorage		33		30000.0		1000000.0		0.03
+HarddriveStorage		34		0.0		2000000.0		0.0
+HarddriveStorage		35		10000.0		2000000.0		0.005
+HarddriveStorage		36		10000.0		2000000.0		0.005
+HarddriveStorage		37		0.0		2000000.0		0.0
+HarddriveStorage		38		0.0		2000000.0		0.0
+HarddriveStorage		39		10000.0		2000000.0		0.005
+HarddriveStorage		40		0.0		2000000.0		0.0
+HarddriveStorage		41		0.0		2000000.0		0.0
+HarddriveStorage		42		0.0		2000000.0		0.0
+HarddriveStorage		43		10000.0		2000000.0		0.005
+HarddriveStorage		44		10000.0		2000000.0		0.005
+HarddriveStorage		45		0.0		4000000.0		0.0
+HarddriveStorage		46		20000.0		4000000.0		0.005
+HarddriveStorage		47		20000.0		4000000.0		0.005
+HarddriveStorage		48		0.0		4000000.0		0.0
+HarddriveStorage		49		10000.0		4000000.0		0.0025
+HarddriveStorage		50		0.0		4000000.0		0.0
+HarddriveStorage		51		0.0		4000000.0		0.0
+HarddriveStorage		52		10000.0		4000000.0		0.0025
+HarddriveStorage		53		10000.0		4000000.0		0.0025
+HarddriveStorage		54		10000.0		4000000.0		0.0025
+totalStored:360000.0		totalCapcity:8.252E7		AverageStorageUseage:0.004362578768783325
+*****PowerDatacenter: Datacenter_4*****
+User id		Debt
+2		90891.2
+**********************************
+MultiDcStorageSimImprov finished!

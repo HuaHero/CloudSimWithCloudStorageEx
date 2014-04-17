@@ -1,0 +1,251 @@
+Starting MultiDcStorage2...
+Initialising...
+File CloudFile0-blk1-rep0 who's id is 0 is inited!
+File CloudFile0-blk1-rep1 who's id is 1 is inited!
+File CloudFile0-blk1-rep2 who's id is 2 is inited!
+File CloudFile1-blk1-rep0 who's id is 3 is inited!
+File CloudFile1-blk1-rep1 who's id is 4 is inited!
+File CloudFile1-blk1-rep2 who's id is 5 is inited!
+File CloudFile2-blk1-rep0 who's id is 6 is inited!
+File CloudFile2-blk1-rep1 who's id is 7 is inited!
+File CloudFile2-blk1-rep2 who's id is 8 is inited!
+File CloudFile3-blk1-rep0 who's id is 9 is inited!
+File CloudFile3-blk1-rep1 who's id is 10 is inited!
+File CloudFile3-blk1-rep2 who's id is 11 is inited!
+File CloudFile4-blk1-rep0 who's id is 12 is inited!
+File CloudFile4-blk1-rep1 who's id is 13 is inited!
+File CloudFile4-blk1-rep2 who's id is 14 is inited!
+File CloudFile5-blk1-rep0 who's id is 15 is inited!
+File CloudFile5-blk1-rep1 who's id is 16 is inited!
+File CloudFile5-blk1-rep2 who's id is 17 is inited!
+File CloudFile6-blk1-rep0 who's id is 18 is inited!
+File CloudFile6-blk1-rep1 who's id is 19 is inited!
+File CloudFile6-blk1-rep2 who's id is 20 is inited!
+File CloudFile7-blk1-rep0 who's id is 21 is inited!
+File CloudFile7-blk1-rep1 who's id is 22 is inited!
+File CloudFile7-blk1-rep2 who's id is 23 is inited!
+File CloudFile8-blk1-rep0 who's id is 24 is inited!
+File CloudFile8-blk1-rep1 who's id is 25 is inited!
+File CloudFile8-blk1-rep2 who's id is 26 is inited!
+File CloudFile9-blk1-rep0 who's id is 27 is inited!
+File CloudFile9-blk1-rep1 who's id is 28 is inited!
+File CloudFile9-blk1-rep2 who's id is 29 is inited!
+Topology file: examples/org/cloudbus/cloudsim/examples/network/topology.brite
+it take 13.0125 seconds to write the replica #0 to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #1 to be stored in datacenter Datacenter_1 node #0
+it take 13.0125 seconds to write the replica #2 to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #3 to be stored in datacenter Datacenter_1 node #0
+it take 13.0125 seconds to write the replica #4 to be stored in datacenter Datacenter_0 node #1
+it take 13.0125 seconds to write the replica #5 to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #6 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #7 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #8 to be stored in datacenter Datacenter_1 node #0
+it take 13.0125 seconds to write the replica #9 to be stored in datacenter Datacenter_0 node #1
+it take 13.0125 seconds to write the replica #10 to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #11 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #12 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #13 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #14 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #15 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #16 to be stored in datacenter Datacenter_0 node #0
+it take 13.0125 seconds to write the replica #17 to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #18 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #19 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #20 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #21 to be stored in datacenter Datacenter_0 node #0
+it take 13.0125 seconds to write the replica #22 to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #23 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #24 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #25 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #26 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #27 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #28 to be stored in datacenter Datacenter_1 node #0
+it take 13.0125 seconds to write the replica #29 to be stored in datacenter Datacenter_0 node #1
+Starting CloudSim version 2.0
+GlobalBroker is starting...
+CSdBroker is starting...
+Datacenter_0 is starting...
+Datacenter_1 is starting...
+Entities started.
+0.0: CSdBroker: Cloud Resource List received with 2 resource(s)
+0.0:CSdBroker:Trying to Create VM#0 in Datacenter_0
+0.0:CSdBroker:Trying to Create VM#1 in Datacenter_0
+0.0:CSdBroker:Trying to Create VM#2 in Datacenter_1
+0.0: CSdBroker: VM #0 has been created in Datacenter #4, Host #0
+0.0: CSdBroker: VM #1 has been created in Datacenter #4, Host #1
+0.0: CSdBroker: VM #2 has been created in Datacenter #5, Host #0
+0.0: CSdBroker: Sending cloudlet 0 to VM #0
+0.0: CSdBroker: Sending cloudlet 1 to VM #1
+0.0: CSdBroker: Sending cloudlet 2 to VM #2
+0.0: CSdBroker: Sending cloudlet 3 to VM #0
+0.0: CSdBroker: Sending cloudlet 4 to VM #1
+0.0: CSdBroker: Sending cloudlet 5 to VM #2
+0.0: CSdBroker: Sending cloudlet 6 to VM #0
+0.0: CSdBroker: Sending cloudlet 7 to VM #1
+0.0: CSdBroker: Sending cloudlet 8 to VM #2
+0.0: CSdBroker: Sending cloudlet 9 to VM #0
+0.0: CSdBroker: Sending cloudlet 10 to VM #1
+0.0: CSdBroker: Sending cloudlet 11 to VM #2
+0.0: CSdBroker: Sending cloudlet 12 to VM #0
+0.0: CSdBroker: Sending cloudlet 13 to VM #1
+0.0: CSdBroker: Sending cloudlet 14 to VM #2
+0.0: CSdBroker: Sending cloudlet 15 to VM #0
+0.0: CSdBroker: Sending cloudlet 16 to VM #1
+0.0: CSdBroker: Sending cloudlet 17 to VM #2
+0.0: CSdBroker: Sending cloudlet 18 to VM #0
+0.0: CSdBroker: Sending cloudlet 19 to VM #1
+0.0: CSdBroker: Sending cloudlet 20 to VM #2
+0.0: CSdBroker: Sending cloudlet 21 to VM #0
+0.0: CSdBroker: Sending cloudlet 22 to VM #1
+0.0: CSdBroker: Sending cloudlet 23 to VM #2
+0.0: CSdBroker: Sending cloudlet 24 to VM #0
+0.0: CSdBroker: Sending cloudlet 25 to VM #1
+0.0: CSdBroker: Sending cloudlet 26 to VM #2
+0.0: CSdBroker: Sending cloudlet 27 to VM #0
+0.0: CSdBroker: Sending cloudlet 28 to VM #1
+0.0: CSdBroker: Sending cloudlet 29 to VM #2
+1.75: CSdBroker: Cloudlet 1 received
+1.75: CSdBroker: Cloudlet 7 received
+1.75: CSdBroker: Cloudlet 28 received
+2.5: CSdBroker: Cloudlet 2 received
+2.5: CSdBroker: Cloudlet 5 received
+2.5: CSdBroker: Cloudlet 17 received
+2.5: CSdBroker: Cloudlet 26 received
+2.5: CSdBroker: Cloudlet 29 received
+2.6: CSdBroker: Cloudlet 3 received
+2.6: CSdBroker: Cloudlet 12 received
+2.6: CSdBroker: Cloudlet 15 received
+2.6: CSdBroker: Cloudlet 18 received
+2.6: CSdBroker: Cloudlet 27 received
+21.2: CSdBroker: Cloudlet 24 received
+23.088: CSdBroker: Cloudlet 21 received
+23.33: CSdBroker: Cloudlet 23 received
+25.81: CSdBroker: Cloudlet 20 received
+27.79866666666667: CSdBroker: Cloudlet 25 received
+30.61066666666667: CSdBroker: Cloudlet 22 received
+31.453: CSdBroker: Cloudlet 14 received
+33.62066666666667: CSdBroker: Cloudlet 19 received
+34.887: CSdBroker: Cloudlet 11 received
+35.652666666666676: CSdBroker: Cloudlet 9 received
+36.83000000000001: CSdBroker: Cloudlet 16 received
+37.716: CSdBroker: Cloudlet 8 received
+40.19400000000002: CSdBroker: Cloudlet 13 received
+41.25600000000002: CSdBroker: Cloudlet 6 received
+43.565333333333356: CSdBroker: Cloudlet 10 received
+51.950000000000024: CSdBroker: Cloudlet 4 received
+63.53400000000003: CSdBroker: Cloudlet 0 received
+63.53400000000003: CSdBroker: All Cloudlets executed. Finishing...
+63.53400000000003: CSdBroker: Destroying VM #0
+63.53400000000003: CSdBroker: Destroying VM #1
+63.53400000000003: CSdBroker: Destroying VM #2
+CSdBroker is shutting down...
+it take 16.0225 seconds to write the replica #12 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #9 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #28 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #8 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #27 to be stored in datacenter Datacenter_0 node #0
+it take 13.0125 seconds to write the replica #14 to be stored in datacenter Datacenter_0 node #1
+it take 13.0125 seconds to write the replica #28 to be stored in datacenter Datacenter_0 node #1
+it take 16.0225 seconds to write the replica #29 to be stored in datacenter Datacenter_0 node #0
+it take 16.0225 seconds to write the replica #16 to be stored in datacenter Datacenter_1 node #0
+it take 16.0225 seconds to write the replica #5 to be stored in datacenter Datacenter_1 node #0
+Adding: globalBroker
+globalBroker is starting...
+200.0: globalBroker: Cloud Resource List received with 2 resource(s)
+200.0:globalBroker:Trying to Create VM#0 in Datacenter_0
+200.0:globalBroker:Trying to Create VM#1 in Datacenter_0
+200.0:globalBroker:Trying to Create VM#2 in Datacenter_1
+200.0: globalBroker: VM #0 has been created in Datacenter #4, Host #0
+200.0: globalBroker: VM #1 has been created in Datacenter #4, Host #1
+200.0: globalBroker: VM #2 has been created in Datacenter #5, Host #0
+200.0: globalBroker: Sending cloudlet 100 to VM #0
+200.0: globalBroker: Sending cloudlet 101 to VM #1
+200.0: globalBroker: Sending cloudlet 102 to VM #2
+200.0: globalBroker: Sending cloudlet 103 to VM #0
+200.0: globalBroker: Sending cloudlet 104 to VM #1
+200.0: globalBroker: Sending cloudlet 105 to VM #2
+200.0: globalBroker: Sending cloudlet 106 to VM #0
+200.0: globalBroker: Sending cloudlet 107 to VM #1
+200.0: globalBroker: Sending cloudlet 108 to VM #2
+200.0: globalBroker: Sending cloudlet 109 to VM #0
+266.83333333333337: globalBroker: Cloudlet 106 received
+266.83333333333337: globalBroker: Cloudlet 109 received
+266.83333333333337: globalBroker: Cloudlet 104 received
+266.83333333333337: globalBroker: Cloudlet 107 received
+266.91633333333334: globalBroker: Cloudlet 105 received
+266.91633333333334: globalBroker: Cloudlet 108 received
+267.2653333333334: globalBroker: Cloudlet 103 received
+278.1573333333334: globalBroker: Cloudlet 101 received
+278.2943333333334: globalBroker: Cloudlet 102 received
+284.0333333333334: globalBroker: Cloudlet 100 received
+284.0333333333334: globalBroker: All Cloudlets executed. Finishing...
+284.0333333333334: globalBroker: Destroying VM #0
+284.0333333333334: globalBroker: Destroying VM #1
+284.0333333333334: globalBroker: Destroying VM #2
+globalBroker is shutting down...
+Simulation: No more future events
+CloudInformationService: Notify all CloudSim entities for shutting down.
+CSdBroker is shutting down...
+Datacenter_0 is shutting down...
+Datacenter_1 is shutting down...
+globalBroker is shutting down...
+Simulation completed.
+
+========== OUTPUT ==========
+Cloudlet ID    STATUS    Data center ID    VM ID        Time    Start Time    Finish Time
+    1        SUCCESS        4            1            1.75        0            1.75
+    7        SUCCESS        4            1            1.75        0            1.75
+    28        SUCCESS        4            1            1.75        0            1.75
+    2        SUCCESS        5            2            2.5        0            2.5
+    5        SUCCESS        5            2            2.5        0            2.5
+    17        SUCCESS        5            2            2.5        0            2.5
+    26        SUCCESS        5            2            2.5        0            2.5
+    29        SUCCESS        5            2            2.5        0            2.5
+    3        SUCCESS        4            0            2.6        0            2.6
+    12        SUCCESS        4            0            2.6        0            2.6
+    15        SUCCESS        4            0            2.6        0            2.6
+    18        SUCCESS        4            0            2.6        0            2.6
+    27        SUCCESS        4            0            2.6        0            2.6
+    24        SUCCESS        4            0            21.2        0            21.2
+    21        SUCCESS        4            0            23.09        0            23.09
+    23        SUCCESS        5            2            23.33        0            23.33
+    20        SUCCESS        5            2            25.81        0            25.81
+    25        SUCCESS        4            1            27.8        0            27.8
+    22        SUCCESS        4            1            30.61        0            30.61
+    14        SUCCESS        5            2            31.45        0            31.45
+    19        SUCCESS        4            1            33.62        0            33.62
+    11        SUCCESS        5            2            34.89        0            34.89
+    9        SUCCESS        4            0            35.65        0            35.65
+    16        SUCCESS        4            1            36.83        0            36.83
+    8        SUCCESS        5            2            37.72        0            37.72
+    13        SUCCESS        4            1            40.19        0            40.19
+    6        SUCCESS        4            0            41.26        0            41.26
+    10        SUCCESS        4            1            43.57        0            43.57
+    4        SUCCESS        4            1            51.95        0            51.95
+    0        SUCCESS        4            0            63.53        0            63.53
+    106        SUCCESS        4            0            66.83        200            266.83
+    109        SUCCESS        4            0            66.83        200            266.83
+    104        SUCCESS        4            1            66.83        200            266.83
+    107        SUCCESS        4            1            66.83        200            266.83
+    105        SUCCESS        5            2            66.92        200            266.92
+    108        SUCCESS        5            2            66.92        200            266.92
+    103        SUCCESS        4            0            67.27        200            267.27
+    101        SUCCESS        4            1            78.16        200            278.16
+    102        SUCCESS        5            2            78.29        200            278.29
+    100        SUCCESS        4            0            84.03        200            284.03
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		140000.0		500000.0		0.28
+HarddriveStorage		1		110000.0		1000000.0		0.11
+*****PowerDatacenter: Datacenter_0*****
+User id		Debt
+3		1653.6
+6		1653.6
+**********************************
+StorageNode  Name:		Id:		 Used:		Capacity:		Usage:
+HarddriveStorage		0		150000.0		500000.0		0.3
+*****PowerDatacenter: Datacenter_1*****
+User id		Debt
+3		551.2
+6		551.2
+**********************************
+MultiDcStorage2 finished!
